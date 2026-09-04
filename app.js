@@ -30,7 +30,8 @@
     async function init() {
         bindEvents();
         try {
-            const res = await fetch('songs/index.json');
+            const res = await fetch('index.json');
+            if (!res.ok) throw new Error("Gagal mengambil index lagu");
             SONGS_LIST = await res.json();
             renderSongList();
 

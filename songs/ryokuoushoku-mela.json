@@ -1,0 +1,355 @@
+{
+    "id": "ryokuoushoku-mela",
+    "title": "Mela!",
+    "artist": "Ryokuoushoku Shakai",
+    "lines": [
+        {
+            "segments": [
+                { "text": "今", "ruby": "いま" },
+                { "text": "なんじゃない？" }
+            ],
+            "translation": "Bukankah sekaranglah saatnya?"
+        },
+        {
+            "segments": [
+                { "text": "メラメラとたぎる" }
+            ],
+            "translation": "Mendidih dan membara"
+        },
+        {
+            "segments": [
+                { "text": "眠", "ruby": "ねむ" },
+                { "text": "っているだけの" },
+                { "text": "正", "ruby": "せい" },
+                { "text": "義", "ruby": "ぎ" }
+            ],
+            "translation": "Keadilan yang selama ini hanya tertidur"
+        },
+        {
+            "segments": [
+                { "text": "こんな" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "も" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "のヒーローになりたいのさ" }
+            ],
+            "translation": "Orang sepertiku pun juga ingin menjadi pahlawanmu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "かっこいい" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "には" }
+            ],
+            "translation": "Bagi dirimu yang keren itu,"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "じゃ" },
+                { "text": "頼", "ruby": "たよ" },
+                { "text": "りないのかなんて" }
+            ],
+            "translation": "Apakah aku ini tak bisa diandalkan?"
+        },
+        {
+            "segments": [
+                { "text": "そりゃそうだよな" }
+            ],
+            "translation": "Yah, tentu saja begitu kan"
+        },
+        {
+            "segments": [
+                { "text": "だって" },
+                { "text": "今", "ruby": "いま" },
+                { "text": "もこうして" },
+                { "text": "迷", "ruby": "まよ" },
+                { "text": "ってる" }
+            ],
+            "translation": "Karena saat ini pun aku masih kebingungan seperti ini"
+        },
+        {
+            "segments": [
+                { "text": "手", "ruby": "て" },
+                { "text": "を" },
+                { "text": "取", "ruby": "と" },
+                { "text": "ってくれないか" }
+            ],
+            "translation": "Maukah kau menggenggam tanganku?"
+        },
+        {
+            "segments": [
+                { "text": "ギブとテイクさ" }
+            ],
+            "translation": "Ini adalah \"Give and Take\""
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "のヒーローだったように" }
+            ],
+            "translation": "Sama seperti saat kau dulu menjadi pahlawanku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "今", "ruby": "いま" },
+                { "text": "なんじゃない？" }
+            ],
+            "translation": "Bukankah sekaranglah saatnya?"
+        },
+        {
+            "segments": [
+                { "text": "メラメラとたぎる" }
+            ],
+            "translation": "Mendidih dan membara"
+        },
+        {
+            "segments": [
+                { "text": "こんな" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "にもひそむ" },
+                { "text": "正", "ruby": "せい" },
+                { "text": "義", "ruby": "ぎ" },
+                { "text": "が" }
+            ],
+            "translation": "Keadilan yang tersembunyi bahkan dalam diriku ini"
+        },
+        {
+            "segments": [
+                { "text": "どうしようもない" },
+                { "text": "衝", "ruby": "しょう" },
+                { "text": "動", "ruby": "どう" },
+                { "text": "に" },
+                { "text": "駆", "ruby": "か" },
+                { "text": "られて" }
+            ],
+            "translation": "Terdorong oleh dorongan yang tak tertahankan"
+        },
+        {
+            "segments": [
+                { "text": "ほら" },
+                { "text": "気", "ruby": "き" },
+                { "text": "づけば" },
+                { "text": "手", "ruby": "て" },
+                { "text": "を" },
+                { "text": "握", "ruby": "にぎ" },
+                { "text": "っている" }
+            ],
+            "translation": "Lihatlah, tanpa kusadari aku telah menggenggam tanganmu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "いったいぜんたい" }
+            ],
+            "translation": "Sebenarnya, apa-apaan sih?"
+        },
+        {
+            "segments": [
+                { "text": "そんなに" },
+                { "text": "荷", "ruby": "に" },
+                { "text": "物", "ruby": "もつ" },
+                { "text": "をしょいこんでどこへ" },
+                { "text": "行", "ruby": "い" },
+                { "text": "くの" }
+            ],
+            "translation": "Membawa beban sebanyak itu, kau mau pergi ke mana?"
+        },
+        {
+            "segments": [
+                { "text": "ねえねえ" },
+                { "text": "待", "ruby": "ま" },
+                { "text": "って" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "にちょっと" },
+                { "text": "預", "ruby": "あず" },
+                { "text": "けてみては？" }
+            ],
+            "translation": "Hei, tunggu dulu, cobalah titipkan sedikit beban itu padaku"
+        },
+        {
+            "segments": [
+                { "text": "信", "ruby": "しん" },
+                { "text": "じてばかりの" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "と" }
+            ],
+            "translation": "Diriku yang selalu mempercayai orang lain"
+        },
+        {
+            "segments": [
+                { "text": "信", "ruby": "しん" },
+                { "text": "じることが" },
+                { "text": "怖", "ruby": "こわ" },
+                { "text": "い" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" }
+            ],
+            "translation": "Dan dirimu yang merasa takut untuk percaya"
+        },
+        {
+            "segments": [
+                { "text": "どちらが" },
+                { "text": "正", "ruby": "ただ" },
+                { "text": "しいのかなんて" }
+            ],
+            "translation": "Siapakah di antara kita yang lebih benar?"
+        },
+        {
+            "segments": [
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "にもわからないさ" }
+            ],
+            "translation": "Tak akan ada seorang pun yang tahu"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らだけの" },
+                { "text": "世", "ruby": "せ" },
+                { "text": "界", "ruby": "かい" }
+            ],
+            "translation": "Di dunia yang hanya milik kita berdua"
+        },
+        {
+            "segments": [
+                { "text": "ギブとテイクさ" }
+            ],
+            "translation": "Ini adalah \"Give and Take\""
+        },
+        {
+            "segments": [
+                { "text": "おぎないあえた" },
+                { "text": "暁", "ruby": "あかつき" },
+                { "text": "には" },
+                { "text": "同", "ruby": "おな" },
+                { "text": "じ" },
+                { "text": "夢", "ruby": "ゆめ" },
+                { "text": "を" },
+                { "text": "見", "ruby": "み" },
+                { "text": "たい" }
+            ],
+            "translation": "Saat fajar ketika kita saling melengkapi tiba, aku ingin melihat mimpi yang sama denganmu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "はかっこいいと" },
+                { "text": "苦", "ruby": "くる" },
+                { "text": "しめて" }
+            ],
+            "translation": "Kau selalu menyiksa dirimu dengan bilang kau harus terlihat keren"
+        },
+        {
+            "segments": [
+                { "text": "ひとりぼっちにさせたのは" }
+            ],
+            "translation": "Yang membuatmu jadi sendirian seperti itu..."
+        },
+        {
+            "segments": [
+                { "text": "少", "ruby": "すこ" },
+                { "text": "し" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "のせいなんだよなごめんね" }
+            ],
+            "translation": "Sedikit banyak adalah salahku, maafkan aku ya"
+        },
+        {
+            "segments": [
+                { "text": "だけど" },
+                { "text": "見", "ruby": "み" },
+                { "text": "るべきはリアルだ" }
+            ],
+            "translation": "Namun yang harus kita lihat adalah kenyataan yang ada"
+        },
+        {
+            "segments": [
+                { "text": "いまこそ" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "が" },
+                { "text": "助", "ruby": "たす" },
+                { "text": "けるんだ" }
+            ],
+            "translation": "Justru saat inilah aku akan menolongmu"
+        },
+        {
+            "segments": [
+                { "text": "かかえないで" },
+                { "text": "信", "ruby": "しん" },
+                { "text": "じて" },
+                { "text": "頼", "ruby": "たよ" },
+                { "text": "ってほしいんだ" }
+            ],
+            "translation": "Jangan menanggungnya sendirian, aku ingin kau percaya dan mengandalkanku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "今", "ruby": "いま" },
+                { "text": "なんじゃない？" }
+            ],
+            "translation": "Bukankah sekaranglah saatnya?"
+        },
+        {
+            "segments": [
+                { "text": "メラメラとたぎる" }
+            ],
+            "translation": "Mendidih dan membara"
+        },
+        {
+            "segments": [
+                { "text": "こんな" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "にも" },
+                { "text": "眠", "ruby": "ねむ" },
+                { "text": "る" },
+                { "text": "正", "ruby": "せい" },
+                { "text": "義", "ruby": "ぎ" },
+                { "text": "が" }
+            ],
+            "translation": "Keadilan yang tertidur bahkan di dalam diriku ini"
+        },
+        {
+            "segments": [
+                { "text": "どうしようもない" },
+                { "text": "衝", "ruby": "しょう" },
+                { "text": "動", "ruby": "どう" },
+                { "text": "に" },
+                { "text": "駆", "ruby": "か" },
+                { "text": "られて" }
+            ],
+            "translation": "Terdorong oleh dorongan yang tak tertahankan"
+        },
+        {
+            "segments": [
+                { "text": "ほら" },
+                { "text": "気", "ruby": "き" },
+                { "text": "づけば" },
+                { "text": "手", "ruby": "て" },
+                { "text": "を" },
+                { "text": "握", "ruby": "にぎ" },
+                { "text": "っている" }
+            ],
+            "translation": "Lihatlah, tanpa kusadari aku telah menggenggam tanganmu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "ほら" },
+                { "text": "気", "ruby": "き" },
+                { "text": "づけば" },
+                { "text": "手", "ruby": "て" },
+                { "text": "を" },
+                { "text": "握", "ruby": "にぎ" },
+                { "text": "っている" }
+            ],
+            "translation": "Lihatlah, tanpa kusadari aku telah menggenggam tanganmu"
+        }
+    ]
+}

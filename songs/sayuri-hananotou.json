@@ -1,0 +1,310 @@
+{
+    "id": "sayuri-hananotou",
+    "title": "Hana no Tou",
+    "artist": "Sayuri",
+    "lines": [
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が" },
+                { "text": "持", "ruby": "も" },
+                { "text": "ってきた" },
+                { "text": "漫", "ruby": "まん" },
+                { "text": "画", "ruby": "が" }
+            ],
+            "translation": "Manga yang pernah kau bawa ke sini"
+        },
+        {
+            "segments": [
+                { "text": "くれた" },
+                { "text": "知", "ruby": "し" },
+                { "text": "らない" },
+                { "text": "名", "ruby": "な" },
+                { "text": "前", "ruby": "まえ" },
+                { "text": "のお" },
+                { "text": "花", "ruby": "はな" }
+            ],
+            "translation": "Bunga dengan nama yang tak kuketahui yang pernah kau berikan"
+        },
+        {
+            "segments": [
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "きょう" },
+                { "text": "はまだ" },
+                { "text": "来", "ruby": "こ" },
+                { "text": "ないかな？" }
+            ],
+            "translation": "Apakah hari ini kau belum akan datang?"
+        },
+        {
+            "segments": [
+                { "text": "初", "ruby": "はじ" },
+                { "text": "めての" },
+                { "text": "感", "ruby": "かん" },
+                { "text": "情", "ruby": "じょう" },
+                { "text": "知", "ruby": "し" },
+                { "text": "ってしまった" }
+            ],
+            "translation": "Aku baru saja mengetahui perasaan ini untuk pertama kalinya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "窓", "ruby": "まど" },
+                { "text": "に" },
+                { "text": "飾", "ruby": "かざ" },
+                { "text": "った" },
+                { "text": "絵", "ruby": "かい" },
+                { "text": "画", "ruby": "が" },
+                { "text": "をなぞって" }
+            ],
+            "translation": "Menelusuri lukisan yang menghiasi jendela"
+        },
+        {
+            "segments": [
+                { "text": "ひとりで" },
+                { "text": "宇", "ruby": "う" },
+                { "text": "宙", "ruby": "ちゅう" },
+                { "text": "を" },
+                { "text": "旅", "ruby": "たび" },
+                { "text": "して" }
+            ],
+            "translation": "Melakukan perjalanan menjelajahi luar angkasa sendirian"
+        },
+        {
+            "segments": [
+                { "text": "それだけでいいはずだったのに" }
+            ],
+            "translation": "Seharusnya hanya dengan itu saja sudah cukup bagiku, tapi..."
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "の" },
+                { "text": "手", "ruby": "て" },
+                { "text": "を" },
+                { "text": "握", "ruby": "にぎ" },
+                { "text": "ってしまったら" }
+            ],
+            "translation": "Bila aku tanpa sadar telah menggenggam tanganmu ini..."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "孤", "ruby": "こ" },
+                { "text": "独", "ruby": "どく" },
+                { "text": "を" },
+                { "text": "知", "ruby": "し" },
+                { "text": "らないこの" },
+                { "text": "街", "ruby": "まち" },
+                { "text": "には" }
+            ],
+            "translation": "Ke kota yang tidak mengenal apa itu kesepian ini"
+        },
+        {
+            "segments": [
+                { "text": "もう" },
+                { "text": "二", "ruby": "に" },
+                { "text": "度", "ruby": "ど" },
+                { "text": "と" },
+                { "text": "帰", "ruby": "かえ" },
+                { "text": "ってくることはできないのでしょう" }
+            ],
+            "translation": "Mungkin aku tidak akan pernah bisa kembali lagi ke sana kan"
+        },
+        {
+            "segments": [
+                { "text": "いくらでも" },
+                { "text": "迷", "ruby": "まよ" },
+                { "text": "いながら" }
+            ],
+            "translation": "Sembari tersesat kebingungan sebanyak apapun itu"
+        },
+        {
+            "segments": [
+                { "text": "光", "ruby": "ひかり" },
+                { "text": "も" },
+                { "text": "影", "ruby": "かげ" },
+                { "text": "も" },
+                { "text": "見", "ruby": "み" },
+                { "text": "に" },
+                { "text": "行", "ruby": "い" },
+                { "text": "こう" }
+            ],
+            "translation": "Mari kita pergi melihat baik cahaya maupun bayangannya"
+        },
+        {
+            "segments": [
+                { "text": "歌", "ruby": "うた" },
+                { "text": "って" },
+                { "text": "聞", "ruby": "き" },
+                { "text": "かせてこの" },
+                { "text": "話", "ruby": "はなし" },
+                { "text": "の" },
+                { "text": "続", "ruby": "つづ" },
+                { "text": "き" }
+            ],
+            "translation": "Nyanyikan dan perdengarkanlah kelanjutan dari cerita ini"
+        },
+        {
+            "segments": [
+                { "text": "連", "ruby": "つ" },
+                { "text": "れて" },
+                { "text": "行", "ruby": "い" },
+                { "text": "って" },
+                { "text": "見", "ruby": "み" },
+                { "text": "たことない" },
+                { "text": "星", "ruby": "ほし" },
+                { "text": "まで" }
+            ],
+            "translation": "Bawalah aku hingga ke bintang yang belum pernah kita lihat sebelumnya"
+        },
+        {
+            "segments": [
+                { "text": "世", "ruby": "せ" },
+                { "text": "界", "ruby": "かい" },
+                { "text": "の" },
+                { "text": "端", "ruby": "はし" },
+                { "text": "と" },
+                { "text": "端", "ruby": "はし" },
+                { "text": "を" },
+                { "text": "結", "ruby": "むす" },
+                { "text": "んで" }
+            ],
+            "translation": "Lalu hubungkan dan satukanlah kedua ujung dari dunia ini"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "にも" },
+                { "text": "解", "ruby": "と" },
+                { "text": "けない" },
+                { "text": "謎", "ruby": "なぞ" },
+                { "text": "を" },
+                { "text": "抱", "ruby": "いだ" },
+                { "text": "いて" }
+            ],
+            "translation": "Mendekap sebuah misteri yang tak bisa dipecahkan siapapun"
+        },
+        {
+            "segments": [
+                { "text": "(I will go my own way)" }
+            ],
+            "translation": "(Aku akan menempuh jalanku sendiri)"
+        },
+        {
+            "segments": [
+                { "text": "あなたと" },
+                { "text": "手", "ruby": "て" },
+                { "text": "をつないで" }
+            ],
+            "translation": "Dengan menggenggam erat tanganmu"
+        },
+        {
+            "segments": [
+                { "text": "(This is my own story)" }
+            ],
+            "translation": "(Ini adalah ceritaku sendiri)"
+        },
+        {
+            "segments": [
+                { "text": "どこまで" },
+                { "text": "行", "ruby": "い" },
+                { "text": "けるかな？" }
+            ],
+            "translation": "Sejauh apakah kita bisa melangkah?"
+        },
+        {
+            "segments": [
+                { "text": "(I will go my own way)" }
+            ],
+            "translation": "(Aku akan menempuh jalanku sendiri)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "孤", "ruby": "こ" },
+                { "text": "独", "ruby": "どく" },
+                { "text": "を" },
+                { "text": "知", "ruby": "し" },
+                { "text": "らないこの" },
+                { "text": "街", "ruby": "まち" },
+                { "text": "には" }
+            ],
+            "translation": "Ke kota yang tidak mengenal apa itu kesepian ini"
+        },
+        {
+            "segments": [
+                { "text": "もう" },
+                { "text": "二", "ruby": "に" },
+                { "text": "度", "ruby": "ど" },
+                { "text": "と" },
+                { "text": "帰", "ruby": "かえ" },
+                { "text": "ってくることはできないのでしょう" }
+            ],
+            "translation": "Mungkin aku tidak akan pernah bisa kembali lagi ke sana kan"
+        },
+        {
+            "segments": [
+                { "text": "いくらでも" },
+                { "text": "迷", "ruby": "まよ" },
+                { "text": "いながら" }
+            ],
+            "translation": "Sembari tersesat kebingungan sebanyak apapun itu"
+        },
+        {
+            "segments": [
+                { "text": "光", "ruby": "ひかり" },
+                { "text": "も" },
+                { "text": "影", "ruby": "かげ" },
+                { "text": "も" },
+                { "text": "見", "ruby": "み" },
+                { "text": "に" },
+                { "text": "行", "ruby": "い" },
+                { "text": "こう" }
+            ],
+            "translation": "Mari kita pergi melihat baik cahaya maupun bayangannya"
+        },
+        {
+            "segments": [
+                { "text": "歌", "ruby": "うた" },
+                { "text": "って" },
+                { "text": "聞", "ruby": "き" },
+                { "text": "かせてこの" },
+                { "text": "話", "ruby": "はなし" },
+                { "text": "の" },
+                { "text": "続", "ruby": "つづ" },
+                { "text": "き" }
+            ],
+            "translation": "Nyanyikan dan perdengarkanlah kelanjutan dari cerita ini"
+        },
+        {
+            "segments": [
+                { "text": "連", "ruby": "つ" },
+                { "text": "れて" },
+                { "text": "行", "ruby": "い" },
+                { "text": "って" },
+                { "text": "見", "ruby": "み" },
+                { "text": "たことない" },
+                { "text": "星", "ruby": "ほし" },
+                { "text": "まで" }
+            ],
+            "translation": "Bawalah aku hingga ke bintang yang belum pernah kita lihat sebelumnya"
+        },
+        {
+            "segments": [
+                { "text": "世", "ruby": "せ" },
+                { "text": "界", "ruby": "かい" },
+                { "text": "の" },
+                { "text": "端", "ruby": "はし" },
+                { "text": "と" },
+                { "text": "端", "ruby": "はし" },
+                { "text": "を" },
+                { "text": "結", "ruby": "むす" },
+                { "text": "んで" }
+            ],
+            "translation": "Lalu hubungkan dan satukanlah kedua ujung dari dunia ini"
+        }
+    ]
+}

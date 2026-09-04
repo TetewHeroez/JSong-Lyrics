@@ -1,0 +1,430 @@
+{
+    "id": "kessoku-seizaninaretara",
+    "title": "Seiza ni naretara (If I Could Be a Constellation)",
+    "artist": "Kessoku Band",
+    "lines": [
+        {
+            "segments": [
+                { "text": "もうすぐ" },
+                { "text": "時", "ruby": "と" },
+                { "text": "計", "ruby": "けい" },
+                { "text": "は6" },
+                { "text": "時", "ruby": "じ" }
+            ],
+            "translation": "Jam sebentar lagi menunjukkan pukul 6"
+        },
+        {
+            "segments": [
+                { "text": "もうそこに" },
+                { "text": "一", "ruby": "いち" },
+                { "text": "番", "ruby": "ばん" },
+                { "text": "星", "ruby": "ぼし" }
+            ],
+            "translation": "Bintang senja (bintang pertama) sudah terlihat di sana"
+        },
+        {
+            "segments": [
+                { "text": "影", "ruby": "かげ" },
+                { "text": "を" },
+                { "text": "踏", "ruby": "ふ" },
+                { "text": "んで" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "に" },
+                { "text": "紛", "ruby": "まぎ" },
+                { "text": "れたくなる" },
+                { "text": "帰", "ruby": "かえ" },
+                { "text": "り" },
+                { "text": "道", "ruby": "みち" }
+            ],
+            "translation": "Dalam perjalanan pulang, aku menginjak bayangan dan rasanya ingin membaur ke dalam malam"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "どんなに" },
+                { "text": "探", "ruby": "さが" },
+                { "text": "してみても" }
+            ],
+            "translation": "Bagaimanapun aku mencoba mencarinya"
+        },
+        {
+            "segments": [
+                { "text": "一", "ruby": "ひと" },
+                { "text": "つしかない" },
+                { "text": "星", "ruby": "ほし" }
+            ],
+            "translation": "Itu adalah satu-satunya bintang yang ada"
+        },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なん" },
+                { "text": "億", "ruby": "おく" },
+                { "text": "光", "ruby": "こう" },
+                { "text": "年", "ruby": "ねん" },
+                { "text": "離", "ruby": "はな" },
+                { "text": "れたところからあんなに" },
+                { "text": "輝", "ruby": "かがや" },
+                { "text": "く" }
+            ],
+            "translation": "Dari jarak ratusan juta tahun cahaya, ia bersinar sebegitu terangnya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "いいな" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "はみんなから" },
+                { "text": "愛", "ruby": "あい" },
+                { "text": "されて" }
+            ],
+            "translation": "Enak ya dirimu, kau dicintai oleh semua orang"
+        },
+        {
+            "segments": [
+                { "text": "「いいや" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "はずっと" },
+                { "text": "一", "ruby": "ひと" },
+                { "text": "人", "ruby": "り" },
+                { "text": "きりさ」" }
+            ],
+            "translation": "\"Tidak, aku selalu merasa sendirian\""
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" },
+                { "text": "集", "ruby": "あつ" },
+                { "text": "まって" },
+                { "text": "星", "ruby": "せい" },
+                { "text": "座", "ruby": "ざ" },
+                { "text": "になれたら" }
+            ],
+            "translation": "Andai aku bisa berkumpul denganmu dan menjadi sebuah rasi bintang"
+        },
+        {
+            "segments": [
+                { "text": "星", "ruby": "ほし" },
+                { "text": "降", "ruby": "ふ" },
+                { "text": "る" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "一", "ruby": "いっ" },
+                { "text": "瞬", "ruby": "しゅん" },
+                { "text": "の" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "い" },
+                { "text": "事", "ruby": "ごと" }
+            ],
+            "translation": "Pada malam bertabur bintang, sebuah harapan sesaat"
+        },
+        {
+            "segments": [
+                { "text": "きらめいてゆらめいて" },
+                { "text": "震", "ruby": "ふる" },
+                { "text": "えてるシグナル" }
+            ],
+            "translation": "Binar cahaya, kelap-kelip, sinyal yang bergetar"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" },
+                { "text": "集", "ruby": "あつ" },
+                { "text": "まって" },
+                { "text": "星", "ruby": "せい" },
+                { "text": "座", "ruby": "ざ" },
+                { "text": "になれたら" }
+            ],
+            "translation": "Andai aku bisa berkumpul denganmu dan menjadi sebuah rasi bintang"
+        },
+        {
+            "segments": [
+                { "text": "空", "ruby": "そら" },
+                { "text": "見", "ruby": "み" },
+                { "text": "上", "ruby": "あ" },
+                { "text": "げて" },
+                { "text": "指", "ruby": "ゆび" },
+                { "text": "を" },
+                { "text": "差", "ruby": "さ" },
+                { "text": "されるような" }
+            ],
+            "translation": "Seakan-akan ditunjuk dari bawah saat orang-orang melihat ke langit"
+        },
+        {
+            "segments": [
+                { "text": "つないだ" },
+                { "text": "線", "ruby": "せん" },
+                { "text": "解", "ruby": "ほど" },
+                { "text": "かないで" }
+            ],
+            "translation": "Tolong jangan lepaskan garis yang telah saling menghubungkan kita"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "がどんなに" },
+                { "text": "眩", "ruby": "まぶ" },
+                { "text": "しくても" }
+            ],
+            "translation": "Tidak peduli seberapa terang diriku bersinar"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "もうすぐ" },
+                { "text": "時", "ruby": "と" },
+                { "text": "計", "ruby": "けい" },
+                { "text": "は8" },
+                { "text": "時", "ruby": "じ" }
+            ],
+            "translation": "Jam sebentar lagi menunjukkan pukul 8"
+        },
+        {
+            "segments": [
+                { "text": "夜", "ruby": "よ" },
+                { "text": "空", "ruby": "ぞら" },
+                { "text": "に" },
+                { "text": "満", "ruby": "まん" },
+                { "text": "天", "ruby": "てん" },
+                { "text": "の" },
+                { "text": "星", "ruby": "ほし" }
+            ],
+            "translation": "Langit malam yang penuh dengan bintang"
+        },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なん" },
+                { "text": "億", "ruby": "おく" },
+                { "text": "光", "ruby": "こう" },
+                { "text": "年", "ruby": "ねん" },
+                { "text": "離", "ruby": "はな" },
+                { "text": "れたところにはもうないかもしれない" }
+            ],
+            "translation": "Di tempat yang berjarak ratusan juta tahun cahaya itu mungkin sudah tidak ada lagi"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "月", "ruby": "つき" },
+                { "text": "が" },
+                { "text": "綺", "ruby": "き" },
+                { "text": "麗", "ruby": "れい" },
+                { "text": "で" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "きそうになるのは" }
+            ],
+            "translation": "Alasan aku hampir menangis melihat bulan yang indah ini adalah..."
+        },
+        {
+            "segments": [
+                { "text": "いつの" },
+                { "text": "日", "ruby": "ひ" },
+                { "text": "にか" },
+                { "text": "別", "ruby": "わか" },
+                { "text": "れが" },
+                { "text": "来", "ruby": "く" },
+                { "text": "るから" }
+            ],
+            "translation": "Karena suatu hari nanti saat perpisahan pasti akan tiba"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" },
+                { "text": "集", "ruby": "あつ" },
+                { "text": "まって" },
+                { "text": "星", "ruby": "せい" },
+                { "text": "座", "ruby": "ざ" },
+                { "text": "になれたら" }
+            ],
+            "translation": "Andai aku bisa berkumpul denganmu dan menjadi sebuah rasi bintang"
+        },
+        {
+            "segments": [
+                { "text": "彗", "ruby": "すい" },
+                { "text": "星", "ruby": "せい" },
+                { "text": "みたい" },
+                { "text": "流", "ruby": "なが" },
+                { "text": "れるひとりごと" }
+            ],
+            "translation": "Gumaman yang mengalir bagaikan komet"
+        },
+        {
+            "segments": [
+                { "text": "消", "ruby": "き" },
+                { "text": "えていく" },
+                { "text": "残", "ruby": "ざん" },
+                { "text": "像", "ruby": "ぞう" },
+                { "text": "は" },
+                { "text": "真", "ruby": "ま" },
+                { "text": "夜", "ruby": "よ" },
+                { "text": "中", "ruby": "なか" },
+                { "text": "のプリズム" }
+            ],
+            "translation": "Sisa bayangan yang menghilang adalah prisma di tengah malam"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" },
+                { "text": "集", "ruby": "あつ" },
+                { "text": "まって" },
+                { "text": "星", "ruby": "せい" },
+                { "text": "座", "ruby": "ざ" },
+                { "text": "になれたら" }
+            ],
+            "translation": "Andai aku bisa berkumpul denganmu dan menjadi sebuah rasi bintang"
+        },
+        {
+            "segments": [
+                { "text": "切", "ruby": "せつ" },
+                { "text": "なる" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "い" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "かに" },
+                { "text": "届", "ruby": "とど" },
+                { "text": "いたら" }
+            ],
+            "translation": "Jika harapan tulus ini bisa tersampaikan pada seseorang"
+        },
+        {
+            "segments": [
+                { "text": "変", "ruby": "か" },
+                { "text": "われるかな" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "の" },
+                { "text": "淵", "ruby": "ふち" },
+                { "text": "を" }
+            ],
+            "translation": "Bisakah aku berubah? Di tepian malam..."
+        },
+        {
+            "segments": [
+                { "text": "なぞるようなこんな" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "でも" }
+            ],
+            "translation": "Bisakah diriku yang hanya menelusurinya ini berubah?"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "遥", "ruby": "はる" },
+                { "text": "か" },
+                { "text": "彼", "ruby": "かな" },
+                { "text": "方", "ruby": "た" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "出", "ruby": "で" },
+                { "text": "会", "ruby": "あ" },
+                { "text": "ってしまった" }
+            ],
+            "translation": "Di kejauhan sana, kita tanpa sengaja telah saling bertemu"
+        },
+        {
+            "segments": [
+                { "text": "カルマだから" },
+                { "text": "何", "ruby": "なん" },
+                { "text": "度", "ruby": "ど" },
+                { "text": "も" },
+                { "text": "出", "ruby": "で" },
+                { "text": "会", "ruby": "あ" },
+                { "text": "ってしまうよ" }
+            ],
+            "translation": "Karena ini adalah takdir, kita pasti akan saling bertemu berkali-kali"
+        },
+        {
+            "segments": [
+                { "text": "雲", "ruby": "くも" },
+                { "text": "の" },
+                { "text": "隙", "ruby": "すき" },
+                { "text": "間", "ruby": "ま" },
+                { "text": "で" }
+            ],
+            "translation": "Di celah-celah awan"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" },
+                { "text": "集", "ruby": "あつ" },
+                { "text": "まって" },
+                { "text": "星", "ruby": "せい" },
+                { "text": "座", "ruby": "ざ" },
+                { "text": "になれたら" }
+            ],
+            "translation": "Andai aku bisa berkumpul denganmu dan menjadi sebuah rasi bintang"
+        },
+        {
+            "segments": [
+                { "text": "夜", "ruby": "よる" },
+                { "text": "広", "ruby": "ひろ" },
+                { "text": "げて" },
+                { "text": "描", "ruby": "えが" },
+                { "text": "こう" },
+                { "text": "絵", "ruby": "え" },
+                { "text": "空", "ruby": "そら" },
+                { "text": "事", "ruby": "ごと" }
+            ],
+            "translation": "Membentangkan malam dan mari kita menggambar imajinasi"
+        },
+        {
+            "segments": [
+                { "text": "暗", "ruby": "くら" },
+                { "text": "闇", "ruby": "やみ" },
+                { "text": "を" },
+                { "text": "照", "ruby": "て" },
+                { "text": "らすような" },
+                { "text": "満", "ruby": "まん" },
+                { "text": "月", "ruby": "げつ" },
+                { "text": "じゃなくても" }
+            ],
+            "translation": "Meskipun bukan bulan purnama yang bisa menerangi kegelapan"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "だから" },
+                { "text": "集", "ruby": "あつ" },
+                { "text": "まって" },
+                { "text": "星", "ruby": "せい" },
+                { "text": "座", "ruby": "ざ" },
+                { "text": "になりたい" }
+            ],
+            "translation": "Karena itulah, aku ingin kita berkumpul dan menjadi sebuah rasi bintang"
+        },
+        {
+            "segments": [
+                { "text": "いろとりどりの" },
+                { "text": "光", "ruby": "ひかり" },
+                { "text": "放", "ruby": "はな" },
+                { "text": "つような" }
+            ],
+            "translation": "Seakan-akan memancarkan cahaya yang berwarna-warni"
+        },
+        {
+            "segments": [
+                { "text": "つないだ" },
+                { "text": "線", "ruby": "せん" },
+                { "text": "解", "ruby": "ほど" },
+                { "text": "かないよ" }
+            ],
+            "translation": "Aku takkan pernah melepaskan garis yang telah saling menghubungkan kita"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "がどんなに" },
+                { "text": "眩", "ruby": "まぶ" },
+                { "text": "しくても" }
+            ],
+            "translation": "Tidak peduli seberapa terang dirimu bersinar"
+        }
+    ]
+}

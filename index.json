@@ -1,0 +1,86 @@
+[
+    {
+        "id": "alia-limit",
+        "title": "limit",
+        "artist": "AliA",
+        "file": "songs/alia-limit.json"
+    },
+    {
+        "id": "alia-simple",
+        "title": "simple",
+        "artist": "AliA",
+        "file": "songs/alia-simple.json"
+    },
+    {
+        "id": "yuaru-asunoyozora",
+        "title": "Asu no Yozora Shoukaihan",
+        "artist": "Yuaru",
+        "file": "songs/yuaru-asunoyozora.json"
+    },
+    {
+        "id": "alia-bokugabokudearutameni",
+        "title": "Boku ga Boku de Aru Tame ni",
+        "artist": "AliA",
+        "file": "songs/alia-bokugabokudearutameni.json"
+    },
+    {
+        "id": "alia-happybirthday",
+        "title": "Happy Birthday",
+        "artist": "AliA",
+        "file": "songs/alia-happybirthday.json"
+    },
+    {
+        "id": "mafumafu-inochikirawareteiru",
+        "title": "Inochi ni Kirawarete iru.",
+        "artist": "Mafumafu",
+        "file": "songs/mafumafu-inochikirawareteiru.json"
+    },
+    {
+        "id": "alia-yubisaki",
+        "title": "yubisaki",
+        "artist": "AliA",
+        "file": "songs/alia-yubisaki.json"
+    },
+    {
+        "id": "alia-cinderellastory",
+        "title": "Cinderella Story",
+        "artist": "AliA",
+        "file": "songs/alia-cinderellastory.json"
+    },
+    {
+        "id": "alia-futagozaryuuseigun",
+        "title": "Futagoza Ryuuseigun",
+        "artist": "AliA",
+        "file": "songs/alia-futagozaryuuseigun.json"
+    },
+    {
+        "id": "suzuki-daysofdash",
+        "title": "DAYS of DASH",
+        "artist": "Suzuki Konomi",
+        "file": "songs/suzuki-daysofdash.json"
+    },
+    {
+        "id": "kessoku-seizaninaretara",
+        "title": "Seiza ni naretara",
+        "artist": "Kessoku Band",
+        "file": "songs/kessoku-seizaninaretara.json"
+    },
+    {
+        "id": "rokudenashi-spica",
+        "title": "Spica",
+        "artist": "Rokudenashi",
+        "file": "songs/rokudenashi-spica.json"
+    },
+    {
+        "id": "ryokuoushoku-mela",
+        "title": "Mela!",
+        "artist": "Ryokuoushoku Shakai",
+        "file": "songs/ryokuoushoku-mela.json"
+    },
+    {
+        "id": "sayuri-hananotou",
+        "title": "Hana no Tou",
+        "artist": "Sayuri",
+        "file": "songs/sayuri-hananotou.json"
+    }
+]

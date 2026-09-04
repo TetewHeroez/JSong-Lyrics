@@ -1,0 +1,639 @@
+{
+    "id": "alia-cinderellastory",
+    "title": "Cinderella Story",
+    "artist": "AliA",
+    "lines": [
+        {
+            "segments": [
+                { "text": "どうせならシンデレラストーリー" }
+            ],
+            "translation": "Toh pada akhirnya ini adalah Cinderella Story"
+        },
+        {
+            "segments": [
+                { "text": "目", "ruby": "め" },
+                { "text": "指", "ruby": "ざ" },
+                { "text": "してみてもいいだろ" }
+            ],
+            "translation": "Tak masalah kan jika aku mencoba menggapainya?"
+        },
+        {
+            "segments": [
+                { "text": "歩", "ruby": "ある" },
+                { "text": "くだけで" },
+                { "text": "皆", "ruby": "みな" },
+                { "text": "　" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "懸", "ruby": "が" },
+                { "text": "け" }
+            ],
+            "translation": "Hanya berjalan saja semuanya mempertaruhkan nyawa"
+        },
+        {
+            "segments": [
+                { "text": "なら" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "き" },
+                { "text": "虫", "ruby": "むし" },
+                { "text": "でも" },
+                { "text": "悪", "ruby": "わる" },
+                { "text": "くはないよな" }
+            ],
+            "translation": "Kalau begitu, menjadi cengeng pun tak ada salahnya kan?"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "まだ" },
+                { "text": "少", "ruby": "すこ" },
+                { "text": "しだけ" },
+                { "text": "時", "ruby": "じ" },
+                { "text": "間", "ruby": "かん" },
+                { "text": "が" },
+                { "text": "欲", "ruby": "ほ" },
+                { "text": "しいなら" }
+            ],
+            "translation": "Jika kau masih membutuhkan sedikit waktu lagi"
+        },
+        {
+            "segments": [
+                { "text": "涙", "ruby": "なみだ" },
+                { "text": "見", "ruby": "み" },
+                { "text": "せずに1" },
+                { "text": "人", "ruby": "ひとり" },
+                { "text": "でいたいなら" }
+            ],
+            "translation": "Jika kau ingin sendirian tanpa memperlihatkan air mata"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "も" },
+                { "text": "立", "ruby": "た" },
+                { "text": "ち" },
+                { "text": "止", "ruby": "ど" },
+                { "text": "まって" },
+                { "text": "昼", "ruby": "ひる" },
+                { "text": "寝", "ruby": "ね" },
+                { "text": "でもしてるから" }
+            ],
+            "translation": "Aku pun akan berhenti melangkah dan tidur siang sejenak"
+        },
+        {
+            "segments": [
+                { "text": "準", "ruby": "じゅん" },
+                { "text": "備", "ruby": "び" },
+                { "text": "できたらそっと" },
+                { "text": "肩", "ruby": "かた" },
+                { "text": "を" },
+                { "text": "叩", "ruby": "たた" },
+                { "text": "いてよ" }
+            ],
+            "translation": "Jadi bila kau sudah siap, tepuklah bahuku dengan pelan"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "破", "ruby": "やぶ" },
+                { "text": "れかけた" },
+                { "text": "未", "ruby": "み" },
+                { "text": "来", "ruby": "らい" },
+                { "text": "地", "ruby": "ち" },
+                { "text": "図", "ruby": "ず" }
+            ],
+            "translation": "Peta masa depan yang sudah hampir robek itu"
+        },
+        {
+            "segments": [
+                { "text": "もう" },
+                { "text": "必", "ruby": "ひつ" },
+                { "text": "要", "ruby": "よう" },
+                { "text": "もないから" }
+            ],
+            "translation": "Kini sudah tak dibutuhkan lagi"
+        },
+        {
+            "segments": [
+                { "text": "クシャクシャに" },
+                { "text": "丸", "ruby": "まる" },
+                { "text": "めて" },
+                { "text": "狙", "ruby": "ねら" },
+                { "text": "いを" },
+                { "text": "定", "ruby": "さだ" },
+                { "text": "めてゴミ" },
+                { "text": "箱", "ruby": "ばこ" },
+                { "text": "に" }
+            ],
+            "translation": "Remaslah jadi gumpalan, bidik, dan lemparkan ke tempat sampah"
+        },
+        {
+            "segments": [
+                { "text": "「" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らならば」" }
+            ],
+            "translation": "\"Jika itu adalah kita\""
+        },
+        {
+            "segments": [
+                { "text": "それだけでできる" },
+                { "text": "気", "ruby": "き" },
+                { "text": "がするんだよ" }
+            ],
+            "translation": "Hanya dengan pikiran itu aku merasa bisa melakukannya"
+        },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "も" },
+                { "text": "根", "ruby": "こん" },
+                { "text": "拠", "ruby": "きょ" },
+                { "text": "なんてなくて" }
+            ],
+            "translation": "Meski tanpa ada dasar atau bukti apa pun"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "の" },
+                { "text": "手", "ruby": "て" },
+                { "text": "をぎゅっと" },
+                { "text": "握", "ruby": "にぎ" },
+                { "text": "りしめて" }
+            ],
+            "translation": "Aku akan menggenggam tanganmu erat-erat"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "が" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "で" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "だから" }
+            ],
+            "translation": "Karena diriku adalah dirimu dan dirimu adalah diriku"
+        },
+        {
+            "segments": [
+                { "text": "いざ" },
+                { "text": "行", "ruby": "い" },
+                { "text": "こう" }
+            ],
+            "translation": "Ayo kita berangkat!"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "どうせならシンデレラストーリー" }
+            ],
+            "translation": "Toh pada akhirnya ini adalah Cinderella Story"
+        },
+        {
+            "segments": [
+                { "text": "目", "ruby": "め" },
+                { "text": "指", "ruby": "ざ" },
+                { "text": "してみてもいいだろ" }
+            ],
+            "translation": "Tak masalah kan jika aku mencoba menggapainya?"
+        },
+        {
+            "segments": [
+                { "text": "歩", "ruby": "ある" },
+                { "text": "くだけで" },
+                { "text": "皆", "ruby": "みな" },
+                { "text": "　" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "懸", "ruby": "が" },
+                { "text": "け" }
+            ],
+            "translation": "Hanya berjalan saja semuanya mempertaruhkan nyawa"
+        },
+        {
+            "segments": [
+                { "text": "なら" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "き" },
+                { "text": "虫", "ruby": "むし" },
+                { "text": "でも" },
+                { "text": "悪", "ruby": "わる" },
+                { "text": "くはないよな" }
+            ],
+            "translation": "Kalau begitu, menjadi cengeng pun tak ada salahnya kan?"
+        },
+        {
+            "segments": [
+                { "text": "(oh oh oh)" }
+            ],
+            "translation": "(oh oh oh)"
+        },
+        {
+            "segments": [
+                { "text": "掠", "ruby": "かす" },
+                { "text": "れた" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "で" }
+            ],
+            "translation": "Dengan suara serak"
+        },
+        {
+            "segments": [
+                { "text": "(oh oh oh)" }
+            ],
+            "translation": "(oh oh oh)"
+        },
+        {
+            "segments": [
+                { "text": "雄", "ruby": "お" },
+                { "text": "叫", "ruby": "たけ" },
+                { "text": "び" },
+                { "text": "上", "ruby": "あ" },
+                { "text": "げて" }
+            ],
+            "translation": "Meneriakkan seruan perang"
+        },
+        {
+            "segments": [
+                { "text": "メソメソしてるくらいだったら" }
+            ],
+            "translation": "Daripada kau terus-terusan merengek dan menangis,"
+        },
+        {
+            "segments": [
+                { "text": "ぎこちなくたっていいんだよ" }
+            ],
+            "translation": "Tak apa walau kau terlihat canggung"
+        },
+        {
+            "segments": [
+                { "text": "どうせならシンデレラストーリー" }
+            ],
+            "translation": "Toh pada akhirnya ini adalah Cinderella Story"
+        },
+        {
+            "segments": [
+                { "text": "ここから" },
+                { "text": "書", "ruby": "か" },
+                { "text": "き" },
+                { "text": "換", "ruby": "か" },
+                { "text": "えていくから" }
+            ],
+            "translation": "Mulai dari sinilah aku akan menulis ulangnya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "もうどうやってもつまづいていただろ" }
+            ],
+            "translation": "Bagaimanapun caranya kau pasti pernah tersandung kan?"
+        },
+        {
+            "segments": [
+                { "text": "もうどうやってもぶつかっていただろ" }
+            ],
+            "translation": "Bagaimanapun caranya kau pasti pernah berbenturan kan?"
+        },
+        {
+            "segments": [
+                { "text": "起", "ruby": "お" },
+                { "text": "きた" },
+                { "text": "時", "ruby": "とき" },
+                { "text": "まだ" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "がいなかったなら" }
+            ],
+            "translation": "Jika saat aku bangun nanti kau masih belum ada di sana,"
+        },
+        {
+            "segments": [
+                { "text": "そうだな　" },
+                { "text": "手", "ruby": "て" },
+                { "text": "紙", "ruby": "がみ" },
+                { "text": "でも" },
+                { "text": "書", "ruby": "か" },
+                { "text": "いておくよ" }
+            ],
+            "translation": "Benar juga, aku akan menulis sebuah surat untukmu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "1" },
+                { "text": "人", "ruby": "ひとり" },
+                { "text": "きりのエンドロールは" },
+                { "text": "要", "ruby": "い" },
+                { "text": "らないな" }
+            ],
+            "translation": "Aku tak membutuhkan kredit akhir (end-roll) sendirian"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "役", "ruby": "やく" },
+                { "text": "には" },
+                { "text": "立", "ruby": "た" },
+                { "text": "たないトロフィー" }
+            ],
+            "translation": "Piala trofi yang tidak ada gunanya"
+        },
+        {
+            "segments": [
+                { "text": "でも" },
+                { "text": "大", "ruby": "たい" },
+                { "text": "切", "ruby": "せつ" },
+                { "text": "なセーブ" },
+                { "text": "地", "ruby": "ち" },
+                { "text": "点", "ruby": "てん" }
+            ],
+            "translation": "Tapi itu adalah titik *save* (simpan) yang sangat berharga"
+        },
+        {
+            "segments": [
+                { "text": "強", "ruby": "つよ" },
+                { "text": "がってた" },
+                { "text": "嘘", "ruby": "うそ" },
+                { "text": "　" },
+                { "text": "綺", "ruby": "き" },
+                { "text": "麗", "ruby": "れい" },
+                { "text": "事", "ruby": "ごと" }
+            ],
+            "translation": "Kebohongan bahwa kita kuat, serta janji-janji manis"
+        },
+        {
+            "segments": [
+                { "text": "でも5" },
+                { "text": "分", "ruby": "ふん" },
+                { "text": "後", "ruby": "ご" },
+                { "text": "には" },
+                { "text": "現", "ruby": "げん" },
+                { "text": "実", "ruby": "じつ" },
+                { "text": "にするよ" }
+            ],
+            "translation": "Tapi dalam 5 menit lagi semua itu akan kujadikan kenyataan"
+        },
+        {
+            "segments": [
+                { "text": "(oh oh oh)" }
+            ],
+            "translation": "(oh oh oh)"
+        },
+        {
+            "segments": [
+                { "text": "掠", "ruby": "かす" },
+                { "text": "れた" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "で" }
+            ],
+            "translation": "Dengan suara serak"
+        },
+        {
+            "segments": [
+                { "text": "(oh oh oh)" }
+            ],
+            "translation": "(oh oh oh)"
+        },
+        {
+            "segments": [
+                { "text": "雄", "ruby": "お" },
+                { "text": "叫", "ruby": "たけ" },
+                { "text": "び" },
+                { "text": "上", "ruby": "あ" },
+                { "text": "げて" }
+            ],
+            "translation": "Meneriakkan seruan perang"
+        },
+        {
+            "segments": [
+                { "text": "笑", "ruby": "えが" },
+                { "text": "顔", "ruby": "お" },
+                { "text": "の" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "につられて" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "うから" }
+            ],
+            "translation": "Karena dirimu yang tersenyum akan membuatku ikut tertawa"
+        },
+        {
+            "segments": [
+                { "text": "どんな" },
+                { "text": "時", "ruby": "とき" },
+                { "text": "も" }
+            ],
+            "translation": "Setiap saat, kapan pun itu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "ここに" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "はいるから" }
+            ],
+            "translation": "Karena aku ada di sini"
+        },
+        {
+            "segments": [
+                { "text": "バラバラでも" },
+                { "text": "無", "ruby": "な" },
+                { "text": "くさないように" }
+            ],
+            "translation": "Meski terpisah berserakan, agar kita tak kehilangannya"
+        },
+        {
+            "segments": [
+                { "text": "おまじないをしよう" }
+            ],
+            "translation": "Mari kita ucapkan mantra"
+        },
+        {
+            "segments": [
+                { "text": "この" },
+                { "text": "手", "ruby": "て" },
+                { "text": "で" },
+                { "text": "隠", "ruby": "かく" },
+                { "text": "した" },
+                { "text": "蛍", "ruby": "ほたる" },
+                { "text": "火", "ruby": "び" }
+            ],
+            "translation": "Cahaya kunang-kunang yang kusembunyikan di tangan ini"
+        },
+        {
+            "segments": [
+                { "text": "向", "ruby": "む" },
+                { "text": "かい" },
+                { "text": "風", "ruby": "かぜ" },
+                { "text": "でも" },
+                { "text": "消", "ruby": "け" },
+                { "text": "せやしない" }
+            ],
+            "translation": "Takkan bisa dipadamkan meski tertiup angin sakal"
+        },
+        {
+            "segments": [
+                { "text": "守", "ruby": "まも" },
+                { "text": "り" },
+                { "text": "続", "ruby": "つづ" },
+                { "text": "けるよ" }
+            ],
+            "translation": "Aku akan terus melindunginya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "光", "ruby": "ひかり" },
+                { "text": "にはなれないけど" }
+            ],
+            "translation": "Meskipun aku tak bisa menjadi cahaya itu"
+        },
+        {
+            "segments": [
+                { "text": "色", "ruby": "いろ" },
+                { "text": "褪", "ruby": "あ" },
+                { "text": "せたアルバム　どうしたって" }
+            ],
+            "translation": "Album foto yang telah memudar warnanya, tak peduli apa pun yang terjadi"
+        },
+        {
+            "segments": [
+                { "text": "捨", "ruby": "す" },
+                { "text": "てられなくて" }
+            ],
+            "translation": "Aku takkan pernah bisa membuangnya"
+        },
+        {
+            "segments": [
+                { "text": "もう1" },
+                { "text": "度", "ruby": "ど" },
+                { "text": "旅", "ruby": "たび" },
+                { "text": "がしたいな" }
+            ],
+            "translation": "Aku ingin melakukan perjalanan bersamamu sekali lagi"
+        },
+        {
+            "segments": [
+                { "text": "ため" },
+                { "text": "息", "ruby": "いき" },
+                { "text": "こそ" },
+                { "text": "刻", "ruby": "きざ" },
+                { "text": "んで" }
+            ],
+            "translation": "Ukirlah keluh kesah dan napas letihmu"
+        },
+        {
+            "segments": [
+                { "text": "そのままの" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らがいいよ" }
+            ],
+            "translation": "Tidak apa-apa, tetaplah menjadi kita yang seperti ini saja"
+        },
+        {
+            "segments": [
+                { "text": "どうせなら　いざ" },
+                { "text": "行", "ruby": "い" },
+                { "text": "こう" }
+            ],
+            "translation": "Karena sudah kepalang tanggung, mari kita berangkat!"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "どうせならシンデレラストーリー" }
+            ],
+            "translation": "Toh pada akhirnya ini adalah Cinderella Story"
+        },
+        {
+            "segments": [
+                { "text": "目", "ruby": "め" },
+                { "text": "指", "ruby": "ざ" },
+                { "text": "してみてもいいだろ" }
+            ],
+            "translation": "Tak masalah kan jika aku mencoba menggapainya?"
+        },
+        {
+            "segments": [
+                { "text": "歩", "ruby": "ある" },
+                { "text": "くだけで" },
+                { "text": "皆", "ruby": "みな" },
+                { "text": "　" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "懸", "ruby": "が" },
+                { "text": "け" }
+            ],
+            "translation": "Hanya berjalan saja semuanya mempertaruhkan nyawa"
+        },
+        {
+            "segments": [
+                { "text": "なら" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "き" },
+                { "text": "虫", "ruby": "むし" },
+                { "text": "でも" },
+                { "text": "悪", "ruby": "わる" },
+                { "text": "くはないよな" }
+            ],
+            "translation": "Kalau begitu, menjadi cengeng pun tak ada salahnya kan?"
+        },
+        {
+            "segments": [
+                { "text": "(oh oh oh)" }
+            ],
+            "translation": "(oh oh oh)"
+        },
+        {
+            "segments": [
+                { "text": "掠", "ruby": "かす" },
+                { "text": "れた" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "で" }
+            ],
+            "translation": "Dengan suara serak"
+        },
+        {
+            "segments": [
+                { "text": "(oh oh oh)" }
+            ],
+            "translation": "(oh oh oh)"
+        },
+        {
+            "segments": [
+                { "text": "雄", "ruby": "お" },
+                { "text": "叫", "ruby": "たけ" },
+                { "text": "び" },
+                { "text": "上", "ruby": "あ" },
+                { "text": "げて" }
+            ],
+            "translation": "Meneriakkan seruan perang"
+        },
+        {
+            "segments": [
+                { "text": "メソメソしてるくらいだったら" }
+            ],
+            "translation": "Daripada kau terus-terusan merengek dan menangis,"
+        },
+        {
+            "segments": [
+                { "text": "ぎこちなくたっていいんだよ" }
+            ],
+            "translation": "Tak apa walau kau terlihat canggung"
+        },
+        {
+            "segments": [
+                { "text": "どうせならシンデレラストーリー" }
+            ],
+            "translation": "Toh pada akhirnya ini adalah Cinderella Story"
+        },
+        {
+            "segments": [
+                { "text": "ここから" },
+                { "text": "書", "ruby": "か" },
+                { "text": "き" },
+                { "text": "換", "ruby": "か" },
+                { "text": "えていくから" }
+            ],
+            "translation": "Mulai dari sinilah aku akan menulis ulangnya"
+        }
+    ]
+}
