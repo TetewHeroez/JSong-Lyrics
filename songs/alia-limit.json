@@ -1,0 +1,425 @@
+{
+    "id": "alia-limit",
+    "title": "limit",
+    "artist": "AliA",
+    "lines": [
+        {
+            "segments": [
+                { "text": "赤", "ruby": "あか" },
+                { "text": "くなる" },
+                { "text": "空", "ruby": "そら" },
+                { "text": "に" }
+            ],
+            "translation": "Ke arah langit yang memerah"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "を" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "ぶ" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "が" },
+                { "text": "響", "ruby": "ひび" },
+                { "text": "いたまま" }
+            ],
+            "translation": "Suaraku yang memanggilmu masih terus bergema"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "(" },
+                { "text": "浮", "ruby": "う" },
+                { "text": "かび" },
+                { "text": "始", "ruby": "はじ" },
+                { "text": "めた" },
+                { "text": "星", "ruby": "ほし" },
+                { "text": "のなか" }
+            ],
+            "translation": "(Di antara bintang-bintang yang mulai bermunculan"
+        },
+        {
+            "segments": [
+                { "text": "一", "ruby": "ひと" },
+                { "text": "晩", "ruby": "ばん" },
+                { "text": "中", "ruby": "じゅう" },
+                { "text": "探", "ruby": "さが" },
+                { "text": "したって" }
+            ],
+            "translation": "Meskipun aku mencarinya sepanjang malam"
+        },
+        {
+            "segments": [
+                { "text": "見", "ruby": "み" },
+                { "text": "つからないことを" },
+                { "text": "知", "ruby": "し" },
+                { "text": "って)" }
+            ],
+            "translation": "Aku tahu bahwa aku takkan pernah bisa menemukannya)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "強", "ruby": "つよ" },
+                { "text": "く" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きれないよ" }
+            ],
+            "translation": "Aku tak bisa hidup dengan kuat"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "途", "ruby": "と" },
+                { "text": "切", "ruby": "ぎ" },
+                { "text": "れそうな　" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "を" },
+                { "text": "振", "ruby": "ふ" },
+                { "text": "り" },
+                { "text": "絞", "ruby": "しぼ" },
+                { "text": "って" }
+            ],
+            "translation": "Memaksakan suaraku yang seakan hampir terputus"
+        },
+        {
+            "segments": [
+                { "text": "泣", "ruby": "な" },
+                { "text": "きじゃくる" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "を" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "った" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "の" }
+            ],
+            "translation": "Dirimu yang menertawaiku yang sedang menangis tersedu-sedu"
+        },
+        {
+            "segments": [
+                { "text": "手", "ruby": "て" },
+                { "text": "がすっと" },
+                { "text": "触", "ruby": "ふ" },
+                { "text": "れて“またいつか”って" }
+            ],
+            "translation": "Tanganmu dengan lembut menyentuhku dan berkata \"Sampai jumpa lagi nanti\""
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "離", "ruby": "はな" },
+                { "text": "れてく" },
+                { "text": "足", "ruby": "あし" },
+                { "text": "音", "ruby": "おと" }
+            ],
+            "translation": "Suara langkah kaki yang semakin menjauh"
+        },
+        {
+            "segments": [
+                { "text": "夜", "ruby": "よる" },
+                { "text": "に" },
+                { "text": "溶", "ruby": "と" },
+                { "text": "けていって" }
+            ],
+            "translation": "Melebur ke dalam malam"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "“お" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "い”なんて" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "いた" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "も" }
+            ],
+            "translation": "Bahkan suara tangisanku yang memohon \"Tolonglah\""
+        },
+        {
+            "segments": [
+                { "text": "呆気", "ruby": "あっけ" },
+                { "text": "なく" },
+                { "text": "散", "ruby": "ち" },
+                { "text": "って" }
+            ],
+            "translation": "Tersebar dan menghilang dengan begitu mudahnya"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "はもうここには" },
+                { "text": "戻", "ruby": "もど" },
+                { "text": "らない" }
+            ],
+            "translation": "Kau takkan pernah kembali ke tempat ini lagi"
+        },
+        {
+            "segments": [
+                { "text": "さよならを" },
+                { "text": "聞", "ruby": "き" },
+                { "text": "いても" }
+            ],
+            "translation": "Meskipun aku telah mendengar ucapan selamat tinggal darimu"
+        },
+        {
+            "segments": [
+                { "text": "振", "ruby": "ふ" },
+                { "text": "り" },
+                { "text": "切", "ruby": "き" },
+                { "text": "れない" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は" },
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "きょう" },
+                { "text": "もまた" }
+            ],
+            "translation": "Aku yang tak bisa melepaskannya, hari ini pun sekali lagi"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "を" },
+                { "text": "探", "ruby": "さが" },
+                { "text": "してしまうよ" }
+            ],
+            "translation": "Akan terus mencarimu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "失", "ruby": "うしな" },
+                { "text": "わずにやり" },
+                { "text": "過", "ruby": "す" },
+                { "text": "ごせない" },
+                { "text": "事", "ruby": "こと" },
+                { "text": "くらい" }
+            ],
+            "translation": "Bahwa aku tak bisa melewatinya tanpa kehilangan sesuatu"
+        },
+        {
+            "segments": [
+                { "text": "気", "ruby": "き" },
+                { "text": "づいていて" }
+            ],
+            "translation": "Aku pun menyadari hal itu"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が" },
+                { "text": "色", "ruby": "いろ" },
+                { "text": "つけたいつか" },
+                { "text": "来", "ruby": "く" },
+                { "text": "るはずの" },
+                { "text": "日", "ruby": "ひ" },
+                { "text": "が" }
+            ],
+            "translation": "Hari yang seharusnya datang di suatu saat, yang pernah kau warnai"
+        },
+        {
+            "segments": [
+                { "text": "霞", "ruby": "かす" },
+                { "text": "んでゆく　" },
+                { "text": "消", "ruby": "き" },
+                { "text": "えないで" }
+            ],
+            "translation": "Kini semakin memudar... Kumohon jangan menghilang"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "“お" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "い”なんて" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "いた" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "も" }
+            ],
+            "translation": "Bahkan suara tangisanku yang memohon \"Tolonglah\""
+        },
+        {
+            "segments": [
+                { "text": "呆気", "ruby": "あっけ" },
+                { "text": "なく" },
+                { "text": "散", "ruby": "ち" },
+                { "text": "って" }
+            ],
+            "translation": "Tersebar dan menghilang dengan begitu mudahnya"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "はもうここには" },
+                { "text": "戻", "ruby": "もど" },
+                { "text": "らない" }
+            ],
+            "translation": "Kau takkan pernah kembali ke tempat ini lagi"
+        },
+        {
+            "segments": [
+                { "text": "さよならを" },
+                { "text": "聞", "ruby": "き" },
+                { "text": "いても" }
+            ],
+            "translation": "Meskipun aku telah mendengar ucapan selamat tinggal darimu"
+        },
+        {
+            "segments": [
+                { "text": "振", "ruby": "ふ" },
+                { "text": "り" },
+                { "text": "切", "ruby": "き" },
+                { "text": "れない" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は" },
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "きょう" },
+                { "text": "もまた" }
+            ],
+            "translation": "Aku yang tak bisa melepaskannya, hari ini pun sekali lagi"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "を" },
+                { "text": "探", "ruby": "さが" },
+                { "text": "してしまうよ" }
+            ],
+            "translation": "Akan terus mencarimu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "を" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い" },
+                { "text": "焦", "ruby": "こ" },
+                { "text": "がれた" },
+                { "text": "今", "ruby": "いま" },
+                { "text": "に" }
+            ],
+            "translation": "Di masa sekarang di mana aku sangat merindukanmu"
+        },
+        {
+            "segments": [
+                { "text": "涙", "ruby": "なみだ" },
+                { "text": "が" },
+                { "text": "溢", "ruby": "あふ" },
+                { "text": "れ" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "した" }
+            ],
+            "translation": "Air mataku pun tak henti-hentinya mengalir"
+        },
+        {
+            "segments": [
+                { "text": "簡", "ruby": "かん" },
+                { "text": "単", "ruby": "たん" },
+                { "text": "に" },
+                { "text": "塗", "ruby": "ぬ" },
+                { "text": "りなおせない" },
+                { "text": "日", "ruby": "ひ" },
+                { "text": "々", "ruby": "び" },
+                { "text": "を" }
+            ],
+            "translation": "Hari-hari yang takkan bisa dengan mudah diwarnai kembali"
+        },
+        {
+            "segments": [
+                { "text": "巻", "ruby": "ま" },
+                { "text": "き" },
+                { "text": "戻", "ruby": "もど" },
+                { "text": "せないですか？" }
+            ],
+            "translation": "Bisakah kita memutar kembali waktu itu?"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "“お" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "い”なんて" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "いた" },
+                { "text": "声", "ruby": "こえ" },
+                { "text": "も" }
+            ],
+            "translation": "Bahkan suara tangisanku yang memohon \"Tolonglah\""
+        },
+        {
+            "segments": [
+                { "text": "呆気", "ruby": "あっけ" },
+                { "text": "なく" },
+                { "text": "散", "ruby": "ち" },
+                { "text": "って" }
+            ],
+            "translation": "Tersebar dan menghilang dengan begitu mudahnya"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "はもうここには" },
+                { "text": "戻", "ruby": "もど" },
+                { "text": "らない" }
+            ],
+            "translation": "Kau takkan pernah kembali ke tempat ini lagi"
+        },
+        {
+            "segments": [
+                { "text": "さよならを" },
+                { "text": "聞", "ruby": "き" },
+                { "text": "いても" }
+            ],
+            "translation": "Meskipun aku telah mendengar ucapan selamat tinggal darimu"
+        },
+        {
+            "segments": [
+                { "text": "振", "ruby": "ふ" },
+                { "text": "り" },
+                { "text": "切", "ruby": "き" },
+                { "text": "れない" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は" },
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "きょう" },
+                { "text": "も" }
+            ],
+            "translation": "Aku yang tak bisa melepaskannya, hari ini pun"
+        },
+        {
+            "segments": [
+                { "text": "いつも" },
+                { "text": "通", "ruby": "どお" },
+                { "text": "りに" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "いてさ" }
+            ],
+            "translation": "Aku menangis seperti biasanya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "“また" },
+                { "text": "会", "ruby": "あ" },
+                { "text": "えたね”なんて" }
+            ],
+            "translation": "\"Kita bisa bertemu lagi ya\""
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "うのを" },
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "きょう" },
+                { "text": "も" },
+                { "text": "探", "ruby": "さが" },
+                { "text": "してんだ" }
+            ],
+            "translation": "Senyumanmu saat mengucapkan itu, hari ini pun aku terus mencarinya"
+        }
+    ]
+}

@@ -1,0 +1,603 @@
+{
+    "id": "alia-simple",
+    "title": "simple",
+    "artist": "AliA",
+    "lines": [
+        {
+            "segments": [
+                { "text": "背", "ruby": "せ" },
+                { "text": "を" },
+                { "text": "向", "ruby": "む" },
+                { "text": "けて" },
+                { "text": "逃", "ruby": "に" },
+                { "text": "げ" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "した" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "に" }
+            ],
+            "translation": "Kepadaku yang berbalik badan dan melarikan diri"
+        },
+        {
+            "segments": [
+                { "text": "隣", "ruby": "となり" },
+                { "text": "を" },
+                { "text": "歩", "ruby": "ある" },
+                { "text": "く" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "は" },
+                { "text": "言", "ruby": "い" },
+                { "text": "いました" }
+            ],
+            "translation": "Kau yang berjalan di sebelahku berkata,"
+        },
+        {
+            "segments": [
+                { "text": "「ホントにそれでいいの？」" }
+            ],
+            "translation": "\"Apakah kau benar-benar merasa baik-baik saja dengan itu?\""
+        },
+        {
+            "segments": [
+                { "text": "それくらい" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "もわかってるから" }
+            ],
+            "translation": "Karena hal seperti itu, aku juga sudah memahaminya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "雲", "ruby": "くも" },
+                { "text": "ひとつ" },
+                { "text": "無", "ruby": "な" },
+                { "text": "い" },
+                { "text": "青", "ruby": "あお" },
+                { "text": "空", "ruby": "ぞら" },
+                { "text": "と" }
+            ],
+            "translation": "Langit biru tanpa sehelai awan pun"
+        },
+        {
+            "segments": [
+                { "text": "まとわりつくこの" },
+                { "text": "暑", "ruby": "あつ" },
+                { "text": "さに" }
+            ],
+            "translation": "Dan panasnya cuaca yang menempel ini"
+        },
+        {
+            "segments": [
+                { "text": "参", "ruby": "まい" },
+                { "text": "ってしまった" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" }
+            ],
+            "translation": "Kita yang sudah merasa kewalahan"
+        },
+        {
+            "segments": [
+                { "text": "自", "ruby": "じ" },
+                { "text": "分", "ruby": "ぶん" },
+                { "text": "の" },
+                { "text": "殻", "ruby": "から" },
+                { "text": "に" },
+                { "text": "隠", "ruby": "かく" },
+                { "text": "れた" }
+            ],
+            "translation": "Bersembunyi di dalam cangkang kita sendiri"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "覗", "ruby": "のぞ" },
+                { "text": "いた" },
+                { "text": "外", "ruby": "そと" },
+                { "text": "の" },
+                { "text": "景", "ruby": "けい" },
+                { "text": "色", "ruby": "しき" },
+                { "text": "は" }
+            ],
+            "translation": "Pemandangan luar yang kuintip"
+        },
+        {
+            "segments": [
+                { "text": "キラキラと" },
+                { "text": "輝", "ruby": "かがや" },
+                { "text": "いて" },
+                { "text": "見", "ruby": "み" },
+                { "text": "えて" }
+            ],
+            "translation": "Terlihat bersinar berkilauan"
+        },
+        {
+            "segments": [
+                { "text": "日", "ruby": "ひ" },
+                { "text": "向", "ruby": "なた" },
+                { "text": "に" },
+                { "text": "踏", "ruby": "ふ" },
+                { "text": "み" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "すのは" }
+            ],
+            "translation": "Melangkah keluar menuju tempat yang cerah"
+        },
+        {
+            "segments": [
+                { "text": "明", "ruby": "あした" },
+                { "text": "からでいいかなって" }
+            ],
+            "translation": "Mungkin tak apa jika kulakukan mulai besok saja"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "煩", "ruby": "わずら" },
+                { "text": "わしいやりとりも" }
+            ],
+            "translation": "Bahkan interaksi yang merepotkan"
+        },
+        {
+            "segments": [
+                { "text": "白々", "ruby": "しらじら" },
+                { "text": "しい" },
+                { "text": "気", "ruby": "き" },
+                { "text": "遣", "ruby": "づか" },
+                { "text": "いも" }
+            ],
+            "translation": "Dan kepedulian yang pura-pura"
+        },
+        {
+            "segments": [
+                { "text": "見", "ruby": "み" },
+                { "text": "透", "ruby": "す" },
+                { "text": "かされていたってこと" }
+            ],
+            "translation": "Semua itu telah terlihat dan terbaca"
+        },
+        {
+            "segments": [
+                { "text": "所", "ruby": "しょ" },
+                { "text": "詮", "ruby": "せん" },
+                { "text": "はそれだけの" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らだ" }
+            ],
+            "translation": "Pada akhirnya, kita hanya sebatas itu"
+        },
+        {
+            "segments": [
+                { "text": "幸", "ruby": "しあわ" },
+                { "text": "せすらも" },
+                { "text": "疑", "ruby": "うたが" },
+                { "text": "って" }
+            ],
+            "translation": "Bahkan mencurigai sebuah kebahagiaan"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "さらけ" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せ　シンプルな" },
+                { "text": "言", "ruby": "こと" },
+                { "text": "葉", "ruby": "ば" }
+            ],
+            "translation": "Ungkapkanlah semuanya dengan kata-kata yang sederhana"
+        },
+        {
+            "segments": [
+                { "text": "思", "ruby": "おも" },
+                { "text": "い" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せ　" },
+                { "text": "遠", "ruby": "とお" },
+                { "text": "い" },
+                { "text": "過", "ruby": "か" },
+                { "text": "去", "ruby": "こ" },
+                { "text": "の" },
+                { "text": "記", "ruby": "き" },
+                { "text": "憶", "ruby": "おく" }
+            ],
+            "translation": "Ingatlah memori dari masa lalu yang jauh"
+        },
+        {
+            "segments": [
+                { "text": "無", "ruby": "む" },
+                { "text": "邪", "ruby": "じゃ" },
+                { "text": "気", "ruby": "き" },
+                { "text": "な" },
+                { "text": "笑", "ruby": "えが" },
+                { "text": "顔", "ruby": "お" },
+                { "text": "で" },
+                { "text": "走", "ruby": "はし" },
+                { "text": "り" },
+                { "text": "回", "ruby": "まわ" },
+                { "text": "った" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "の" },
+                { "text": "日", "ruby": "ひ" }
+            ],
+            "translation": "Hari musim panas di mana kita berlarian dengan senyuman polos"
+        },
+        {
+            "segments": [
+                { "text": "「かもしれない」とか" }
+            ],
+            "translation": "Berpikir \"mungkin saja\" atau semacamnya"
+        },
+        {
+            "segments": [
+                { "text": "顔", "ruby": "かお" },
+                { "text": "色", "ruby": "いろ" },
+                { "text": "伺", "ruby": "うかが" },
+                { "text": "うなんてやめちゃおうか" }
+            ],
+            "translation": "Mari berhenti menerka-nerka raut wajah orang lain"
+        },
+        {
+            "segments": [
+                { "text": "素", "ruby": "す" },
+                { "text": "直", "ruby": "なお" },
+                { "text": "に" },
+                { "text": "届", "ruby": "とど" },
+                { "text": "けていたいな" }
+            ],
+            "translation": "Aku ingin menyampaikannya dengan jujur"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "上", "ruby": "じょう" },
+                { "text": "手", "ruby": "ず" },
+                { "text": "に" },
+                { "text": "渡", "ruby": "わた" },
+                { "text": "り" },
+                { "text": "歩", "ruby": "ある" },
+                { "text": "いてきた" }
+            ],
+            "translation": "Aku yang selama ini menjalani hidup dengan cerdik"
+        },
+        {
+            "segments": [
+                { "text": "八", "ruby": "はっ" },
+                { "text": "方", "ruby": "ぽう" },
+                { "text": "美", "ruby": "び" },
+                { "text": "人", "ruby": "じん" },
+                { "text": "の" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "だけど" }
+            ],
+            "translation": "Sebagai seorang yang mencoba bersikap manis kepada semua orang"
+        },
+        {
+            "segments": [
+                { "text": "優", "ruby": "やさ" },
+                { "text": "しいだけじゃ" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "も" }
+            ],
+            "translation": "Tetapi jika hanya bermodal kebaikan, tidak akan ada siapa pun yang"
+        },
+        {
+            "segments": [
+                { "text": "振", "ruby": "ふ" },
+                { "text": "り" },
+                { "text": "返", "ruby": "かえ" },
+                { "text": "ってくれないんだ" }
+            ],
+            "translation": "Menoleh ke belakang untukku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "あの" },
+                { "text": "子", "ruby": "こ" },
+                { "text": "に" },
+                { "text": "近", "ruby": "ちか" },
+                { "text": "づくためには" }
+            ],
+            "translation": "Demi untuk bisa mendekati anak itu"
+        },
+        {
+            "segments": [
+                { "text": "ギャップを" },
+                { "text": "見", "ruby": "み" },
+                { "text": "せつけてやらなきゃ" }
+            ],
+            "translation": "Aku harus menunjukkan sisi lain yang berbeda"
+        },
+        {
+            "segments": [
+                { "text": "張", "ruby": "は" },
+                { "text": "り" },
+                { "text": "切", "ruby": "き" },
+                { "text": "ったそばから" }
+            ],
+            "translation": "Segera setelah aku bersemangat,"
+        },
+        {
+            "segments": [
+                { "text": "空", "ruby": "から" },
+                { "text": "回", "ruby": "まわ" },
+                { "text": "りして" },
+                { "text": "終", "ruby": "お" },
+                { "text": "わるの" }
+            ],
+            "translation": "Itu hanya berakhir dengan usahaku yang sia-sia"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "バカバカしい　いつだって" }
+            ],
+            "translation": "Betapa bodohnya, kapan pun juga"
+        },
+        {
+            "segments": [
+                { "text": "比", "ruby": "くら" },
+                { "text": "べたらわかるだろ？" }
+            ],
+            "translation": "Kau akan mengerti jika membandingkannya kan?"
+        },
+        {
+            "segments": [
+                { "text": "水", "ruby": "みず" },
+                { "text": "掛", "ruby": "か" },
+                { "text": "け" },
+                { "text": "論", "ruby": "ろん" },
+                { "text": "だってこと" }
+            ],
+            "translation": "Bahwa ini hanyalah sebuah argumen tak berujung"
+        },
+        {
+            "segments": [
+                { "text": "所", "ruby": "しょ" },
+                { "text": "詮", "ruby": "せん" },
+                { "text": "はそれだけの" },
+                { "text": "話", "ruby": "はなし" },
+                { "text": "なんだ" }
+            ],
+            "translation": "Pada akhirnya ceritanya hanya sebatas itu saja"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "他", "ruby": "た" },
+                { "text": "愛", "ruby": "あい" },
+                { "text": "もない" },
+                { "text": "会", "ruby": "かい" },
+                { "text": "話", "ruby": "わ" },
+                { "text": "の" },
+                { "text": "中", "ruby": "なか" }
+            ],
+            "translation": "Di tengah-tengah percakapan sepele"
+        },
+        {
+            "segments": [
+                { "text": "浮", "ruby": "う" },
+                { "text": "かび" },
+                { "text": "上", "ruby": "あ" },
+                { "text": "がる" },
+                { "text": "人", "ruby": "ひと" },
+                { "text": "となりが" }
+            ],
+            "translation": "Sifat aslimu yang muncul ke permukaan"
+        },
+        {
+            "segments": [
+                { "text": "恐", "ruby": "おそ" },
+                { "text": "ろしくて" },
+                { "text": "口", "ruby": "くち" },
+                { "text": "を" },
+                { "text": "閉", "ruby": "と" },
+                { "text": "じる" }
+            ],
+            "translation": "Terasa begitu menakutkan hingga aku menutup mulutku"
+        },
+        {
+            "segments": [
+                { "text": "綺", "ruby": "き" },
+                { "text": "麗", "ruby": "れい" },
+                { "text": "事", "ruby": "ごと" },
+                { "text": "の" },
+                { "text": "先", "ruby": "さき" },
+                { "text": "には" },
+                { "text": "何", "ruby": "なに" },
+                { "text": "があるの？" }
+            ],
+            "translation": "Apa yang menanti di ujung janji-janji manis itu?"
+        },
+        {
+            "segments": [
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "にも" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われない" }
+            ],
+            "translation": "Tidak dibenci oleh siapa pun"
+        },
+        {
+            "segments": [
+                { "text": "だけども" },
+                { "text": "愛", "ruby": "あい" },
+                { "text": "されない" }
+            ],
+            "translation": "Namun tidak juga dicintai oleh siapa pun"
+        },
+        {
+            "segments": [
+                { "text": "個", "ruby": "こ" },
+                { "text": "性", "ruby": "せい" },
+                { "text": "の" },
+                { "text": "無", "ruby": "な" },
+                { "text": "いモブの" },
+                { "text": "様", "ruby": "よう" },
+                { "text": "だ" }
+            ],
+            "translation": "Bagai karakter pendamping yang tak punya ciri khas"
+        },
+        {
+            "segments": [
+                { "text": "固", "ruby": "こ" },
+                { "text": "定", "ruby": "てい" },
+                { "text": "概", "ruby": "がい" },
+                { "text": "念", "ruby": "ねん" },
+                { "text": "を" },
+                { "text": "捨", "ruby": "す" },
+                { "text": "てろ" }
+            ],
+            "translation": "Buanglah prasangka dan anggapan kolot itu!"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "さらけ" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せ　シンプルな" },
+                { "text": "言", "ruby": "こと" },
+                { "text": "葉", "ruby": "ば" }
+            ],
+            "translation": "Ungkapkanlah semuanya dengan kata-kata yang sederhana"
+        },
+        {
+            "segments": [
+                { "text": "思", "ruby": "おも" },
+                { "text": "い" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せ　" },
+                { "text": "遠", "ruby": "とお" },
+                { "text": "い" },
+                { "text": "過", "ruby": "か" },
+                { "text": "去", "ruby": "こ" },
+                { "text": "の" },
+                { "text": "記", "ruby": "き" },
+                { "text": "憶", "ruby": "おく" }
+            ],
+            "translation": "Ingatlah memori dari masa lalu yang jauh"
+        },
+        {
+            "segments": [
+                { "text": "無", "ruby": "む" },
+                { "text": "邪", "ruby": "じゃ" },
+                { "text": "気", "ruby": "き" },
+                { "text": "な" },
+                { "text": "笑", "ruby": "えが" },
+                { "text": "顔", "ruby": "お" },
+                { "text": "で" },
+                { "text": "走", "ruby": "はし" },
+                { "text": "り" },
+                { "text": "回", "ruby": "まわ" },
+                { "text": "った" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "の" },
+                { "text": "日", "ruby": "ひ" }
+            ],
+            "translation": "Hari musim panas di mana kita berlarian dengan senyuman polos"
+        },
+        {
+            "segments": [
+                { "text": "「かもしれない」とか" }
+            ],
+            "translation": "Berpikir \"mungkin saja\" atau semacamnya"
+        },
+        {
+            "segments": [
+                { "text": "顔", "ruby": "かお" },
+                { "text": "色", "ruby": "いろ" },
+                { "text": "伺", "ruby": "うかが" },
+                { "text": "うなんてやめちゃおうか" }
+            ],
+            "translation": "Mari berhenti menerka-nerka raut wajah orang lain"
+        },
+        {
+            "segments": [
+                { "text": "素", "ruby": "す" },
+                { "text": "直", "ruby": "なお" },
+                { "text": "に" },
+                { "text": "喜", "ruby": "よろこ" },
+                { "text": "べる" },
+                { "text": "様", "ruby": "よう" },
+                { "text": "にさ" }
+            ],
+            "translation": "Agar kita dapat merayakannya dengan jujur"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "走", "ruby": "はし" },
+                { "text": "り" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せ　" },
+                { "text": "遠", "ruby": "とお" },
+                { "text": "い" },
+                { "text": "明", "ruby": "あす" },
+                { "text": "の" },
+                { "text": "日", "ruby": "ひ" },
+                { "text": "へ" }
+            ],
+            "translation": "Berlarilah menuju hari esok yang masih jauh"
+        },
+        {
+            "segments": [
+                { "text": "取", "ruby": "と" },
+                { "text": "り" },
+                { "text": "戻", "ruby": "もど" },
+                { "text": "せ　きっとできるはず" }
+            ],
+            "translation": "Rebutlah kembali, aku yakin kau pasti bisa"
+        },
+        {
+            "segments": [
+                { "text": "シラけたギャラリー" }
+            ],
+            "translation": "Kerumunan orang yang tak peduli"
+        },
+        {
+            "segments": [
+                { "text": "騒", "ruby": "ざわ" },
+                { "text": "つかせていく" },
+                { "text": "歌", "ruby": "うた" },
+                { "text": "声", "ruby": "ごえ" }
+            ],
+            "translation": "Suara nyanyian ini akan membuat mereka gempar"
+        },
+        {
+            "segments": [
+                { "text": "当", "ruby": "あ" },
+                { "text": "たり" },
+                { "text": "前", "ruby": "まえ" },
+                { "text": "なんてさ" }
+            ],
+            "translation": "Hal-hal yang dianggap biasa dan wajar itu"
+        },
+        {
+            "segments": [
+                { "text": "どこにも" },
+                { "text": "見", "ruby": "み" },
+                { "text": "当", "ruby": "あ" },
+                { "text": "たらないな" }
+            ],
+            "translation": "Tak bisa kutemukan di manapun"
+        },
+        {
+            "segments": [
+                { "text": "踊", "ruby": "おど" },
+                { "text": "り" },
+                { "text": "明", "ruby": "あ" },
+                { "text": "かそう" }
+            ],
+            "translation": "Mari menari semalaman hingga fajar"
+        },
+        {
+            "segments": [
+                { "text": "笑", "ruby": "えが" },
+                { "text": "顔", "ruby": "お" },
+                { "text": "を" },
+                { "text": "絶", "ruby": "た" },
+                { "text": "やさないで" }
+            ],
+            "translation": "Jangan pernah hapus senyuman itu dari wajahmu"
+        }
+    ]
+}

@@ -1,0 +1,382 @@
+{
+    "id": "yuaru-asunoyozora",
+    "title": "Asu no Yozora Shoukaihan",
+    "artist": "Yuaru / Orangestar",
+    "lines": [
+        {
+            "segments": [
+                { "text": "気", "ruby": "き" },
+                { "text": "分", "ruby": "ぶん" },
+                { "text": "次", "ruby": "し" },
+                { "text": "第", "ruby": "だい" },
+                { "text": "です" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は　" },
+                { "text": "敵", "ruby": "てき" },
+                { "text": "を" },
+                { "text": "選", "ruby": "えら" },
+                { "text": "んで" },
+                { "text": "戦", "ruby": "たたか" },
+                { "text": "う" },
+                { "text": "少", "ruby": "しょう" },
+                { "text": "年", "ruby": "ねん" }
+            ],
+            "translation": "Tergantung suasana hatiku, aku adalah pemuda yang bertarung memilih musuhnya"
+        },
+        {
+            "segments": [
+                { "text": "叶", "ruby": "かな" },
+                { "text": "えたい" },
+                { "text": "未", "ruby": "み" },
+                { "text": "来", "ruby": "らい" },
+                { "text": "も" },
+                { "text": "無", "ruby": "な" },
+                { "text": "くて　" },
+                { "text": "夢", "ruby": "ゆめ" },
+                { "text": "に" },
+                { "text": "描", "ruby": "えが" },
+                { "text": "かれるのを" },
+                { "text": "待", "ruby": "ま" },
+                { "text": "ってた" }
+            ],
+            "translation": "Tanpa ada masa depan yang ingin kuwujudkan, aku hanya menunggu digambarkan dalam mimpi"
+        },
+        {
+            "segments": [
+                { "text": "そのくせ" },
+                { "text": "未", "ruby": "み" },
+                { "text": "来", "ruby": "らい" },
+                { "text": "が" },
+                { "text": "怖", "ruby": "こわ" },
+                { "text": "くて　" },
+                { "text": "明", "ruby": "あす" },
+                { "text": "日", "ruby": "を" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "って" },
+                { "text": "過", "ruby": "か" },
+                { "text": "去", "ruby": "こ" },
+                { "text": "に" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "って" }
+            ],
+            "translation": "Namun aku takut akan masa depan, membenci hari esok dan berharap pada masa lalu"
+        },
+        {
+            "segments": [
+                { "text": "もうどうしようも" },
+                { "text": "無", "ruby": "な" },
+                { "text": "くなって" },
+                { "text": "叫", "ruby": "さけ" },
+                { "text": "ぶんだ" }
+            ],
+            "translation": "Hingga aku tak bisa melakukan apa-apa lagi dan berteriak"
+        },
+        {
+            "segments": [
+                { "text": "「" },
+                { "text": "明", "ruby": "あす" },
+                { "text": "日", "ruby": "よ！" },
+                { "text": "明", "ruby": "あす" },
+                { "text": "日", "ruby": "よ！" },
+                { "text": "もう" },
+                { "text": "来", "ruby": "こ" },
+                { "text": "ないでよ！」って" }
+            ],
+            "translation": "\"Hari esok! Hari esok! Janganlah datang lagi!\""
+        },
+        {
+            "segments": [
+                { "text": "そんな" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "を" },
+                { "text": "置", "ruby": "お" },
+                { "text": "いて　" },
+                { "text": "月", "ruby": "つき" },
+                { "text": "は" },
+                { "text": "沈", "ruby": "しず" },
+                { "text": "み" },
+                { "text": "陽", "ruby": "ひ" },
+                { "text": "は" },
+                { "text": "昇", "ruby": "のぼ" },
+                { "text": "る" }
+            ],
+            "translation": "Meninggalkan diriku yang seperti itu, bulan pun tenggelam dan matahari terbit"
+        },
+        {
+            "segments": [
+                { "text": "けどその" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "は" },
+                { "text": "違", "ruby": "ちが" },
+                { "text": "ったんだ　" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "は" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "の" },
+                { "text": "手", "ruby": "て" },
+                { "text": "を" }
+            ],
+            "translation": "Tapi malam itu berbeda, kau meraih tanganku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "空", "ruby": "そら" },
+                { "text": "へ" },
+                { "text": "舞", "ruby": "ま" },
+                { "text": "う　" },
+                { "text": "世", "ruby": "せ" },
+                { "text": "界", "ruby": "かい" },
+                { "text": "の" },
+                { "text": "彼", "ruby": "かな" },
+                { "text": "方", "ruby": "た" },
+                { "text": "　" },
+                { "text": "闇", "ruby": "やみ" },
+                { "text": "を" },
+                { "text": "照", "ruby": "て" },
+                { "text": "らす" },
+                { "text": "魁", "ruby": "かい" },
+                { "text": "星", "ruby": "せい" }
+            ],
+            "translation": "Menari ke angkasa, melampaui dunia, bintang penunjuk jalan yang menerangi kegelapan"
+        },
+        {
+            "segments": [
+                { "text": "『" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "もさ、また" },
+                { "text": "明", "ruby": "あした" },
+                { "text": "日", "ruby": "へ" },
+                { "text": "向", "ruby": "む" },
+                { "text": "かっていこう』" }
+            ],
+            "translation": "\"Kau dan aku, mari kita melangkah lagi menuju hari esok\""
+        },
+        {
+            "segments": [
+                { "text": "夢", "ruby": "ゆめ" },
+                { "text": "で" },
+                { "text": "終", "ruby": "お" },
+                { "text": "わってしまうのならば　「" },
+                { "text": "昨", "ruby": "きのう" },
+                { "text": "日", "ruby": "を" },
+                { "text": "変", "ruby": "か" },
+                { "text": "えさせて」" }
+            ],
+            "translation": "Jika semua ini harus berakhir dalam mimpi, \"Biarkan aku mengubah hari kemarin\""
+        },
+        {
+            "segments": [
+                { "text": "なんて" },
+                { "text": "言", "ruby": "い" },
+                { "text": "わないから　また" },
+                { "text": "明", "ruby": "あした" },
+                { "text": "日", "ruby": "も" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "とこうやって" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "わせて" }
+            ],
+            "translation": "Aku tak akan mengatakan hal semacam itu, jadi biarkan aku tertawa sepert ini lagi bersamamu besok"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "あれから" },
+                { "text": "世", "ruby": "せ" },
+                { "text": "界", "ruby": "かい" },
+                { "text": "は" },
+                { "text": "変", "ruby": "か" },
+                { "text": "わったって　" },
+                { "text": "本", "ruby": "ほん" },
+                { "text": "気", "ruby": "き" },
+                { "text": "で" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "ったって" }
+            ],
+            "translation": "Meskipun sejak saat itu dunia telah berubah, meskipun aku sungguh memikirkannya"
+        },
+        {
+            "segments": [
+                { "text": "期", "ruby": "き" },
+                { "text": "待", "ruby": "たい" },
+                { "text": "したって" },
+                { "text": "変", "ruby": "か" },
+                { "text": "えようとしたって　" },
+                { "text": "未", "ruby": "み" },
+                { "text": "来", "ruby": "らい" },
+                { "text": "は" },
+                { "text": "残", "ruby": "ざん" },
+                { "text": "酷", "ruby": "こく" },
+                { "text": "で" }
+            ],
+            "translation": "Meskipun aku berharap atau mencoba mengubahnya, masa depan itu tetap kejam"
+        },
+        {
+            "segments": [
+                { "text": "それでもいつだって" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と" },
+                { "text": "見", "ruby": "み" },
+                { "text": "ていた　" },
+                { "text": "世", "ruby": "せ" },
+                { "text": "界", "ruby": "かい" },
+                { "text": "は" },
+                { "text": "本", "ruby": "ほん" },
+                { "text": "当", "ruby": "とう" },
+                { "text": "に" },
+                { "text": "綺", "ruby": "き" },
+                { "text": "麗", "ruby": "れい" },
+                { "text": "だった" }
+            ],
+            "translation": "Namun dunia yang selalu kulihat bersamamu, sungguh-sungguh indah adanya"
+        },
+        {
+            "segments": [
+                { "text": "忘", "ruby": "わす" },
+                { "text": "れてないさ　" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せるように" },
+                { "text": "仕", "ruby": "し" },
+                { "text": "舞", "ruby": "ま" },
+                { "text": "ってるの" }
+            ],
+            "translation": "Aku tak melupakannya, kusimpan agar aku selalu bisa mengingatnya kembali"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "がいてもいなくても" },
+                { "text": "翔", "ruby": "と" },
+                { "text": "べるなんて" },
+                { "text": "妄", "ruby": "もう" },
+                { "text": "想", "ruby": "そう" }
+            ],
+            "translation": "Keyakinan bahwa aku bisa terbang ada atau tanpamu, itu hanyalah delusi"
+        },
+        {
+            "segments": [
+                { "text": "独", "ruby": "ひと" },
+                { "text": "りじゃ" },
+                { "text": "歩", "ruby": "ある" },
+                { "text": "くことさえ" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は　しないまま" },
+                { "text": "藍", "ruby": "あい" },
+                { "text": "色", "ruby": "いろ" },
+                { "text": "の" },
+                { "text": "風", "ruby": "かぜ" },
+                { "text": "に" },
+                { "text": "吐", "ruby": "は" },
+                { "text": "いた" },
+                { "text": "幻", "ruby": "げん" },
+                { "text": "想", "ruby": "そう" }
+            ],
+            "translation": "Tanpa pernah melangkah sendirian, itu hanyalah ilusi yang kulontarkan pada angin nila"
+        },
+        {
+            "segments": [
+                { "text": "壊", "ruby": "こわ" },
+                { "text": "してくれって" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "って" },
+                { "text": "足", "ruby": "あ" },
+                { "text": "宛", "ruby": "が" },
+                { "text": "いたって" }
+            ],
+            "translation": "Meskipun aku memohon agar itu dihancurkan, meskipun aku meronta-ronta"
+        },
+        {
+            "segments": [
+                { "text": "『" },
+                { "text": "願", "ruby": "ねが" },
+                { "text": "ったんなら" },
+                { "text": "叶", "ruby": "かな" },
+                { "text": "えてしまえや』って　" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "は" },
+                { "text": "言", "ruby": "い" },
+                { "text": "って" }
+            ],
+            "translation": "\"Jika kau memohonnya maka wujudkanlah,\" ucapmu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "また" },
+                { "text": "明", "ruby": "あした" },
+                { "text": "日", "ruby": "の" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "に" },
+                { "text": "逢", "ruby": "あ" },
+                { "text": "いに行こうと" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "うが" }
+            ],
+            "translation": "Aku berpikir untuk pergi menemuimu besok malam, tapi..."
+        },
+        {
+            "segments": [
+                { "text": "どうかな" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "はいないかな" }
+            ],
+            "translation": "Bagaimana ya, apakah kau sudah tidak ada di sana?"
+        },
+        {
+            "segments": [
+                { "text": "それでもいつまでも" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "ら" },
+                { "text": "一", "ruby": "ひと" },
+                { "text": "つだから" }
+            ],
+            "translation": "Namun meski begitu, selamanya kita adalah satu"
+        },
+        {
+            "segments": [
+                { "text": "またね Sky Arrow　" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "ってよう" }
+            ],
+            "translation": "Sampai jumpa lagi Sky Arrow, marilah kita tertawa"
+        },
+        {
+            "segments": [
+                { "text": "未", "ruby": "み" },
+                { "text": "来", "ruby": "らい" },
+                { "text": "を" },
+                { "text": "少", "ruby": "すこ" },
+                { "text": "しでも" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "といたいから" },
+                { "text": "叫", "ruby": "さけ" },
+                { "text": "ぼう" }
+            ],
+            "translation": "Karena aku ingin bersamamu sedikit lebih lama di masa depan, mari berteriak"
+        },
+        {
+            "segments": [
+                { "text": "“" },
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "の" },
+                { "text": "日", "ruby": "ひ" },
+                { "text": "をいつか" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せ" },
+                { "text": "未", "ruby": "み" },
+                { "text": "来", "ruby": "らい" },
+                { "text": "の" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "ら”" }
+            ],
+            "translation": "\"Wahai diri kita di masa depan, ingatlah hari ini suatu saat nanti\""
+        }
+    ]
+}

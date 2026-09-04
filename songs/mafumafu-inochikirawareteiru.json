@@ -1,0 +1,770 @@
+{
+    "id": "mafumafu-inochikirawareteiru",
+    "title": "Inochi ni Kirawarete iru.",
+    "artist": "Mafumafu (Cover) / Kanzaki Iori",
+    "lines": [
+        {
+            "segments": [
+                { "text": "「" },
+                { "text": "死", "ruby": "し" },
+                { "text": "にたいなんて" },
+                { "text": "言", "ruby": "い" },
+                { "text": "うなよ。」" }
+            ],
+            "translation": "\"Jangan bilang kau ingin mati.\""
+        },
+        {
+            "segments": [
+                { "text": "「" },
+                { "text": "諦", "ruby": "あきら" },
+                { "text": "めないで" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きろよ。」" }
+            ],
+            "translation": "\"Hiduplah dan jangan menyerah.\""
+        },
+        {
+            "segments": [
+                { "text": "そんな" },
+                { "text": "歌", "ruby": "うた" },
+                { "text": "が" },
+                { "text": "正", "ruby": "ただ" },
+                { "text": "しいなんて" },
+                { "text": "馬", "ruby": "ば" },
+                { "text": "鹿", "ruby": "か" },
+                { "text": "げてるよな。" }
+            ],
+            "translation": "Menganggap lagu semacam itu sebagai kebenaran sungguhlah bodoh, bukan?"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "実", "ruby": "じつ" },
+                { "text": "際", "ruby": "さい" },
+                { "text": "自", "ruby": "じ" },
+                { "text": "分", "ruby": "ぶん" },
+                { "text": "は" },
+                { "text": "死", "ruby": "し" },
+                { "text": "んでもよくて" }
+            ],
+            "translation": "Sebenarnya aku tak peduli jika diriku sendiri mati,"
+        },
+        {
+            "segments": [
+                { "text": "周", "ruby": "まわ" },
+                { "text": "りが" },
+                { "text": "死", "ruby": "し" },
+                { "text": "んだら" },
+                { "text": "悲", "ruby": "かな" },
+                { "text": "しくて" }
+            ],
+            "translation": "Tapi aku akan bersedih jika orang-orang di sekitarku mati"
+        },
+        {
+            "segments": [
+                { "text": "「それが" },
+                { "text": "嫌", "ruby": "いや" },
+                { "text": "だから」っていうエゴなんです。" }
+            ],
+            "translation": "\"Itu karena aku benci hal itu terjadi\"—sebuah ego belaka."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "他", "ruby": "た" },
+                { "text": "人", "ruby": "にん" },
+                { "text": "が" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きてもどうでもよくて" }
+            ],
+            "translation": "Aku tak peduli meskipun orang lain hidup,"
+        },
+        {
+            "segments": [
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "かを" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "うこともファッションで" }
+            ],
+            "translation": "Membenci seseorang pun hanyalah sebuah gaya (fashion),"
+        },
+        {
+            "segments": [
+                { "text": "それでも「" },
+                { "text": "平", "ruby": "へい" },
+                { "text": "和", "ruby": "わ" },
+                { "text": "に" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きよう」" }
+            ],
+            "translation": "Namun meskipun begitu berkata \"Mari kita hidup dengan damai\""
+        },
+        {
+            "segments": [
+                { "text": "なんて" },
+                { "text": "素", "ruby": "す" },
+                { "text": "敵", "ruby": "てき" },
+                { "text": "なことでしょう。" }
+            ],
+            "translation": "Betapa hal yang sangat luar biasa."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "画", "ruby": "が" },
+                { "text": "面", "ruby": "めん" },
+                { "text": "の" },
+                { "text": "先", "ruby": "さき" },
+                { "text": "では" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "かが" },
+                { "text": "死", "ruby": "し" },
+                { "text": "んで" }
+            ],
+            "translation": "Di balik layar, seseorang mati"
+        },
+        {
+            "segments": [
+                { "text": "それを" },
+                { "text": "嘆", "ruby": "なげ" },
+                { "text": "いて" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "かが" },
+                { "text": "歌", "ruby": "うた" },
+                { "text": "って" }
+            ],
+            "translation": "Meratapinya, seseorang bernyanyi"
+        },
+        {
+            "segments": [
+                { "text": "それに" },
+                { "text": "感", "ruby": "かん" },
+                { "text": "化", "ruby": "か" },
+                { "text": "された" },
+                { "text": "少", "ruby": "しょう" },
+                { "text": "年", "ruby": "ねん" },
+                { "text": "が" }
+            ],
+            "translation": "Dan seorang anak laki-laki yang terpengaruh oleh hal itu"
+        },
+        {
+            "segments": [
+                { "text": "ナイフを" },
+                { "text": "持", "ruby": "も" },
+                { "text": "って" },
+                { "text": "走", "ruby": "はし" },
+                { "text": "った。" }
+            ],
+            "translation": "Membawa pisau dan berlari."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "に" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われている。" }
+            ],
+            "translation": "Kita semua dibenci oleh kehidupan."
+        },
+        {
+            "segments": [
+                { "text": "価", "ruby": "か" },
+                { "text": "値", "ruby": "ち" },
+                { "text": "観", "ruby": "かん" },
+                { "text": "もエゴも" },
+                { "text": "押", "ruby": "お" },
+                { "text": "し" },
+                { "text": "付", "ruby": "つ" },
+                { "text": "けて" }
+            ],
+            "translation": "Memaksakan nilai dan ego kita,"
+        },
+        {
+            "segments": [
+                { "text": "いつも" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "かを" },
+                { "text": "殺", "ruby": "ころ" },
+                { "text": "したい" },
+                { "text": "歌", "ruby": "うた" },
+                { "text": "を" }
+            ],
+            "translation": "Lagu tentang ingin membunuh seseorang"
+        },
+        {
+            "segments": [
+                { "text": "簡", "ruby": "かん" },
+                { "text": "単", "ruby": "たん" },
+                { "text": "に" },
+                { "text": "電", "ruby": "でん" },
+                { "text": "波", "ruby": "ぱ" },
+                { "text": "で" },
+                { "text": "流", "ruby": "なが" },
+                { "text": "した。" }
+            ],
+            "translation": "Selalu kita sebarkan begitu saja melalui gelombang radio."
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "に" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われている。" }
+            ],
+            "translation": "Kita dibenci oleh kehidupan."
+        },
+        {
+            "segments": [
+                { "text": "軽々", "ruby": "かるがる" },
+                { "text": "しく" },
+                { "text": "死", "ruby": "し" },
+                { "text": "にたいだとか" }
+            ],
+            "translation": "Dengan mudah mengatakan ingin mati,"
+        },
+        {
+            "segments": [
+                { "text": "軽々", "ruby": "かるがる" },
+                { "text": "しく" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "を" },
+                { "text": "見", "ruby": "み" },
+                { "text": "てる" }
+            ],
+            "translation": "Dengan mudah memandang remeh sebuah kehidupan,"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "に" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われている。" }
+            ],
+            "translation": "Kita dibenci oleh kehidupan."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "お" },
+                { "text": "金", "ruby": "かね" },
+                { "text": "がないので" },
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "きょう" },
+                { "text": "も" },
+                { "text": "一", "ruby": "いち" },
+                { "text": "日", "ruby": "にち" },
+                { "text": "中", "ruby": "じゅう" },
+                { "text": "惰", "ruby": "だ" },
+                { "text": "眠", "ruby": "みん" },
+                { "text": "を" },
+                { "text": "謳", "ruby": "おう" },
+                { "text": "歌", "ruby": "か" },
+                { "text": "する。" }
+            ],
+            "translation": "Karena tak punya uang, hari ini pun aku bermalas-malasan sepanjang hari."
+        },
+        {
+            "segments": [
+                { "text": "生", "ruby": "い" },
+                { "text": "きる" },
+                { "text": "意", "ruby": "い" },
+                { "text": "味", "ruby": "み" },
+                { "text": "なんて" },
+                { "text": "見", "ruby": "み" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せず、" },
+                { "text": "無", "ruby": "む" },
+                { "text": "駄", "ruby": "だ" },
+                { "text": "を" },
+                { "text": "自", "ruby": "じ" },
+                { "text": "覚", "ruby": "かく" },
+                { "text": "して" },
+                { "text": "息", "ruby": "いき" },
+                { "text": "をする。" }
+            ],
+            "translation": "Tak mampu menemukan makna hidup, menyadari kesia-siaanku sembari bernapas."
+        },
+        {
+            "segments": [
+                { "text": "「" },
+                { "text": "寂", "ruby": "さび" },
+                { "text": "しい」なんて" },
+                { "text": "言", "ruby": "こと" },
+                { "text": "葉", "ruby": "ば" },
+                { "text": "でこの" },
+                { "text": "傷", "ruby": "きず" },
+                { "text": "が" },
+                { "text": "表", "ruby": "あらわ" },
+                { "text": "せていいものか" }
+            ],
+            "translation": "Apakah cukup mengekspresikan luka ini hanya dengan kata 'kesepian'?"
+        },
+        {
+            "segments": [
+                { "text": "そんな" },
+                { "text": "意", "ruby": "い" },
+                { "text": "地", "ruby": "じ" },
+                { "text": "ばかり" },
+                { "text": "抱", "ruby": "かか" },
+                { "text": "え" },
+                { "text": "今", "ruby": "きょう" },
+                { "text": "日", "ruby": "きょう" },
+                { "text": "も" },
+                { "text": "一", "ruby": "ひと" },
+                { "text": "人", "ruby": "り" },
+                { "text": "ベッドに" },
+                { "text": "眠", "ruby": "ねむ" },
+                { "text": "る" }
+            ],
+            "translation": "Hanya memeluk gengsi semacam itu, hari ini pun aku tidur sendirian di ranjang."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "少", "ruby": "しょう" },
+                { "text": "年", "ruby": "ねん" },
+                { "text": "だった" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "たちはいつか" },
+                { "text": "青", "ruby": "せい" },
+                { "text": "年", "ruby": "ねん" },
+                { "text": "に" },
+                { "text": "変", "ruby": "か" },
+                { "text": "わっていく。" }
+            ],
+            "translation": "Kita yang dulunya anak-anak, suatu saat akan berubah menjadi dewasa."
+        },
+        {
+            "segments": [
+                { "text": "年", "ruby": "とし" },
+                { "text": "老", "ruby": "お" },
+                { "text": "いていつか　" },
+                { "text": "枯", "ruby": "か" },
+                { "text": "れ" },
+                { "text": "葉", "ruby": "は" },
+                { "text": "のように" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "にも" },
+                { "text": "知", "ruby": "し" },
+                { "text": "られず" },
+                { "text": "朽", "ruby": "く" },
+                { "text": "ちていく。" }
+            ],
+            "translation": "Menua dan kelak, seperti daun kering yang membusuk tanpa diketahui siapa pun."
+        },
+        {
+            "segments": [
+                { "text": "不", "ruby": "ふ" },
+                { "text": "死", "ruby": "し" },
+                { "text": "身", "ruby": "み" },
+                { "text": "の" },
+                { "text": "身", "ruby": "から" },
+                { "text": "体", "ruby": "だ" },
+                { "text": "を" },
+                { "text": "手", "ruby": "て" },
+                { "text": "に" },
+                { "text": "入", "ruby": "い" },
+                { "text": "れて、" },
+                { "text": "一", "ruby": "いっ" },
+                { "text": "生", "ruby": "しょう" },
+                { "text": "死", "ruby": "し" },
+                { "text": "なずに" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きていく。" }
+            ],
+            "translation": "Mendapatkan tubuh abadi, lalu hidup selamanya tanpa pernah mati."
+        },
+        {
+            "segments": [
+                { "text": "そんなSFを" },
+                { "text": "妄", "ruby": "もう" },
+                { "text": "想", "ruby": "そう" },
+                { "text": "してる。" }
+            ],
+            "translation": "Aku berkhayal tentang fiksi ilmiah seperti itu."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "自", "ruby": "じ" },
+                { "text": "分", "ruby": "ぶん" },
+                { "text": "が" },
+                { "text": "死", "ruby": "し" },
+                { "text": "んでもどうでもよくて" }
+            ],
+            "translation": "Bahkan jika diriku sendiri mati, aku tak peduli,"
+        },
+        {
+            "segments": [
+                { "text": "それでも" },
+                { "text": "周", "ruby": "まわ" },
+                { "text": "りに" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きて" },
+                { "text": "欲", "ruby": "ほ" },
+                { "text": "しくて" }
+            ],
+            "translation": "Namun aku tetap ingin orang-orang di sekitarku terus hidup."
+        },
+        {
+            "segments": [
+                { "text": "矛", "ruby": "む" },
+                { "text": "盾", "ruby": "じゅん" },
+                { "text": "を" },
+                { "text": "抱", "ruby": "かか" },
+                { "text": "えて" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きてくなんて" },
+                { "text": "怒", "ruby": "おこ" },
+                { "text": "られてしまう。" }
+            ],
+            "translation": "Hidup dengan membawa kontradiksi semacam itu pasti akan membuatku dimarahi."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "「" },
+                { "text": "正", "ruby": "ただ" },
+                { "text": "しいものは" },
+                { "text": "正", "ruby": "ただ" },
+                { "text": "しくいなさい。」" }
+            ],
+            "translation": "\"Biarkan hal yang benar tetaplah benar.\""
+        },
+        {
+            "segments": [
+                { "text": "「" },
+                { "text": "死", "ruby": "し" },
+                { "text": "にたくないなら" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きていなさい。」" }
+            ],
+            "translation": "\"Jika kau tak ingin mati, maka hiduplah.\""
+        },
+        {
+            "segments": [
+                { "text": "悲", "ruby": "かな" },
+                { "text": "しくなるならそれでもいいなら" }
+            ],
+            "translation": "Jika kau akan bersedih namun tak masalah dengan hal itu,"
+        },
+        {
+            "segments": [
+                { "text": "ずっと" },
+                { "text": "一", "ruby": "ひと" },
+                { "text": "人", "ruby": "り" },
+                { "text": "で" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "えよ。" }
+            ],
+            "translation": "Maka tertawalah sendirian selamanya."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "に" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われている。" }
+            ],
+            "translation": "Kita dibenci oleh kehidupan."
+        },
+        {
+            "segments": [
+                { "text": "幸", "ruby": "こう" },
+                { "text": "福", "ruby": "ふく" },
+                { "text": "の" },
+                { "text": "意", "ruby": "い" },
+                { "text": "味", "ruby": "み" },
+                { "text": "すらわからず、" }
+            ],
+            "translation": "Bahkan tak mengerti apa arti kebahagiaan itu,"
+        },
+        {
+            "segments": [
+                { "text": "産", "ruby": "う" },
+                { "text": "まれた" },
+                { "text": "環", "ruby": "かん" },
+                { "text": "境", "ruby": "きょう" },
+                { "text": "ばかり" },
+                { "text": "憎", "ruby": "にく" },
+                { "text": "んで" }
+            ],
+            "translation": "Hanya membenci lingkungan tempat kita dilahirkan,"
+        },
+        {
+            "segments": [
+                { "text": "簡", "ruby": "かん" },
+                { "text": "単", "ruby": "たん" },
+                { "text": "に" },
+                { "text": "過", "ruby": "か" },
+                { "text": "去", "ruby": "こ" },
+                { "text": "ばかり" },
+                { "text": "呪", "ruby": "のろ" },
+                { "text": "う。" }
+            ],
+            "translation": "Dan dengan mudah terus mengutuk masa lalu."
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "に" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われている。" }
+            ],
+            "translation": "Kita dibenci oleh kehidupan."
+        },
+        {
+            "segments": [
+                { "text": "さよならばかりが" },
+                { "text": "好", "ruby": "す" },
+                { "text": "きすぎて" }
+            ],
+            "translation": "Terlalu menyukai ucapan selamat tinggal,"
+        },
+        {
+            "segments": [
+                { "text": "本", "ruby": "ほん" },
+                { "text": "当", "ruby": "とう" },
+                { "text": "の" },
+                { "text": "別", "ruby": "わか" },
+                { "text": "れなど" },
+                { "text": "知", "ruby": "し" },
+                { "text": "らない" }
+            ],
+            "translation": "Hingga tak mengerti arti perpisahan yang sesungguhnya."
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "命", "ruby": "いのち" },
+                { "text": "に" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われている。" }
+            ],
+            "translation": "Kita dibenci oleh kehidupan."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "幸", "ruby": "こう" },
+                { "text": "福", "ruby": "ふく" },
+                { "text": "も" },
+                { "text": "別", "ruby": "わか" },
+                { "text": "れも" },
+                { "text": "愛", "ruby": "あい" },
+                { "text": "情", "ruby": "じょう" },
+                { "text": "も" },
+                { "text": "友", "ruby": "ゆう" },
+                { "text": "情", "ruby": "じょう" },
+                { "text": "も" }
+            ],
+            "translation": "Kebahagiaan, perpisahan, cinta, maupun persahabatan"
+        },
+        {
+            "segments": [
+                { "text": "滑", "ruby": "こっ" },
+                { "text": "稽", "ruby": "けい" },
+                { "text": "な" },
+                { "text": "夢", "ruby": "ゆめ" },
+                { "text": "の" },
+                { "text": "戯", "ruby": "たわむ" },
+                { "text": "れで" },
+                { "text": "全", "ruby": "ぜん" },
+                { "text": "部", "ruby": "ぶ" },
+                { "text": "カネで" },
+                { "text": "買", "ruby": "か" },
+                { "text": "える" },
+                { "text": "代", "ruby": "しろ" },
+                { "text": "物", "ruby": "もの" },
+                { "text": "。" }
+            ],
+            "translation": "Hanyalah lelucon konyol dalam mimpi, barang yang semuanya bisa dibeli dengan uang."
+        },
+        {
+            "segments": [
+                { "text": "明", "ruby": "あし" },
+                { "text": "日", "ruby": "た" },
+                { "text": "、" },
+                { "text": "死", "ruby": "し" },
+                { "text": "んでしまうかもしれない" }
+            ],
+            "translation": "Bisa jadi besok aku akan mati"
+        },
+        {
+            "segments": [
+                { "text": "すべて、" },
+                { "text": "無", "ruby": "む" },
+                { "text": "駄", "ruby": "だ" },
+                { "text": "になるかもしれない。" }
+            ],
+            "translation": "Semuanya mungkin akan menjadi sia-sia."
+        },
+        {
+            "segments": [
+                { "text": "朝", "ruby": "あさ" },
+                { "text": "も" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "も" },
+                { "text": "春", "ruby": "はる" },
+                { "text": "も" },
+                { "text": "秋", "ruby": "あき" },
+                { "text": "も" }
+            ],
+            "translation": "Pagi, malam, musim semi, maupun musim gugur"
+        },
+        {
+            "segments": [
+                { "text": "変", "ruby": "か" },
+                { "text": "わらず" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "かがどこかで" },
+                { "text": "死", "ruby": "し" },
+                { "text": "ぬ。" }
+            ],
+            "translation": "Tak peduli apapun itu, seseorang sedang sekarat di suatu tempat."
+        },
+        {
+            "segments": [
+                { "text": "夢", "ruby": "ゆめ" },
+                { "text": "も" },
+                { "text": "明", "ruby": "あし" },
+                { "text": "日", "ruby": "た" },
+                { "text": "も" },
+                { "text": "何", "ruby": "なに" },
+                { "text": "もいらない。" }
+            ],
+            "translation": "Aku tak butuh mimpi, masa depan, atau apapun juga."
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きていたならそれでいい。" }
+            ],
+            "translation": "Asalkan kau masih hidup, itu sudah cukup bagiku."
+        },
+        {
+            "segments": [
+                { "text": "そうだ。" }
+            ],
+            "translation": "Benar."
+        },
+        {
+            "segments": [
+                { "text": "本", "ruby": "ほん" },
+                { "text": "当", "ruby": "とう" },
+                { "text": "はそういうことが" },
+                { "text": "歌", "ruby": "うた" },
+                { "text": "いたい。" }
+            ],
+            "translation": "Sebenarnya, hal itulah yang ingin kunyanyikan."
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "命", "ruby": "いのち" },
+                { "text": "に" },
+                { "text": "嫌", "ruby": "きら" },
+                { "text": "われている。" }
+            ],
+            "translation": "Kita dibenci oleh kehidupan."
+        },
+        {
+            "segments": [
+                { "text": "結", "ruby": "けっ" },
+                { "text": "局", "ruby": "きょく" },
+                { "text": "いつかは" },
+                { "text": "死", "ruby": "し" },
+                { "text": "んでいく。" }
+            ],
+            "translation": "Pada akhirnya suatu hari nanti kita semua akan mati."
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "だって" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "だっていつかは" }
+            ],
+            "translation": "Baik dirimu maupun diriku, kelak..."
+        },
+        {
+            "segments": [
+                { "text": "枯", "ruby": "か" },
+                { "text": "れ" },
+                { "text": "葉", "ruby": "は" },
+                { "text": "のように" },
+                { "text": "朽", "ruby": "く" },
+                { "text": "ちてく。" }
+            ],
+            "translation": "Akan membusuk dan hancur seperti dedaunan kering."
+        },
+        {
+            "segments": [
+                { "text": "それでも" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは" },
+                { "text": "必", "ruby": "ひっ" },
+                { "text": "死", "ruby": "し" },
+                { "text": "に" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きて" }
+            ],
+            "translation": "Namun meski begitu, kita akan terus bertahan hidup sekuat tenaga"
+        },
+        {
+            "segments": [
+                { "text": "命", "ruby": "いのち" },
+                { "text": "を" },
+                { "text": "必", "ruby": "ひっ" },
+                { "text": "死", "ruby": "し" },
+                { "text": "に" },
+                { "text": "抱", "ruby": "かか" },
+                { "text": "えて" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きて" }
+            ],
+            "translation": "Memeluk kehidupan erat-erat dan terus melangkah"
+        },
+        {
+            "segments": [
+                { "text": "殺", "ruby": "ころ" },
+                { "text": "してあがいて" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "って" },
+                { "text": "抱", "ruby": "かか" },
+                { "text": "えて" }
+            ],
+            "translation": "Membunuh, meronta, tertawa, dan menanggung semuanya"
+        },
+        {
+            "segments": [
+                { "text": "生", "ruby": "い" },
+                { "text": "きて、" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きて、" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きて、" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きて、" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きろ。" }
+            ],
+            "translation": "Hiduplah, hiduplah, hiduplah, hiduplah... dan teruslah hidup!"
+        }
+    ]
+}

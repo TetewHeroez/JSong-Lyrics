@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="JSong Lyrics — Baca lirik lagu Jepang dengan furigana dan terjemahan Indonesia">
+    <title>JSong Lyrics — Japanese Lyrics Reader</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Sidebar overlay (mobile) -->
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+    <!-- Sidebar -->
+    <aside id="sidebar" class="sidebar">
+        <div class="sidebar-header">
+            <h2 class="logo">🎵 JSong</h2>
+            <button id="sidebar-close" class="sidebar-close" aria-label="Tutup sidebar">✕</button>
+        </div>
+        
+        <!-- Spotify Profile Area -->
+        <div class="spotify-profile" id="spotify-profile">
+            <div id="spotify-user" class="spotify-user" style="display: none;">
+                <img id="spotify-avatar" src="" alt="Profile">
+                <span id="spotify-name">Memuat profil...</span>
+            </div>
+        </div>
+
+        <div class="song-list" id="song-list">
+            <!-- Populated by JS -->
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <header class="top-bar">
+            <button id="menu-btn" class="menu-btn" aria-label="Buka sidebar">☰</button>
+            <div class="song-info">
+                <h1 id="song-title" class="song-title">Pilih lagu</h1>
+                <p id="song-artist" class="song-artist"></p>
+            </div>
+            <div class="controls">
+                <button id="toggle-furigana" class="btn btn-control" title="Toggle semua furigana">
+                    <span class="btn-icon">振</span>
+                    <span class="btn-label">Furigana</span>
+                </button>
+                <button id="toggle-translation" class="btn btn-control" title="Toggle terjemahan">
+                    <span class="btn-icon">訳</span>
+                    <span class="btn-label">Terjemahan</span>
+                </button>
+            </div>
+        </header>
+
+        <div class="lyrics-container" id="lyrics-container">
+            <div class="welcome-screen" id="welcome-screen">
+                <div class="welcome-icon">🎶</div>
+                <h2>Selamat datang di JSong Lyrics</h2>
+                <p>Pilih lagu dari sidebar untuk mulai membaca.<br>Klik kanji untuk melihat furigana, atau gunakan tombol di atas.</p>
+            </div>
+        </div>
+    </main>
+
+
+    <!-- Spotify Now Playing Widget -->
+    <div id="spotify-now-playing" class="spotify-widget">
+        <img id="sp-cover" class="sp-cover" src="" alt="Album Art">
+        <div class="sp-info">
+            <div class="sp-label">Now Playing on Spotify</div>
+            <div id="sp-title" class="sp-title">Not Playing</div>
+            <div id="sp-artist" class="sp-artist">-</div>
+        </div>
+        <div class="sp-equalizer">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+    </div>
+
+    <script src="spotify.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

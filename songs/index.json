@@ -1,0 +1,38 @@
+[
+    {
+        "id": "alia-limit",
+        "title": "limit",
+        "artist": "AliA",
+        "file": "songs/alia-limit.json"
+    },
+    {
+        "id": "alia-simple",
+        "title": "simple",
+        "artist": "AliA",
+        "file": "songs/alia-simple.json"
+    },
+    {
+        "id": "yuaru-asunoyozora",
+        "title": "Asu no Yozora Shoukaihan",
+        "artist": "Yuaru",
+        "file": "songs/yuaru-asunoyozora.json"
+    },
+    {
+        "id": "alia-bokugabokudearutameni",
+        "title": "Boku ga Boku de Aru Tame ni",
+        "artist": "AliA",
+        "file": "songs/alia-bokugabokudearutameni.json"
+    },
+    {
+        "id": "alia-happybirthday",
+        "title": "Happy Birthday",
+        "artist": "AliA",
+        "file": "songs/alia-happybirthday.json"
+    },
+    {
+        "id": "mafumafu-inochikirawareteiru",
+        "title": "Inochi ni Kirawarete iru.",
+        "artist": "Mafumafu",
+        "file": "songs/mafumafu-inochikirawareteiru.json"
+    }
+]
