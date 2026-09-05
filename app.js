@@ -28,6 +28,7 @@
     const fontSlider = $('#font-size-slider');
     const spotifyEmbedContainer = $('#spotify-embed-container');
     const spotifyIframe = $('#spotify-iframe');
+    const youtubeIframe = $('#youtube-iframe');
 
     // ── Initialization ──
     async function init() {
@@ -86,13 +87,52 @@
         songTitle.textContent = song.title;
         songArtist.textContent = song.artist;
 
-        // Update Spotify Iframe
+        // Update Embed Iframe
         if (songMeta.spotifyId) {
             spotifyIframe.src = `https://open.spotify.com/embed/track/${songMeta.spotifyId}?utm_source=generator`;
+            spotifyIframe.style.display = 'block';
+            if (youtubeIframe) {
+                youtubeIframe.style.display = 'none';
+                youtubeIframe.src = '';
+            }
+            spotifyEmbedContainer.style.display = 'block';
+        } else if (songMeta.youtubeId) {
+            if (youtubeIframe) {
+                youtubeIframe.src = `https://www.youtube.com/embed/${songMeta.youtubeId}`;
+                youtubeIframe.style.display = 'block';
+            }
+            spotifyIframe.style.display = 'none';
+            spotifyIframe.src = '';
             spotifyEmbedContainer.style.display = 'block';
         } else {
             spotifyEmbedContainer.style.display = 'none';
             spotifyIframe.src = '';
+            if (youtubeIframe) youtubeIframe.src = '';
+        }
+
+        // Update Track Stats
+        const songStatsList = document.getElementById('song-stats-list');
+        if (songStatsList && songMeta.stats) {
+            const min = Math.floor(songMeta.stats.durationMs / 60000);
+            const sec = Math.floor((songMeta.stats.durationMs % 60000) / 1000).toString().padStart(2, '0');
+            
+            songStatsList.innerHTML = `
+                <div class="stat-row">
+                    <span class="stat-label">Album</span>
+                    <span class="stat-val">${escapeHtml(songMeta.stats.album)}</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Rilis</span>
+                    <span class="stat-val">${escapeHtml(songMeta.stats.releaseDate)}</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Durasi</span>
+                    <span class="stat-val">${min}:${sec}</span>
+                </div>
+            `;
+            document.getElementById('song-stats-container').style.display = 'block';
+        } else if (songStatsList) {
+            document.getElementById('song-stats-container').style.display = 'none';
         }
 
         // Reset per-word furigana states when switching songs
@@ -190,6 +230,8 @@
             const item = e.target.closest('.song-item');
             if (item) loadSong(item.dataset.id);
         });
+
+
 
         // Sidebar
         menuBtn.addEventListener('click', openSidebar);

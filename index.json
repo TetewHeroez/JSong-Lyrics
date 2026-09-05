@@ -4,97 +4,167 @@
         "title": "limit",
         "artist": "AliA",
         "file": "songs/alia-limit.json",
-        "spotifyId": "6P7rmpfPHx0DUEN06mh5KE"
+        "spotifyId": "6P7rmpfPHx0DUEN06mh5KE",
+        "stats": {
+            "album": "AliVe",
+            "releaseDate": "2019-02-20",
+            "durationMs": 214040
+        }
     },
     {
         "id": "alia-simple",
         "title": "simple",
         "artist": "AliA",
         "file": "songs/alia-simple.json",
-        "spotifyId": "0HGxHzii8mi1z2tB7z2FvW"
+        "spotifyId": "3W02TkQBCKy1vnUETyM3ML",
+        "stats": {
+            "album": "AliVe",
+            "releaseDate": "2019-02-20",
+            "durationMs": 232000
+        }
     },
     {
         "id": "yuaru-asunoyozora",
         "title": "Asu no Yozora Shoukaihan",
         "artist": "Yuaru",
         "file": "songs/yuaru-asunoyozora.json",
-        "spotifyId": "568kOjebZdPdV7nCVMLySP"
+        "spotifyId": "568kOjebZdPdV7nCVMLySP",
+        "stats": {
+            "album": "Asu no Yozora Shoukaihan",
+            "releaseDate": "2020",
+            "durationMs": 179220
+        }
     },
     {
         "id": "alia-bokugabokudearutameni",
         "title": "Boku ga Boku de Aru Tame ni",
         "artist": "AliA",
         "file": "songs/alia-bokugabokudearutameni.json",
-        "spotifyId": "3bT3QVDqfzT31BbM4hlU78"
+        "spotifyId": "30kSxdGM4mtFGiRg9qxnTD",
+        "stats": {
+            "album": "Bokuga Bokude Arutameni",
+            "releaseDate": "2023-01-11",
+            "durationMs": 176538
+        }
     },
     {
         "id": "alia-happybirthday",
         "title": "Happy Birthday",
         "artist": "AliA",
         "file": "songs/alia-happybirthday.json",
-        "spotifyId": "5uPLCZ1Kw9Sva8Ghb56s8R"
+        "spotifyId": "5uPLCZ1Kw9Sva8Ghb56s8R",
+        "stats": {
+            "album": "eye",
+            "releaseDate": "2020-03-11",
+            "durationMs": 283738
+        }
     },
     {
         "id": "mafumafu-inochikirawareteiru",
         "title": "Inochi ni Kirawarete iru.",
         "artist": "Mafumafu",
         "file": "songs/mafumafu-inochikirawareteiru.json",
-        "spotifyId": "4AVCUmGt93CWSRHTexYAaZ"
+        "youtubeId": "eq8r1ZTma08",
+        "stats": {
+            "album": "YouTube Single",
+            "releaseDate": "2018-01-10",
+            "durationMs": 272000
+        }
     },
     {
         "id": "alia-yubisaki",
         "title": "yubisaki",
         "artist": "AliA",
         "file": "songs/alia-yubisaki.json",
-        "spotifyId": "23lRHZ36bPnLQBiTGD2yIL"
+        "spotifyId": "23lRHZ36bPnLQBiTGD2yIL",
+        "stats": {
+            "album": "Yubisaki",
+            "releaseDate": "2021-03-24",
+            "durationMs": 232017
+        }
     },
     {
         "id": "alia-cinderellastory",
         "title": "Cinderella Story",
         "artist": "AliA",
         "file": "songs/alia-cinderellastory.json",
-        "spotifyId": "4x6hWkdhqA50ISJrY67Xg8"
+        "spotifyId": "4x6hWkdhqA50ISJrY67Xg8",
+        "stats": {
+            "album": "Cinderella Story",
+            "releaseDate": "2022-10-12",
+            "durationMs": 285293
+        }
     },
     {
         "id": "alia-futagozaryuuseigun",
         "title": "Futagoza Ryuuseigun",
         "artist": "AliA",
         "file": "songs/alia-futagozaryuuseigun.json",
-        "spotifyId": "45AzpccADoGLVTDVn2xioL"
+        "spotifyId": "45AzpccADoGLVTDVn2xioL",
+        "stats": {
+            "album": "Futagoza Ryuuseigun",
+            "releaseDate": "2024-12-30",
+            "durationMs": 291613
+        }
     },
     {
         "id": "suzuki-daysofdash",
         "title": "DAYS of DASH",
         "artist": "Suzuki Konomi",
         "file": "songs/suzuki-daysofdash.json",
-        "spotifyId": "05tgM5KwoJL27Gm2b55u1W"
+        "spotifyId": "05tgM5KwoJL27Gm2b55u1W",
+        "stats": {
+            "album": "17",
+            "releaseDate": "2014-02-26",
+            "durationMs": 251879
+        }
     },
     {
         "id": "kessoku-seizaninaretara",
         "title": "Seiza ni naretara",
         "artist": "Kessoku Band",
         "file": "songs/kessoku-seizaninaretara.json",
-        "spotifyId": "3vW2EZcRS0JtADChw8oKP8"
+        "spotifyId": "3vW2EZcRS0JtADChw8oKP8",
+        "stats": {
+            "album": "星座になれたら",
+            "releaseDate": "2022-12-25",
+            "durationMs": 258173
+        }
     },
     {
         "id": "rokudenashi-spica",
         "title": "Spica",
         "artist": "Rokudenashi",
         "file": "songs/rokudenashi-spica.json",
-        "spotifyId": "1cek46u96NSWBTwqOTayTO"
+        "spotifyId": "1cek46u96NSWBTwqOTayTO",
+        "stats": {
+            "album": "The Flower of Love",
+            "releaseDate": "2023-12-27",
+            "durationMs": 165000
+        }
     },
     {
         "id": "ryokuoushoku-mela",
         "title": "Mela!",
         "artist": "Ryokuoushoku Shakai",
         "file": "songs/ryokuoushoku-mela.json",
-        "spotifyId": "6IO5nn84TKArsi3cjpIqaD"
+        "spotifyId": "6IO5nn84TKArsi3cjpIqaD",
+        "stats": {
+            "album": "Mela!",
+            "releaseDate": "2020-04-13",
+            "durationMs": 242066
+        }
     },
     {
         "id": "sayuri-hananotou",
         "title": "Hana no Tou",
         "artist": "Sayuri",
         "file": "songs/sayuri-hananotou.json",
-        "spotifyId": "1yt4wO7dKCwsfjch8SN9aU"
+        "spotifyId": "1yt4wO7dKCwsfjch8SN9aU",
+        "stats": {
+            "album": "花の塔",
+            "releaseDate": "2022-07-03",
+            "durationMs": 275614
+        }
     }
 ]
