@@ -236,6 +236,22 @@ body::before {
     z-index: 1;
 }
 
+.content-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.spotify-embed-container {
+    width: 350px;
+    padding: 32px 24px;
+    position: sticky;
+    top: var(--topbar-h);
+    height: calc(100vh - var(--topbar-h));
+    overflow-y: auto;
+    flex-shrink: 0;
+}
+
 /* ========================================
    Top Bar
    ======================================== */
@@ -298,8 +314,35 @@ body::before {
 
 .controls {
     display: flex;
+    align-items: center;
     gap: 8px;
     flex-shrink: 0;
+}
+
+.font-slider {
+    -webkit-appearance: none;
+    width: 100px;
+    height: 4px;
+    background: var(--border-strong);
+    border-radius: var(--r-full);
+    outline: none;
+    margin-right: 8px;
+}
+
+.font-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    transition: transform var(--t-fast);
+}
+
+.font-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 10px var(--accent-glow);
 }
 
 /* ========================================
@@ -377,7 +420,7 @@ body::before {
     padding: 32px 24px 80px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .lyrics-wrapper {
@@ -396,7 +439,7 @@ body::before {
 
 .japanese-line {
     font-family: 'Noto Sans JP', sans-serif;
-    font-size: 1.35rem;
+    font-size: calc(2rem * var(--font-scale, 1));
     font-weight: 400;
     line-height: 2.2;
     letter-spacing: 0.02em;
@@ -471,7 +514,7 @@ body::before {
    ======================================== */
 
 .translation {
-    font-size: 0.85rem;
+    font-size: calc(1.25rem * var(--font-scale, 1));
     color: var(--translation-color);
     font-style: italic;
     line-height: 1.5;
@@ -602,15 +645,27 @@ body::before {
     .lyrics-container {
         padding: 20px 16px 60px;
     }
+    
+    .content-wrapper {
+        flex-direction: column;
+    }
+    
+    .spotify-embed-container {
+        width: 100%;
+        position: static;
+        height: auto;
+        padding: 16px;
+        order: 2; /* Put Spotify under the lyrics */
+    }
 
     .japanese-line {
-        font-size: 1.15rem;
+        font-size: calc(1.75rem * var(--font-scale, 1));
     }
 }
 
 @media (max-width: 480px) {
     .japanese-line {
-        font-size: 1.05rem;
+        font-size: calc(1.5rem * var(--font-scale, 1));
     }
 
     .controls {

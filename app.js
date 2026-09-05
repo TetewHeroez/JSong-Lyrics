@@ -25,6 +25,9 @@
     const sidebarOverlay = $('#sidebar-overlay');
     const menuBtn = $('#menu-btn');
     const sidebarClose = $('#sidebar-close');
+    const fontSlider = $('#font-size-slider');
+    const spotifyEmbedContainer = $('#spotify-embed-container');
+    const spotifyIframe = $('#spotify-iframe');
 
     // ── Initialization ──
     async function init() {
@@ -83,6 +86,15 @@
         songTitle.textContent = song.title;
         songArtist.textContent = song.artist;
 
+        // Update Spotify Iframe
+        if (songMeta.spotifyId) {
+            spotifyIframe.src = `https://open.spotify.com/embed/track/${songMeta.spotifyId}?utm_source=generator`;
+            spotifyEmbedContainer.style.display = 'block';
+        } else {
+            spotifyEmbedContainer.style.display = 'none';
+            spotifyIframe.src = '';
+        }
+
         // Reset per-word furigana states when switching songs
         // (global toggle state persists across songs)
 
@@ -139,6 +151,13 @@
             lyricsContainer.classList.toggle('show-all-furigana', showAllFurigana);
             toggleFuriganaBtn.classList.toggle('active', showAllFurigana);
         });
+
+        // Font size slider
+        if (fontSlider) {
+            fontSlider.addEventListener('input', (e) => {
+                document.documentElement.style.setProperty('--font-scale', e.target.value);
+            });
+        }
 
         // Toggle translation
         toggleTranslationBtn.addEventListener('click', () => {

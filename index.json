@@ -3,84 +3,98 @@
         "id": "alia-limit",
         "title": "limit",
         "artist": "AliA",
-        "file": "songs/alia-limit.json"
+        "file": "songs/alia-limit.json",
+        "spotifyId": "6P7rmpfPHx0DUEN06mh5KE"
     },
     {
         "id": "alia-simple",
         "title": "simple",
         "artist": "AliA",
-        "file": "songs/alia-simple.json"
+        "file": "songs/alia-simple.json",
+        "spotifyId": "0HGxHzii8mi1z2tB7z2FvW"
     },
     {
         "id": "yuaru-asunoyozora",
         "title": "Asu no Yozora Shoukaihan",
         "artist": "Yuaru",
-        "file": "songs/yuaru-asunoyozora.json"
+        "file": "songs/yuaru-asunoyozora.json",
+        "spotifyId": "568kOjebZdPdV7nCVMLySP"
     },
     {
         "id": "alia-bokugabokudearutameni",
         "title": "Boku ga Boku de Aru Tame ni",
         "artist": "AliA",
-        "file": "songs/alia-bokugabokudearutameni.json"
+        "file": "songs/alia-bokugabokudearutameni.json",
+        "spotifyId": "3bT3QVDqfzT31BbM4hlU78"
     },
     {
         "id": "alia-happybirthday",
         "title": "Happy Birthday",
         "artist": "AliA",
-        "file": "songs/alia-happybirthday.json"
+        "file": "songs/alia-happybirthday.json",
+        "spotifyId": "5uPLCZ1Kw9Sva8Ghb56s8R"
     },
     {
         "id": "mafumafu-inochikirawareteiru",
         "title": "Inochi ni Kirawarete iru.",
         "artist": "Mafumafu",
-        "file": "songs/mafumafu-inochikirawareteiru.json"
+        "file": "songs/mafumafu-inochikirawareteiru.json",
+        "spotifyId": "4AVCUmGt93CWSRHTexYAaZ"
     },
     {
         "id": "alia-yubisaki",
         "title": "yubisaki",
         "artist": "AliA",
-        "file": "songs/alia-yubisaki.json"
+        "file": "songs/alia-yubisaki.json",
+        "spotifyId": "23lRHZ36bPnLQBiTGD2yIL"
     },
     {
         "id": "alia-cinderellastory",
         "title": "Cinderella Story",
         "artist": "AliA",
-        "file": "songs/alia-cinderellastory.json"
+        "file": "songs/alia-cinderellastory.json",
+        "spotifyId": "4x6hWkdhqA50ISJrY67Xg8"
     },
     {
         "id": "alia-futagozaryuuseigun",
         "title": "Futagoza Ryuuseigun",
         "artist": "AliA",
-        "file": "songs/alia-futagozaryuuseigun.json"
+        "file": "songs/alia-futagozaryuuseigun.json",
+        "spotifyId": "45AzpccADoGLVTDVn2xioL"
     },
     {
         "id": "suzuki-daysofdash",
         "title": "DAYS of DASH",
         "artist": "Suzuki Konomi",
-        "file": "songs/suzuki-daysofdash.json"
+        "file": "songs/suzuki-daysofdash.json",
+        "spotifyId": "05tgM5KwoJL27Gm2b55u1W"
     },
     {
         "id": "kessoku-seizaninaretara",
         "title": "Seiza ni naretara",
         "artist": "Kessoku Band",
-        "file": "songs/kessoku-seizaninaretara.json"
+        "file": "songs/kessoku-seizaninaretara.json",
+        "spotifyId": "3vW2EZcRS0JtADChw8oKP8"
     },
     {
         "id": "rokudenashi-spica",
         "title": "Spica",
         "artist": "Rokudenashi",
-        "file": "songs/rokudenashi-spica.json"
+        "file": "songs/rokudenashi-spica.json",
+        "spotifyId": "1cek46u96NSWBTwqOTayTO"
     },
     {
         "id": "ryokuoushoku-mela",
         "title": "Mela!",
         "artist": "Ryokuoushoku Shakai",
-        "file": "songs/ryokuoushoku-mela.json"
+        "file": "songs/ryokuoushoku-mela.json",
+        "spotifyId": "6IO5nn84TKArsi3cjpIqaD"
     },
     {
         "id": "sayuri-hananotou",
         "title": "Hana no Tou",
         "artist": "Sayuri",
-        "file": "songs/sayuri-hananotou.json"
+        "file": "songs/sayuri-hananotou.json",
+        "spotifyId": "1yt4wO7dKCwsfjch8SN9aU"
     }
 ]

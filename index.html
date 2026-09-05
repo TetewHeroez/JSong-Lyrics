@@ -42,6 +42,7 @@
                 <p id="song-artist" class="song-artist"></p>
             </div>
             <div class="controls">
+                <input type="range" id="font-size-slider" class="font-slider" min="0.5" max="2" step="0.1" value="1" title="Atur ukuran lirik">
                 <button id="toggle-furigana" class="btn btn-control" title="Toggle semua furigana">
                     <span class="btn-icon">振</span>
                     <span class="btn-label">Furigana</span>
@@ -53,11 +54,17 @@
             </div>
         </header>
 
-        <div class="lyrics-container" id="lyrics-container">
-            <div class="welcome-screen" id="welcome-screen">
-                <div class="welcome-icon">🎶</div>
-                <h2>Selamat datang di JSong Lyrics</h2>
-                <p>Pilih lagu dari sidebar untuk mulai membaca.<br>Klik kanji untuk melihat furigana, atau gunakan tombol di atas.</p>
+        <div class="content-wrapper">
+            <div class="lyrics-container" id="lyrics-container">
+                <div class="welcome-screen" id="welcome-screen">
+                    <div class="welcome-icon">🎶</div>
+                    <h2>Selamat datang di JSong Lyrics</h2>
+                    <p>Pilih lagu dari sidebar untuk mulai membaca.<br>Klik kanji untuk melihat furigana, atau gunakan tombol di atas.</p>
+                </div>
+            </div>
+            
+            <div class="spotify-embed-container" id="spotify-embed-container" style="display: none;">
+                <iframe id="spotify-iframe" src="" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
         </div>
     </main>
