@@ -1,0 +1,546 @@
+{
+    "title": "Ano Natsu no Itsuka wa",
+    "artist": "Nornis",
+    "lines": [
+        {
+            "segments": [
+                { "text": "それは", "ruby": "" },
+                { "text": "消", "ruby": "き" },
+                { "text": "えかかった", "ruby": "" },
+                { "text": "夢", "ruby": "ゆめ" },
+                { "text": "の", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "凪", "ruby": "な" },
+                { "text": "いだ", "ruby": "" },
+                { "text": "空", "ruby": "そら" },
+                { "text": " ", "ruby": "" },
+                { "text": "泳", "ruby": "およ" },
+                { "text": "いだ", "ruby": "" }
+            ],
+            "translation": "Itu adalah warna dari mimpi yang memudar, berenang di langit yang tenang"
+        },
+        {
+            "segments": [
+                { "text": "いつかと", "ruby": "" },
+                { "text": "同", "ruby": "おな" },
+                { "text": "じ", "ruby": "" },
+                { "text": "後悔", "ruby": "こうかい" },
+                { "text": "の", "ruby": "" },
+                { "text": "色", "ruby": "いろ" },
+                { "text": "がまた", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "フラッシュバックした", "ruby": "" }
+            ],
+            "translation": "Warna penyesalan yang sama seperti biasanya, kembali terbayang-bayang lagi"
+        },
+        {
+            "segments": [
+                { "text": "あと", "ruby": "" },
+                { "text": "何回", "ruby": "なんかい" },
+                { "text": "の", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "だ？", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "これで", "ruby": "" },
+                { "text": "何回目", "ruby": "なんかいめ" },
+                { "text": "の", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "だ？", "ruby": "" }
+            ],
+            "translation": "Berapa banyak musim panas yang tersisa? Ini musim panas yang keberapa kalinya?"
+        },
+        {
+            "segments": [
+                { "text": "遠", "ruby": "とお" },
+                { "text": "くなるいつかの", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あの", "ruby": "" },
+                { "text": "約束", "ruby": "やくそく" },
+                { "text": "が", "ruby": "" }
+            ],
+            "translation": "Janji di suatu hari yang semakin menjauh"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "もうずっと", "ruby": "" },
+                { "text": "抜", "ruby": "ぬ" },
+                { "text": "け", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "したくて", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "いつも", "ruby": "" }
+            ],
+            "translation": "Selama ini aku selalu ingin melarikan diri, selalu"
+        },
+        {
+            "segments": [
+                { "text": "わかんなくて", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "日常", "ruby": "にちじょう" },
+                { "text": "は", "ruby": "" }
+            ],
+            "translation": "Aku tidak mengerti keseharianku"
+        },
+        {
+            "segments": [
+                { "text": "でも", "ruby": "" },
+                { "text": "案外", "ruby": "あんがい" },
+                { "text": "簡単", "ruby": "かんたん" },
+                { "text": "だった", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "ほらね", "ruby": "" }
+            ],
+            "translation": "Tapi ternyata itu secara tak terduga sangat mudah, lihatlah"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "届", "ruby": "とど" },
+                { "text": "けなくちゃ", "ruby": "" },
+                { "text": "意味", "ruby": "いみ" },
+                { "text": "ないよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "ってるだけじゃ", "ruby": "" },
+                { "text": "出来", "ruby": "でき" },
+                { "text": "ないよ", "ruby": "" }
+            ],
+            "translation": "Tidak ada artinya jika tidak disampaikan, tidak bisa dilakukan jika hanya dipikirkan"
+        },
+        {
+            "segments": [
+                { "text": "歩", "ruby": "ある" },
+                { "text": "かなくちゃたどり", "ruby": "" },
+                { "text": "着", "ruby": "つ" },
+                { "text": "けないよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "悩", "ruby": "なや" },
+                { "text": "んでる", "ruby": "" },
+                { "text": "暇", "ruby": "ひま" },
+                { "text": "なんてないよ", "ruby": "" }
+            ],
+            "translation": "Tidak akan sampai jika tidak melangkah, tidak ada waktu untuk ragu-ragu"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らきっと", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "す", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "すたびに", "ruby": "" },
+                { "text": "胸", "ruby": "むね" },
+                { "text": "が", "ruby": "" },
+                { "text": "熱", "ruby": "あつ" },
+                { "text": "くなる", "ruby": "" }
+            ],
+            "translation": "Kita pasti akan mengingatnya, setiap kali mengingatnya dada ini terasa hangat"
+        },
+        {
+            "segments": [
+                { "text": "そんな", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "が", "ruby": "" },
+                { "text": "幕", "ruby": "まく" },
+                { "text": "を", "ruby": "" },
+                { "text": "開", "ruby": "あ" },
+                { "text": "ける", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "飛", "ruby": "と" },
+                { "text": "び", "ruby": "" },
+                { "text": "込", "ruby": "こ" },
+                { "text": "むんだ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さぁ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "いっせーのせで", "ruby": "" }
+            ],
+            "translation": "Hari seperti itu akan membuka tirainya, mari kita melompat, bersiaplah... satu, dua, tiga!"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "を", "ruby": "" },
+                { "text": "描", "ruby": "えが" },
+                { "text": "いた。", "ruby": "" },
+                { "text": "何処", "ruby": "どこ" },
+                { "text": "に", "ruby": "" },
+                { "text": "立", "ruby": "た" },
+                { "text": "った。", "ruby": "" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "を", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "った。", "ruby": "" },
+                { "text": "昨日", "ruby": "きのう" },
+                { "text": "だった？", "ruby": "" }
+            ],
+            "translation": "Apa yang telah aku gambar. Di mana aku telah berdiri. Siapa yang telah aku pikirkan. Apakah itu kemarin?"
+        },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "が", "ruby": "" },
+                { "text": "好", "ruby": "す" },
+                { "text": "きで、", "ruby": "" },
+                { "text": "何処", "ruby": "どこ" },
+                { "text": "を", "ruby": "" },
+                { "text": "目指", "ruby": "めざ" },
+                { "text": "して、", "ruby": "" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "に", "ruby": "" },
+                { "text": "会", "ruby": "あ" },
+                { "text": "いたい？", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "の", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は", "ruby": "" }
+            ],
+            "translation": "Apa yang aku sukai, ke mana tujuanku, siapa yang ingin kutemui? Aku yang hari ini"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "かないかって", "ruby": "" },
+                { "text": "探", "ruby": "さが" },
+                { "text": "していた", "ruby": "" }
+            ],
+            "translation": "Aku mencari apakah ada sesuatu"
+        },
+        {
+            "segments": [
+                { "text": "この", "ruby": "" },
+                { "text": "部屋", "ruby": "へや" },
+                { "text": "にあるはずもないのは", "ruby": "" },
+                { "text": "分", "ruby": "わ" },
+                { "text": "かってんのに", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "でもそれに", "ruby": "" },
+                { "text": "浸", "ruby": "ひた" },
+                { "text": "っていた", "ruby": "" }
+            ],
+            "translation": "Meski aku tahu tak mungkin ada di ruangan ini, namun aku tenggelam di dalamnya"
+        },
+        {
+            "segments": [
+                { "text": "そのままでいいのかって", "ruby": "" },
+                { "text": "太陽", "ruby": "たいよう" },
+                { "text": "がうるさいから", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "付", "ruby": "つ" },
+                { "text": "き", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "ってやるかって", "ruby": "" }
+            ],
+            "translation": "Karena matahari sangat berisik bertanya apakah aku baik-baik saja begini, aku akan menemaninya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "見", "ruby": "み" },
+                { "text": "てみなくちゃわかんないよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "知", "ruby": "し" },
+                { "text": "らなくちゃ", "ruby": "" },
+                { "text": "無", "ruby": "な" },
+                { "text": "いのと", "ruby": "" },
+                { "text": "同", "ruby": "おな" },
+                { "text": "じだよ", "ruby": "" }
+            ],
+            "translation": "Tidak akan tahu jika tidak melihatnya, sama saja dengan tidak ada jika tidak mengetahuinya"
+        },
+        {
+            "segments": [
+                { "text": "いつ", "ruby": "" },
+                { "text": "来", "ruby": "く" },
+                { "text": "るかわからない「いつか」なら", "ruby": "" },
+                { "text": "今", "ruby": "いま" },
+                { "text": "から", "ruby": "" },
+                { "text": "迎", "ruby": "むか" },
+                { "text": "えに", "ruby": "" },
+                { "text": "行", "ruby": "い" },
+                { "text": "こう", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "そして", "ruby": "" }
+            ],
+            "translation": "Jika 'suatu hari' itu entah kapan datangnya, mari kita jemput dari sekarang, dan kemudian"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らきっと", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "す", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "すたびに", "ruby": "" },
+                { "text": "前", "ruby": "まえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "向", "ruby": "む" },
+                { "text": "ける", "ruby": "" }
+            ],
+            "translation": "Kita pasti akan mengingatnya, setiap kali mengingatnya kita bisa menatap ke depan"
+        },
+        {
+            "segments": [
+                { "text": "失敗", "ruby": "しっぱい" },
+                { "text": "なんて", "ruby": "" },
+                { "text": "怖", "ruby": "こわ" },
+                { "text": "くないよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "怖", "ruby": "こわ" },
+                { "text": "いのは", "ruby": "" },
+                { "text": "何", "ruby": "なに" },
+                { "text": "も", "ruby": "" },
+                { "text": "残", "ruby": "のこ" },
+                { "text": "せないことだ", "ruby": "" }
+            ],
+            "translation": "Kegagalan bukanlah hal yang menakutkan, yang menakutkan adalah tidak bisa meninggalkan apa-apa"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "に", "ruby": "" },
+                { "text": "触", "ruby": "ふ" },
+                { "text": "れた。", "ruby": "" },
+                { "text": "何故", "ruby": "なぜ" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "った。", "ruby": "" },
+                { "text": "何時", "ruby": "いつ" },
+                { "text": "を", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "った。", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "だった？", "ruby": "" }
+            ],
+            "translation": "Apa yang telah aku sentuh. Kenapa aku tertawa. Kapan aku telah membayangkannya. Apakah itu hari ini?"
+        },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "が", "ruby": "" },
+                { "text": "欲", "ruby": "ほ" },
+                { "text": "しくて、", "ruby": "" },
+                { "text": "何故", "ruby": "なぜ" },
+                { "text": "知", "ruby": "し" },
+                { "text": "りたくて、", "ruby": "" },
+                { "text": "何時", "ruby": "いつ" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "す？", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "のことを", "ruby": "" }
+            ],
+            "translation": "Apa yang kuinginkan, kenapa aku ingin tahu, kapan aku akan mengingatnya? Hal tentang hari ini"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "沈", "ruby": "しず" },
+                { "text": "むオレンジの", "ruby": "" },
+                { "text": "光", "ruby": "ひかり" },
+                { "text": "が", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "をまた", "ruby": "" },
+                { "text": "刻", "ruby": "きざ" },
+                { "text": "んだ", "ruby": "" }
+            ],
+            "translation": "Cahaya jingga yang tenggelam kembali mengukir hari ini"
+        },
+        {
+            "segments": [
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "で" },
+                { "text": "は", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "が", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "であることを", "ruby": "" },
+                { "text": "証明", "ruby": "しょうめい" },
+                { "text": "してくれる", "ruby": "" }
+            ],
+            "translation": "Kenangan membuktikan bahwa aku adalah diriku sendiri"
+        },
+        {
+            "segments": [
+                { "text": "あと", "ruby": "" },
+                { "text": "何回", "ruby": "なんかい" },
+                { "text": "の", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "だ？", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "これで", "ruby": "" },
+                { "text": "何回目", "ruby": "なんかいめ" },
+                { "text": "の", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "だ？", "ruby": "" }
+            ],
+            "translation": "Berapa banyak musim panas yang tersisa? Ini musim panas yang keberapa kalinya?"
+        },
+        {
+            "segments": [
+                { "text": "さぁ", "ruby": "" },
+                { "text": "果", "ruby": "は" },
+                { "text": "たそう", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "いつかの", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あの", "ruby": "" },
+                { "text": "約束", "ruby": "やくそく" },
+                { "text": "を", "ruby": "" }
+            ],
+            "translation": "Mari kita penuhi janji di suatu hari itu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らいつか", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "す", "ruby": "" }
+            ],
+            "translation": "Kita suatu hari akan mengingatnya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らきっと", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "す", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "すたびに", "ruby": "" },
+                { "text": "胸", "ruby": "むね" },
+                { "text": "が", "ruby": "" },
+                { "text": "熱", "ruby": "あつ" },
+                { "text": "くなる", "ruby": "" }
+            ],
+            "translation": "Kita pasti akan mengingatnya, setiap kali mengingatnya dada ini terasa hangat"
+        },
+        {
+            "segments": [
+                { "text": "そんな", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "が", "ruby": "" },
+                { "text": "幕", "ruby": "まく" },
+                { "text": "を", "ruby": "" },
+                { "text": "開", "ruby": "あ" },
+                { "text": "ける", "ruby": "" }
+            ],
+            "translation": "Hari seperti itu akan membuka tirainya"
+        },
+        {
+            "segments": [
+                { "text": "飛", "ruby": "と" },
+                { "text": "び", "ruby": "" },
+                { "text": "込", "ruby": "こ" },
+                { "text": "むんだ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さぁ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "いっせーのせで", "ruby": "" }
+            ],
+            "translation": "Mari kita melompat, bersiaplah... satu, dua, tiga!"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "を", "ruby": "" },
+                { "text": "描", "ruby": "えが" },
+                { "text": "いた。", "ruby": "" },
+                { "text": "何処", "ruby": "どこ" },
+                { "text": "に", "ruby": "" },
+                { "text": "立", "ruby": "た" },
+                { "text": "った。", "ruby": "" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "を", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "った。", "ruby": "" },
+                { "text": "昨日", "ruby": "きのう" },
+                { "text": "だった？", "ruby": "" }
+            ],
+            "translation": "Apa yang telah aku gambar. Di mana aku telah berdiri. Siapa yang telah aku pikirkan. Apakah itu kemarin?"
+        },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "が", "ruby": "" },
+                { "text": "好", "ruby": "す" },
+                { "text": "きで、", "ruby": "" },
+                { "text": "何処", "ruby": "どこ" },
+                { "text": "を", "ruby": "" },
+                { "text": "目指", "ruby": "めざ" },
+                { "text": "して、", "ruby": "" },
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "に", "ruby": "" },
+                { "text": "会", "ruby": "あ" },
+                { "text": "いたい？", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "の", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は", "ruby": "" }
+            ],
+            "translation": "Apa yang aku sukai, ke mana tujuanku, siapa yang ingin kutemui? Aku yang hari ini"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "に", "ruby": "" },
+                { "text": "触", "ruby": "ふ" },
+                { "text": "れた。", "ruby": "" },
+                { "text": "何故", "ruby": "なぜ" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "った。", "ruby": "" },
+                { "text": "何時", "ruby": "いつ" },
+                { "text": "を", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "った。", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "だった？", "ruby": "" }
+            ],
+            "translation": "Apa yang telah aku sentuh. Kenapa aku tertawa. Kapan aku telah membayangkannya. Apakah itu hari ini?"
+        },
+        {
+            "segments": [
+                { "text": "何", "ruby": "なに" },
+                { "text": "が", "ruby": "" },
+                { "text": "欲", "ruby": "ほ" },
+                { "text": "しくて、", "ruby": "" },
+                { "text": "何故", "ruby": "なぜ" },
+                { "text": "知", "ruby": "し" },
+                { "text": "りたくて、", "ruby": "" },
+                { "text": "何時", "ruby": "いつ" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "す？", "ruby": "" },
+                { "text": "今日", "ruby": "きょう" },
+                { "text": "のことを", "ruby": "" }
+            ],
+            "translation": "Apa yang kuinginkan, kenapa aku ingin tahu, kapan aku akan mengingatnya? Hal tentang hari ini"
+        }
+    ]
+}

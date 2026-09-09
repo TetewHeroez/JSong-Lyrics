@@ -1,0 +1,411 @@
+{
+    "title": "Tada Kimi ni Hare",
+    "artist": "Yorushika",
+    "lines": [
+        {
+            "segments": [
+                { "text": "夜", "ruby": "よる" },
+                { "text": "に", "ruby": "" },
+                { "text": "浮", "ruby": "う" },
+                { "text": "かんでいた", "ruby": "" }
+            ],
+            "translation": "Mengambang di malam hari"
+        },
+        {
+            "segments": [
+                { "text": "海月", "ruby": "くらげ" },
+                { "text": "のような", "ruby": "" },
+                { "text": "月", "ruby": "つき" },
+                { "text": "が", "ruby": "" },
+                { "text": "爆", "ruby": "は" },
+                { "text": "ぜた", "ruby": "" }
+            ],
+            "translation": "Bulan meledak seperti ubur-ubur"
+        },
+        {
+            "segments": [
+                { "text": "バス", "ruby": "" },
+                { "text": "停", "ruby": "てい" },
+                { "text": "の", "ruby": "" },
+                { "text": "背", "ruby": "せ" },
+                { "text": "を", "ruby": "" },
+                { "text": "覗", "ruby": "のぞ" },
+                { "text": "けば", "ruby": "" }
+            ],
+            "translation": "Jika ku mengintip dari balik halte bus"
+        },
+        {
+            "segments": [
+                { "text": "あの", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "の", "ruby": "" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が", "ruby": "" },
+                { "text": "頭", "ruby": "あたま" },
+                { "text": "にいる", "ruby": "" }
+            ],
+            "translation": "Dirimu di musim panas itu ada di kepalaku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "だけ", "ruby": "" }
+            ],
+            "translation": "Hanya itu saja"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "鳥居", "ruby": "とりい" },
+                { "text": " ", "ruby": "" },
+                { "text": "乾", "ruby": "かわ" },
+                { "text": "いた", "ruby": "" },
+                { "text": "雲", "ruby": "くも" },
+                { "text": " ", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "の", "ruby": "" },
+                { "text": "匂", "ruby": "にお" },
+                { "text": "いが", "ruby": "" },
+                { "text": "頬", "ruby": "ほお" },
+                { "text": "を", "ruby": "" },
+                { "text": "撫", "ruby": "な" },
+                { "text": "でる", "ruby": "" }
+            ],
+            "translation": "Gerbang Torii, awan kering, aroma musim panas mengelus pipi"
+        },
+        {
+            "segments": [
+                { "text": "大人", "ruby": "おとな" },
+                { "text": "になるまでほら、", "ruby": "" },
+                { "text": "背伸", "ruby": "せの" },
+                { "text": "びしたままで", "ruby": "" }
+            ],
+            "translation": "Hingga aku menjadi dewasa, lihatlah, aku masih berjinjit"
+        },
+        {
+            "segments": [
+                { "text": "遊", "ruby": "あそ" },
+                { "text": "び", "ruby": "" },
+                { "text": "疲", "ruby": "つか" },
+                { "text": "れたら", "ruby": "" },
+                { "text": "バス", "ruby": "" },
+                { "text": "停", "ruby": "てい" },
+                { "text": "裏", "ruby": "うら" },
+                { "text": "で", "ruby": "" },
+                { "text": "空", "ruby": "そら" },
+                { "text": "でも", "ruby": "" },
+                { "text": "見", "ruby": "み" },
+                { "text": "よう", "ruby": "" }
+            ],
+            "translation": "Jika lelah bermain, mari melihat langit dari balik halte bus"
+        },
+        {
+            "segments": [
+                { "text": "じきに", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "が", "ruby": "" },
+                { "text": "暮", "ruby": "く" },
+                { "text": "れても", "ruby": "" }
+            ],
+            "translation": "Meskipun musim panas akan segera berakhir"
+        },
+        {
+            "segments": [
+                { "text": "きっときっと", "ruby": "" },
+                { "text": "覚", "ruby": "おぼ" },
+                { "text": "えてるから", "ruby": "" }
+            ],
+            "translation": "Pasti, aku pasti akan mengingatnya"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "追", "ruby": "お" },
+                { "text": "いつけないまま", "ruby": "" },
+                { "text": "大人", "ruby": "おとな" },
+                { "text": "になって", "ruby": "" }
+            ],
+            "translation": "Aku tumbuh dewasa tanpa bisa menyusulnya"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "の", "ruby": "" },
+                { "text": "ポケット", "ruby": "" },
+                { "text": "に", "ruby": "" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "が", "ruby": "" },
+                { "text": "咲", "ruby": "さ" },
+                { "text": "く", "ruby": "" }
+            ],
+            "translation": "Malam mekar di dalam sakumu"
+        },
+        {
+            "segments": [
+                { "text": "口", "ruby": "くち" },
+                { "text": "に", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せないなら", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "は", "ruby": "" },
+                { "text": "一人", "ruby": "ひとり" },
+                { "text": "だ", "ruby": "" }
+            ],
+            "translation": "Jika aku tak bisa mengatakannya, maka aku sendirian"
+        },
+        {
+            "segments": [
+                { "text": "それでいいからもう", "ruby": "" },
+                { "text": "諦", "ruby": "あきら" },
+                { "text": "めてる", "ruby": "" }
+            ],
+            "translation": "Karena itu tak apa, aku sudah menyerah"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "だけ", "ruby": "" }
+            ],
+            "translation": "Hanya itu saja"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "夏日", "ruby": "なつび" },
+                { "text": " ", "ruby": "" },
+                { "text": "乾", "ruby": "かわ" },
+                { "text": "いた", "ruby": "" },
+                { "text": "雲", "ruby": "くも" },
+                { "text": " ", "ruby": "" },
+                { "text": "山桜桃梅", "ruby": "ゆすら" },
+                { "text": " ", "ruby": "" },
+                { "text": "錆", "ruby": "さ" },
+                { "text": "びた", "ruby": "" },
+                { "text": "標識", "ruby": "ひょうしき" }
+            ],
+            "translation": "Hari musim panas, awan kering, buah ceri (Nanking), rambu yang berkarat"
+        },
+        {
+            "segments": [
+                { "text": "記憶", "ruby": "きおく" },
+                { "text": "の", "ruby": "" },
+                { "text": "中", "ruby": "なか" },
+                { "text": "はいつも", "ruby": "" },
+                { "text": "夏", "ruby": "なつ" },
+                { "text": "の", "ruby": "" },
+                { "text": "匂", "ruby": "にお" },
+                { "text": "いがする", "ruby": "" }
+            ],
+            "translation": "Di dalam ingatanku selalu tercium aroma musim panas"
+        },
+        {
+            "segments": [
+                { "text": "写真", "ruby": "しゃしん" },
+                { "text": "なんて", "ruby": "" },
+                { "text": "紙切", "ruby": "かみき" },
+                { "text": "れだ", "ruby": "" }
+            ],
+            "translation": "Foto hanyalah secarik kertas"
+        },
+        {
+            "segments": [
+                { "text": "思", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "で" },
+                { "text": "なんてただの", "ruby": "" },
+                { "text": "塵", "ruby": "ごみ" },
+                { "text": "だ", "ruby": "" }
+            ],
+            "translation": "Kenangan hanyalah sebuah debu"
+        },
+        {
+            "segments": [
+                { "text": "それがわからないから、", "ruby": "" },
+                { "text": "口", "ruby": "くち" },
+                { "text": "を", "ruby": "" },
+                { "text": "噤", "ruby": "つぐ" },
+                { "text": "んだまま", "ruby": "" }
+            ],
+            "translation": "Karena aku tak memahaminya, aku tetap tutup mulut"
+        },
+        {
+            "segments": [
+                { "text": "絶", "ruby": "た" },
+                { "text": "えず", "ruby": "" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "のいこふ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "記憶", "ruby": "きおく" },
+                { "text": "に", "ruby": "" },
+                { "text": "夏野", "ruby": "なつの" },
+                { "text": "の", "ruby": "" },
+                { "text": "石", "ruby": "いし" },
+                { "text": "一", "ruby": "ひと" },
+                { "text": "つ", "ruby": "" }
+            ],
+            "translation": "Sebuah batu di ladang musim panas dalam kenangan, di mana kau selalu beristirahat"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "俯", "ruby": "うつむ" },
+                { "text": "いたまま", "ruby": "" },
+                { "text": "大人", "ruby": "おとな" },
+                { "text": "になって", "ruby": "" }
+            ],
+            "translation": "Aku tumbuh dewasa sambil terus menunduk"
+        },
+        {
+            "segments": [
+                { "text": "追", "ruby": "お" },
+                { "text": "いつけない", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "ただ", "ruby": "" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "に", "ruby": "" },
+                { "text": "晴", "ruby": "は" },
+                { "text": "れ", "ruby": "" }
+            ],
+            "translation": "Tak mampu menyusulnya, hanya hari yang cerah untukmu"
+        },
+        {
+            "segments": [
+                { "text": "口", "ruby": "くち" },
+                { "text": "に", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せないまま", "ruby": "" },
+                { "text": "坂", "ruby": "さか" },
+                { "text": "を", "ruby": "" },
+                { "text": "上", "ruby": "のぼ" },
+                { "text": "った", "ruby": "" }
+            ],
+            "translation": "Mendaki bukit tanpa bisa mengatakannya"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らの", "ruby": "" },
+                { "text": "影", "ruby": "かげ" },
+                { "text": "に", "ruby": "" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "が", "ruby": "" },
+                { "text": "咲", "ruby": "さ" },
+                { "text": "いていく", "ruby": "" }
+            ],
+            "translation": "Malam mulai mekar pada bayangan kita"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "俯", "ruby": "うつむ" },
+                { "text": "いたまま", "ruby": "" },
+                { "text": "大人", "ruby": "おとな" },
+                { "text": "になった", "ruby": "" }
+            ],
+            "translation": "Aku tumbuh dewasa sambil terus menunduk"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "が", "ruby": "" },
+                { "text": "思", "ruby": "おも" },
+                { "text": "うまま", "ruby": "" },
+                { "text": "手", "ruby": "て" },
+                { "text": "を", "ruby": "" },
+                { "text": "叩", "ruby": "たた" },
+                { "text": "け", "ruby": "" }
+            ],
+            "translation": "Bertepuk tanganlah sesukamu"
+        },
+        {
+            "segments": [
+                { "text": "陽", "ruby": "ひ" },
+                { "text": "の", "ruby": "" },
+                { "text": "落", "ruby": "お" },
+                { "text": "ちる", "ruby": "" },
+                { "text": "坂道", "ruby": "さかみち" },
+                { "text": "を", "ruby": "" },
+                { "text": "上", "ruby": "のぼ" },
+                { "text": "って", "ruby": "" }
+            ],
+            "translation": "Mendaki bukit di mana matahari terbenam"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らの", "ruby": "" },
+                { "text": "影", "ruby": "かげ" },
+                { "text": "は", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あ", "ruby": "" }
+            ],
+            "translation": "Bayangan kita, ah, ah"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "追", "ruby": "お" },
+                { "text": "いつけないまま", "ruby": "" },
+                { "text": "大人", "ruby": "おとな" },
+                { "text": "になって", "ruby": "" }
+            ],
+            "translation": "Aku tumbuh dewasa tanpa bisa menyusulnya"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "の", "ruby": "" },
+                { "text": "ポケット", "ruby": "" },
+                { "text": "に", "ruby": "" },
+                { "text": "夜", "ruby": "よる" },
+                { "text": "が", "ruby": "" },
+                { "text": "咲", "ruby": "さ" },
+                { "text": "く", "ruby": "" }
+            ],
+            "translation": "Malam mekar di dalam sakumu"
+        },
+        {
+            "segments": [
+                { "text": "口", "ruby": "くち" },
+                { "text": "に", "ruby": "" },
+                { "text": "出", "ruby": "だ" },
+                { "text": "せなくても", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らは", "ruby": "" },
+                { "text": "一", "ruby": "ひと" },
+                { "text": "つだ", "ruby": "" }
+            ],
+            "translation": "Meskipun tak bisa mengatakannya, kita adalah satu"
+        },
+        {
+            "segments": [
+                { "text": "それでいいだろ、もう", "ruby": "" }
+            ],
+            "translation": "Karena itu tak apa, sudah lah"
+        },
+        {
+            "segments": [
+                { "text": "君", "ruby": "きみ" },
+                { "text": "の", "ruby": "" },
+                { "text": "想", "ruby": "おも" },
+                { "text": "い", "ruby": "" },
+                { "text": "出", "ruby": "で" },
+                { "text": "を", "ruby": "" },
+                { "text": "噛", "ruby": "か" },
+                { "text": "み", "ruby": "" },
+                { "text": "締", "ruby": "し" },
+                { "text": "めてる", "ruby": "" }
+            ],
+            "translation": "Aku merenungkan kenangan tentangmu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "だけ", "ruby": "" }
+            ],
+            "translation": "Hanya itu saja"
+        }
+    ]
+}
