@@ -1,522 +1,486 @@
 {
-    "id": "suzuki-daysofdash",
-    "title": "DAYS of DASH",
-    "artist": "Suzuki Konomi",
-    "lines": [
-        {
-            "segments": [
-                { "text": "過", "ruby": "す" },
-                { "text": "ぎるだけの" },
-                { "text": "時", "ruby": "じ" },
-                { "text": "間", "ruby": "かん" },
-                { "text": "じゃくやしい" }
-            ],
-            "translation": "Sungguh menyebalkan jika waktu hanya berlalu begitu saja"
-        },
-        {
-            "segments": [
-                { "text": "きざまなくちゃ" }
-            ],
-            "translation": "Kita harus mengukirnya"
-        },
-        {
-            "segments": [
-                { "text": "ここにいると" },
-                { "text": "心", "ruby": "こころ" },
-                { "text": "がさけぶ" },
-                { "text": "瞬", "ruby": "しゅん" },
-                { "text": "間", "ruby": "かん" }
-            ],
-            "translation": "Di momen saat hati ini berteriak bahwa kita ada di sini"
-        },
-        {
-            "segments": [
-                { "text": "I'm dreaming" }
-            ],
-            "translation": "Aku sedang bermimpi"
-        },
-        {
-            "segments": [
-                { "text": "迷", "ruby": "まよ" },
-                { "text": "いながら" },
-                { "text": "涙", "ruby": "なみだ" },
-                { "text": "を" },
-                { "text": "飲", "ruby": "の" },
-                { "text": "み" },
-                { "text": "込", "ruby": "こ" },
-                { "text": "んだ" }
-            ],
-            "translation": "Sembari dilanda kebingungan, aku menelan air mataku"
-        },
-        {
-            "segments": [
-                { "text": "不", "ruby": "ぶ" },
-                { "text": "器", "ruby": "き" },
-                { "text": "用", "ruby": "よう" },
-                { "text": "だね" },
-                { "text": "夢", "ruby": "ゆめ" },
-                { "text": "も" },
-                { "text": "遠", "ruby": "とお" },
-                { "text": "回", "ruby": "まわ" },
-                { "text": "り" }
-            ],
-            "translation": "Sangat canggung ya, mimpi kita pun harus mengambil jalan memutar"
-        },
-        {
-            "segments": [
-                { "text": "大", "ruby": "おお" },
-                { "text": "空", "ruby": "ぞら" },
-                { "text": "を" },
-                { "text": "見", "ruby": "み" },
-                { "text": "上", "ruby": "あ" },
-                { "text": "げ" },
-                { "text": "何", "ruby": "なに" },
-                { "text": "も" },
-                { "text": "言", "ruby": "い" },
-                { "text": "えず" }
-            ],
-            "translation": "Menatap langit luas tanpa bisa mengatakan apa-apa"
-        },
-        {
-            "segments": [
-                { "text": "胸", "ruby": "むね" },
-                { "text": "が" },
-                { "text": "痛", "ruby": "いた" },
-                { "text": "む" },
-                { "text": "理", "ruby": "り" },
-                { "text": "由", "ruby": "ゆう" },
-                { "text": "考", "ruby": "かんが" },
-                { "text": "えていた" }
-            ],
-            "translation": "Aku terus memikirkan alasan mengapa dadaku terasa sakit"
-        },
-        { "empty": true },
-        {
-            "segments": [
-                { "text": "DAYS of DASH" }
-            ],
-            "translation": "Hari-hari di mana kita berlari kencang"
-        },
-        {
-            "segments": [
-                { "text": "風", "ruby": "かぜ" },
-                { "text": "を" },
-                { "text": "走", "ruby": "はし" },
-                { "text": "り" },
-                { "text": "抜", "ruby": "ぬ" },
-                { "text": "けて" }
-            ],
-            "translation": "Berlari menembus hembusan angin"
-        },
-        {
-            "segments": [
-                { "text": "君", "ruby": "きみ" },
-                { "text": "と" },
-                { "text": "僕", "ruby": "ぼく" },
-                { "text": "の" },
-                { "text": "中", "ruby": "なか" },
-                { "text": "で" }
-            ],
-            "translation": "Di dalam dirimu dan diriku"
-        },
-        {
-            "segments": [
-                { "text": "何", "ruby": "なに" },
-                { "text": "が" },
-                { "text": "始", "ruby": "はじ" },
-                { "text": "まったのだろう" }
-            ],
-            "translation": "Entah apa yang baru saja dimulai"
-        },
-        {
-            "segments": [
-                { "text": "わからないけど" }
-            ],
-            "translation": "Meskipun aku tidak memahaminya"
-        },
-        {
-            "segments": [
-                { "text": "キラキラ" },
-                { "text": "光", "ruby": "ひか" },
-                { "text": "る" },
-                { "text": "太", "ruby": "たい" },
-                { "text": "陽", "ruby": "よう" },
-                { "text": "が" }
-            ],
-            "translation": "Matahari yang bersinar terang dengan kilauannya"
-        },
-        {
-            "segments": [
-                { "text": "照", "ruby": "て" },
-                { "text": "らす" },
-                { "text": "場", "ruby": "ば" },
-                { "text": "所", "ruby": "しょ" },
-                { "text": "を" }
-            ],
-            "translation": "Menyinari tempat itu"
-        },
-        {
-            "segments": [
-                { "text": "ずっと" },
-                { "text": "進", "ruby": "すす" },
-                { "text": "もう" }
-            ],
-            "translation": "Mari kita terus maju ke sana"
-        },
-        {
-            "segments": [
-                { "text": "永", "ruby": "えい" },
-                { "text": "遠", "ruby": "えん" },
-                { "text": "など" },
-                { "text": "知", "ruby": "し" },
-                { "text": "らないけれど" }
-            ],
-            "translation": "Meskipun aku tidak tahu-menahu tentang hal seperti keabadian"
-        },
-        { "empty": true },
-        {
-            "segments": [
-                { "text": "強", "ruby": "つよ" },
-                { "text": "くないよだから" },
-                { "text": "前", "ruby": "まえ" },
-                { "text": "を" },
-                { "text": "向", "ruby": "む" },
-                { "text": "くんだ" }
-            ],
-            "translation": "Aku tidaklah kuat, karena itulah aku menghadap ke depan"
-        },
-        {
-            "segments": [
-                { "text": "焦", "ruby": "あせ" },
-                { "text": "りつつも" }
-            ],
-            "translation": "Meski sembari merasa terburu-buru"
-        },
-        {
-            "segments": [
-                { "text": "扉", "ruby": "とびら" },
-                { "text": "あけて" },
-                { "text": "飛", "ruby": "と" },
-                { "text": "び" },
-                { "text": "出", "ruby": "だ" },
-                { "text": "してみたい" },
-                { "text": "衝", "ruby": "しょう" },
-                { "text": "動", "ruby": "どう" }
-            ],
-            "translation": "Ada dorongan untuk membuka pintu itu dan melompat keluar"
-        },
-        {
-            "segments": [
-                { "text": "あふれ" },
-                { "text": "出", "ruby": "だ" },
-                { "text": "した" },
-                { "text": "感", "ruby": "かん" },
-                { "text": "情", "ruby": "じょう" },
-                { "text": "抱", "ruby": "だ" },
-                { "text": "きしめ" }
-            ],
-            "translation": "Mendekap perasaan yang telah meluap-luap ini"
-        },
-        {
-            "segments": [
-                { "text": "怖", "ruby": "こわ" },
-                { "text": "くないよ" },
-                { "text": "共", "ruby": "とも" },
-                { "text": "にいる" },
-                { "text": "限", "ruby": "かぎ" },
-                { "text": "り" }
-            ],
-            "translation": "Selama kita bersama, aku tidak merasa takut"
-        },
-        {
-            "segments": [
-                { "text": "青", "ruby": "あお" },
-                { "text": "空", "ruby": "ぞら" },
-                { "text": "に" },
-                { "text": "投", "ruby": "な" },
-                { "text": "げた" },
-                { "text": "熱", "ruby": "あつ" },
-                { "text": "い" },
-                { "text": "希", "ruby": "き" },
-                { "text": "望", "ruby": "ぼう" }
-            ],
-            "translation": "Harapan panas yang kulemparkan ke langit biru"
-        },
-        {
-            "segments": [
-                { "text": "あきらめるなんてありえないよ" }
-            ],
-            "translation": "Menyerah adalah hal yang sama sekali tak mungkin!"
-        },
-        { "empty": true },
-        {
-            "segments": [
-                { "text": "EYES to EYES" }
-            ],
-            "translation": "Mata bertemu mata"
-        },
-        {
-            "segments": [
-                { "text": "言", "ruby": "こと" },
-                { "text": "葉", "ruby": "ば" },
-                { "text": "いらない" },
-                { "text": "世", "ruby": "せ" },
-                { "text": "界", "ruby": "かい" }
-            ],
-            "translation": "Dunia di mana kata-kata tak lagi dibutuhkan"
-        },
-        {
-            "segments": [
-                { "text": "君", "ruby": "きみ" },
-                { "text": "と" },
-                { "text": "僕", "ruby": "ぼく" },
-                { "text": "の" },
-                { "text": "世", "ruby": "せ" },
-                { "text": "界", "ruby": "かい" }
-            ],
-            "translation": "Dunia milikku dan milikmu"
-        },
-        {
-            "segments": [
-                { "text": "今", "ruby": "いま" },
-                { "text": "が" },
-                { "text": "始", "ruby": "はじ" },
-                { "text": "まったのだろう" }
-            ],
-            "translation": "Kini telah dimulai, bukan?"
-        },
-        {
-            "segments": [
-                { "text": "わかりかけてる" }
-            ],
-            "translation": "Aku mulai memahaminya"
-        },
-        {
-            "segments": [
-                { "text": "未", "ruby": "み" },
-                { "text": "来", "ruby": "らい" },
-                { "text": "を" },
-                { "text": "探", "ruby": "さぐ" },
-                { "text": "る" },
-                { "text": "覚", "ruby": "かく" },
-                { "text": "悟", "ruby": "ご" }
-            ],
-            "translation": "Kesiapan untuk mencari tahu tentang masa depan"
-        },
-        {
-            "segments": [
-                { "text": "決", "ruby": "き" },
-                { "text": "めたとたん" }
-            ],
-            "translation": "Begitu aku memutuskannya,"
-        },
-        {
-            "segments": [
-                { "text": "もっと" },
-                { "text": "変", "ruby": "か" },
-                { "text": "わる" }
-            ],
-            "translation": "Semuanya akan semakin berubah"
-        },
-        {
-            "segments": [
-                { "text": "永", "ruby": "えい" },
-                { "text": "遠", "ruby": "えん" },
-                { "text": "へのつながり" },
-                { "text": "探", "ruby": "さが" },
-                { "text": "したい" }
-            ],
-            "translation": "Aku ingin mencari hubungan menuju keabadian"
-        },
-        {
-            "segments": [
-                { "text": "もっと…" }
-            ],
-            "translation": "Lebih jauh lagi..."
-        },
-        { "empty": true },
-        {
-            "segments": [
-                { "text": "大", "ruby": "おお" },
-                { "text": "空", "ruby": "ぞら" },
-                { "text": "を" },
-                { "text": "見", "ruby": "み" },
-                { "text": "上", "ruby": "あ" },
-                { "text": "げ" },
-                { "text": "何", "ruby": "なに" },
-                { "text": "も" },
-                { "text": "言", "ruby": "い" },
-                { "text": "えず" }
-            ],
-            "translation": "Menatap langit luas tanpa bisa mengatakan apa-apa"
-        },
-        {
-            "segments": [
-                { "text": "胸", "ruby": "むね" },
-                { "text": "が" },
-                { "text": "痛", "ruby": "いた" },
-                { "text": "む" },
-                { "text": "理", "ruby": "り" },
-                { "text": "由", "ruby": "ゆう" },
-                { "text": "考", "ruby": "かんが" },
-                { "text": "えていた" }
-            ],
-            "translation": "Aku terus memikirkan alasan mengapa dadaku terasa sakit"
-        },
-        {
-            "segments": [
-                { "text": "DAYS of DASH" }
-            ],
-            "translation": "Hari-hari di mana kita berlari kencang"
-        },
-        {
-            "segments": [
-                { "text": "風", "ruby": "かぜ" },
-                { "text": "を" },
-                { "text": "走", "ruby": "はし" },
-                { "text": "り" },
-                { "text": "抜", "ruby": "ぬ" },
-                { "text": "けて" }
-            ],
-            "translation": "Berlari menembus hembusan angin"
-        },
-        {
-            "segments": [
-                { "text": "君", "ruby": "きみ" },
-                { "text": "と" },
-                { "text": "僕", "ruby": "ぼく" },
-                { "text": "の" },
-                { "text": "中", "ruby": "なか" },
-                { "text": "で" }
-            ],
-            "translation": "Di dalam dirimu dan diriku"
-        },
-        {
-            "segments": [
-                { "text": "何", "ruby": "なに" },
-                { "text": "が" },
-                { "text": "始", "ruby": "はじ" },
-                { "text": "まったのだろう" }
-            ],
-            "translation": "Entah apa yang baru saja dimulai"
-        },
-        {
-            "segments": [
-                { "text": "わからないけど" }
-            ],
-            "translation": "Meskipun aku tidak memahaminya"
-        },
-        {
-            "segments": [
-                { "text": "キラキラ" },
-                { "text": "光", "ruby": "ひか" },
-                { "text": "る" },
-                { "text": "太", "ruby": "たい" },
-                { "text": "陽", "ruby": "よう" },
-                { "text": "が" }
-            ],
-            "translation": "Matahari yang bersinar terang dengan kilauannya"
-        },
-        {
-            "segments": [
-                { "text": "照", "ruby": "て" },
-                { "text": "らす" },
-                { "text": "場", "ruby": "ば" },
-                { "text": "所", "ruby": "しょ" },
-                { "text": "はどこに" }
-            ],
-            "translation": "Di manakah tempat yang disinarinya itu?"
-        },
-        {
-            "segments": [
-                { "text": "何", "ruby": "なに" },
-                { "text": "を" },
-                { "text": "始", "ruby": "はじ" },
-                { "text": "めようとしてる?" }
-            ],
-            "translation": "Apa yang sedang kau coba mulai?"
-        },
-        {
-            "segments": [
-                { "text": "I'm a dreamer" }
-            ],
-            "translation": "Aku adalah seorang pemimpi"
-        },
-        { "empty": true },
-        {
-            "segments": [
-                { "text": "もう" },
-                { "text": "言", "ruby": "こと" },
-                { "text": "葉", "ruby": "ば" },
-                { "text": "いらない" },
-                { "text": "世", "ruby": "せ" },
-                { "text": "界", "ruby": "かい" }
-            ],
-            "translation": "Dunia di mana kata-kata sudah tak lagi dibutuhkan"
-        },
-        {
-            "segments": [
-                { "text": "君", "ruby": "きみ" },
-                { "text": "と" },
-                { "text": "僕", "ruby": "ぼく" },
-                { "text": "の" },
-                { "text": "世", "ruby": "せ" },
-                { "text": "界", "ruby": "かい" }
-            ],
-            "translation": "Dunia milikku dan milikmu"
-        },
-        {
-            "segments": [
-                { "text": "今", "ruby": "いま" },
-                { "text": "が" },
-                { "text": "始", "ruby": "はじ" },
-                { "text": "まったのだろう" }
-            ],
-            "translation": "Kini telah dimulai, bukan?"
-        },
-        {
-            "segments": [
-                { "text": "わかりかけてる" }
-            ],
-            "translation": "Aku mulai memahaminya"
-        },
-        {
-            "segments": [
-                { "text": "未", "ruby": "み" },
-                { "text": "来", "ruby": "らい" },
-                { "text": "を" },
-                { "text": "探", "ruby": "さぐ" },
-                { "text": "る" },
-                { "text": "覚", "ruby": "かく" },
-                { "text": "悟", "ruby": "ご" },
-                { "text": "決", "ruby": "き" },
-                { "text": "めたとたん" }
-            ],
-            "translation": "Begitu aku menyiapkan diri untuk mencari tahu tentang masa depan"
-        },
-        {
-            "segments": [
-                { "text": "もっと" },
-                { "text": "変", "ruby": "か" },
-                { "text": "わる" }
-            ],
-            "translation": "Semuanya akan semakin berubah"
-        },
-        {
-            "segments": [
-                { "text": "永", "ruby": "えい" },
-                { "text": "遠", "ruby": "えん" },
-                { "text": "など" },
-                { "text": "知", "ruby": "し" },
-                { "text": "らないけれど" }
-            ],
-            "translation": "Meskipun aku tidak tahu-menahu tentang hal seperti keabadian"
-        },
-        {
-            "segments": [
-                { "text": "Sing this song" }
-            ],
-            "translation": "Mari nyanyikan lagu ini"
-        }
-    ]
+  "id": "suzuki-daysofdash",
+  "title": "DAYS of DASH",
+  "artist": "Suzuki Konomi",
+  "lines": [
+    {
+      "segments": [
+        { "text": "過", "ruby": "す" },
+        { "text": "ぎるだけの" },
+        { "text": "時", "ruby": "じ" },
+        { "text": "間", "ruby": "かん" },
+        { "text": "じゃくやしい" }
+      ],
+      "translation": "Sungguh menyebalkan jika waktu hanya berlalu begitu saja"
+    },
+    {
+      "segments": [{ "text": "きざまなくちゃ" }],
+      "translation": "Kita harus mengukirnya"
+    },
+    {
+      "segments": [
+        { "text": "ここにいると" },
+        { "text": "心", "ruby": "こころ" },
+        { "text": "がさけぶ" },
+        { "text": "瞬", "ruby": "しゅん" },
+        { "text": "間", "ruby": "かん" }
+      ],
+      "translation": "Di momen saat hati ini berteriak bahwa kita ada di sini"
+    },
+    {
+      "segments": [{ "text": "I'm dreaming" }],
+      "translation": "Aku sedang bermimpi"
+    },
+    {
+      "segments": [
+        { "text": "迷", "ruby": "まよ" },
+        { "text": "いながら" },
+        { "text": "涙", "ruby": "なみだ" },
+        { "text": "を" },
+        { "text": "飲", "ruby": "の" },
+        { "text": "み" },
+        { "text": "込", "ruby": "こ" },
+        { "text": "んだ" }
+      ],
+      "translation": "Sembari dilanda kebingungan, aku menelan air mataku"
+    },
+    {
+      "segments": [
+        { "text": "不", "ruby": "ぶ" },
+        { "text": "器", "ruby": "き" },
+        { "text": "用", "ruby": "よう" },
+        { "text": "だね" },
+        { "text": "夢", "ruby": "ゆめ" },
+        { "text": "も" },
+        { "text": "遠", "ruby": "とお" },
+        { "text": "回", "ruby": "まわ" },
+        { "text": "り" }
+      ],
+      "translation": "Sangat canggung ya, mimpi kita pun harus mengambil jalan memutar"
+    },
+    {
+      "segments": [
+        { "text": "大", "ruby": "おお" },
+        { "text": "空", "ruby": "ぞら" },
+        { "text": "を" },
+        { "text": "見", "ruby": "み" },
+        { "text": "上", "ruby": "あ" },
+        { "text": "げ" },
+        { "text": "何", "ruby": "なに" },
+        { "text": "も" },
+        { "text": "言", "ruby": "い" },
+        { "text": "えず" }
+      ],
+      "translation": "Menatap langit luas tanpa bisa mengatakan apa-apa"
+    },
+    {
+      "segments": [
+        { "text": "胸", "ruby": "むね" },
+        { "text": "が" },
+        { "text": "痛", "ruby": "いた" },
+        { "text": "む" },
+        { "text": "理", "ruby": "り" },
+        { "text": "由", "ruby": "ゆう" },
+        { "text": "考", "ruby": "かんが" },
+        { "text": "えていた" }
+      ],
+      "translation": "Aku terus memikirkan alasan mengapa dadaku terasa sakit"
+    },
+    { "empty": true },
+    {
+      "segments": [{ "text": "DAYS of DASH" }],
+      "translation": "Hari-hari di mana kita berlari kencang"
+    },
+    {
+      "segments": [
+        { "text": "風", "ruby": "かぜ" },
+        { "text": "を" },
+        { "text": "走", "ruby": "はし" },
+        { "text": "り" },
+        { "text": "抜", "ruby": "ぬ" },
+        { "text": "けて" }
+      ],
+      "translation": "Berlari menembus hembusan angin"
+    },
+    {
+      "segments": [
+        { "text": "君", "ruby": "きみ" },
+        { "text": "と" },
+        { "text": "僕", "ruby": "ぼく" },
+        { "text": "の" },
+        { "text": "中", "ruby": "なか" },
+        { "text": "で" }
+      ],
+      "translation": "Di dalam dirimu dan diriku"
+    },
+    {
+      "segments": [
+        { "text": "何", "ruby": "なに" },
+        { "text": "が" },
+        { "text": "始", "ruby": "はじ" },
+        { "text": "まったのだろう" }
+      ],
+      "translation": "Entah apa yang baru saja dimulai"
+    },
+    {
+      "segments": [{ "text": "わからないけど" }],
+      "translation": "Meskipun aku tidak memahaminya"
+    },
+    {
+      "segments": [
+        { "text": "キラキラ" },
+        { "text": "光", "ruby": "ひか" },
+        { "text": "る" },
+        { "text": "太", "ruby": "たい" },
+        { "text": "陽", "ruby": "よう" },
+        { "text": "が" }
+      ],
+      "translation": "Matahari yang bersinar terang dengan kilauannya"
+    },
+    {
+      "segments": [
+        { "text": "照", "ruby": "て" },
+        { "text": "らす" },
+        { "text": "場", "ruby": "ば" },
+        { "text": "所", "ruby": "しょ" },
+        { "text": "を" }
+      ],
+      "translation": "Menyinari tempat itu"
+    },
+    {
+      "segments": [
+        { "text": "ずっと" },
+        { "text": "進", "ruby": "すす" },
+        { "text": "もう" }
+      ],
+      "translation": "Mari kita terus maju ke sana"
+    },
+    {
+      "segments": [
+        { "text": "永", "ruby": "えい" },
+        { "text": "遠", "ruby": "えん" },
+        { "text": "など" },
+        { "text": "知", "ruby": "し" },
+        { "text": "らないけれど" }
+      ],
+      "translation": "Meskipun aku tidak tahu-menahu tentang hal seperti keabadian"
+    },
+    { "empty": true },
+    {
+      "segments": [
+        { "text": "強", "ruby": "つよ" },
+        { "text": "くないよだから" },
+        { "text": "前", "ruby": "まえ" },
+        { "text": "を" },
+        { "text": "向", "ruby": "む" },
+        { "text": "くんだ" }
+      ],
+      "translation": "Aku tidaklah kuat, karena itulah aku menghadap ke depan"
+    },
+    {
+      "segments": [{ "text": "焦", "ruby": "あせ" }, { "text": "りつつも" }],
+      "translation": "Meski sembari merasa terburu-buru"
+    },
+    {
+      "segments": [
+        { "text": "扉", "ruby": "とびら" },
+        { "text": "あけて" },
+        { "text": "飛", "ruby": "と" },
+        { "text": "び" },
+        { "text": "出", "ruby": "だ" },
+        { "text": "してみたい" },
+        { "text": "衝", "ruby": "しょう" },
+        { "text": "動", "ruby": "どう" }
+      ],
+      "translation": "Ada dorongan untuk membuka pintu itu dan melompat keluar"
+    },
+    {
+      "segments": [
+        { "text": "あふれ" },
+        { "text": "出", "ruby": "だ" },
+        { "text": "した" },
+        { "text": "感", "ruby": "かん" },
+        { "text": "情", "ruby": "じょう" },
+        { "text": "抱", "ruby": "だ" },
+        { "text": "きしめ" }
+      ],
+      "translation": "Mendekap perasaan yang telah meluap-luap ini"
+    },
+    {
+      "segments": [
+        { "text": "怖", "ruby": "こわ" },
+        { "text": "くないよ" },
+        { "text": "共", "ruby": "とも" },
+        { "text": "にいる" },
+        { "text": "限", "ruby": "かぎ" },
+        { "text": "り" }
+      ],
+      "translation": "Selama kita bersama, aku tidak merasa takut"
+    },
+    {
+      "segments": [
+        { "text": "青", "ruby": "あお" },
+        { "text": "空", "ruby": "ぞら" },
+        { "text": "に" },
+        { "text": "投", "ruby": "な" },
+        { "text": "げた" },
+        { "text": "熱", "ruby": "あつ" },
+        { "text": "い" },
+        { "text": "希", "ruby": "き" },
+        { "text": "望", "ruby": "ぼう" }
+      ],
+      "translation": "Harapan panas yang kulemparkan ke langit biru"
+    },
+    {
+      "segments": [{ "text": "あきらめるなんてありえないよ" }],
+      "translation": "Menyerah adalah hal yang sama sekali tak mungkin!"
+    },
+    { "empty": true },
+    {
+      "segments": [{ "text": "EYES to EYES" }],
+      "translation": "Mata bertemu mata"
+    },
+    {
+      "segments": [
+        { "text": "言", "ruby": "こと" },
+        { "text": "葉", "ruby": "ば" },
+        { "text": "いらない" },
+        { "text": "世", "ruby": "せ" },
+        { "text": "界", "ruby": "かい" }
+      ],
+      "translation": "Dunia di mana kata-kata tak lagi dibutuhkan"
+    },
+    {
+      "segments": [
+        { "text": "君", "ruby": "きみ" },
+        { "text": "と" },
+        { "text": "僕", "ruby": "ぼく" },
+        { "text": "の" },
+        { "text": "世", "ruby": "せ" },
+        { "text": "界", "ruby": "かい" }
+      ],
+      "translation": "Dunia milikku dan milikmu"
+    },
+    {
+      "segments": [
+        { "text": "今", "ruby": "いま" },
+        { "text": "が" },
+        { "text": "始", "ruby": "はじ" },
+        { "text": "まったのだろう" }
+      ],
+      "translation": "Kini telah dimulai, bukan?"
+    },
+    {
+      "segments": [{ "text": "わかりかけてる" }],
+      "translation": "Aku mulai memahaminya"
+    },
+    {
+      "segments": [
+        { "text": "未", "ruby": "み" },
+        { "text": "来", "ruby": "らい" },
+        { "text": "を" },
+        { "text": "探", "ruby": "さぐ" },
+        { "text": "る" },
+        { "text": "覚", "ruby": "かく" },
+        { "text": "悟", "ruby": "ご" }
+      ],
+      "translation": "Kesiapan untuk mencari tahu tentang masa depan"
+    },
+    {
+      "segments": [{ "text": "決", "ruby": "き" }, { "text": "めたとたん" }],
+      "translation": "Begitu aku memutuskannya,"
+    },
+    {
+      "segments": [
+        { "text": "もっと" },
+        { "text": "変", "ruby": "か" },
+        { "text": "わる" }
+      ],
+      "translation": "Semuanya akan semakin berubah"
+    },
+    {
+      "segments": [
+        { "text": "永", "ruby": "えい" },
+        { "text": "遠", "ruby": "えん" },
+        { "text": "へのつながり" },
+        { "text": "探", "ruby": "さが" },
+        { "text": "したい" }
+      ],
+      "translation": "Aku ingin mencari hubungan menuju keabadian"
+    },
+    {
+      "segments": [{ "text": "もっと…" }],
+      "translation": "Lebih jauh lagi..."
+    },
+    { "empty": true },
+    {
+      "segments": [
+        { "text": "大", "ruby": "おお" },
+        { "text": "空", "ruby": "ぞら" },
+        { "text": "を" },
+        { "text": "見", "ruby": "み" },
+        { "text": "上", "ruby": "あ" },
+        { "text": "げ" },
+        { "text": "何", "ruby": "なに" },
+        { "text": "も" },
+        { "text": "言", "ruby": "い" },
+        { "text": "えず" }
+      ],
+      "translation": "Menatap langit luas tanpa bisa mengatakan apa-apa"
+    },
+    {
+      "segments": [
+        { "text": "胸", "ruby": "むね" },
+        { "text": "が" },
+        { "text": "痛", "ruby": "いた" },
+        { "text": "む" },
+        { "text": "理", "ruby": "り" },
+        { "text": "由", "ruby": "ゆう" },
+        { "text": "考", "ruby": "かんが" },
+        { "text": "えていた" }
+      ],
+      "translation": "Aku terus memikirkan alasan mengapa dadaku terasa sakit"
+    },
+    {
+      "segments": [{ "text": "DAYS of DASH" }],
+      "translation": "Hari-hari di mana kita berlari kencang"
+    },
+    {
+      "segments": [
+        { "text": "風", "ruby": "かぜ" },
+        { "text": "を" },
+        { "text": "走", "ruby": "はし" },
+        { "text": "り" },
+        { "text": "抜", "ruby": "ぬ" },
+        { "text": "けて" }
+      ],
+      "translation": "Berlari menembus hembusan angin"
+    },
+    {
+      "segments": [
+        { "text": "君", "ruby": "きみ" },
+        { "text": "と" },
+        { "text": "僕", "ruby": "ぼく" },
+        { "text": "の" },
+        { "text": "中", "ruby": "なか" },
+        { "text": "で" }
+      ],
+      "translation": "Di dalam dirimu dan diriku"
+    },
+    {
+      "segments": [
+        { "text": "何", "ruby": "なに" },
+        { "text": "が" },
+        { "text": "始", "ruby": "はじ" },
+        { "text": "まったのだろう" }
+      ],
+      "translation": "Entah apa yang baru saja dimulai"
+    },
+    {
+      "segments": [{ "text": "わからないけど" }],
+      "translation": "Meskipun aku tidak memahaminya"
+    },
+    {
+      "segments": [
+        { "text": "キラキラ" },
+        { "text": "光", "ruby": "ひか" },
+        { "text": "る" },
+        { "text": "太", "ruby": "たい" },
+        { "text": "陽", "ruby": "よう" },
+        { "text": "が" }
+      ],
+      "translation": "Matahari yang bersinar terang dengan kilauannya"
+    },
+    {
+      "segments": [
+        { "text": "照", "ruby": "て" },
+        { "text": "らす" },
+        { "text": "場", "ruby": "ば" },
+        { "text": "所", "ruby": "しょ" },
+        { "text": "はどこに" }
+      ],
+      "translation": "Di manakah tempat yang disinarinya itu?"
+    },
+    {
+      "segments": [
+        { "text": "何", "ruby": "なに" },
+        { "text": "を" },
+        { "text": "始", "ruby": "はじ" },
+        { "text": "めようとしてる?" }
+      ],
+      "translation": "Apa yang sedang kau coba mulai?"
+    },
+    {
+      "segments": [{ "text": "I'm a dreamer" }],
+      "translation": "Aku adalah seorang pemimpi"
+    },
+    { "empty": true },
+    {
+      "segments": [
+        { "text": "もう" },
+        { "text": "言", "ruby": "こと" },
+        { "text": "葉", "ruby": "ば" },
+        { "text": "いらない" },
+        { "text": "世", "ruby": "せ" },
+        { "text": "界", "ruby": "かい" }
+      ],
+      "translation": "Dunia di mana kata-kata sudah tak lagi dibutuhkan"
+    },
+    {
+      "segments": [
+        { "text": "君", "ruby": "きみ" },
+        { "text": "と" },
+        { "text": "僕", "ruby": "ぼく" },
+        { "text": "の" },
+        { "text": "世", "ruby": "せ" },
+        { "text": "界", "ruby": "かい" }
+      ],
+      "translation": "Dunia milikku dan milikmu"
+    },
+    {
+      "segments": [
+        { "text": "今", "ruby": "いま" },
+        { "text": "が" },
+        { "text": "始", "ruby": "はじ" },
+        { "text": "まったのだろう" }
+      ],
+      "translation": "Kini telah dimulai, bukan?"
+    },
+    {
+      "segments": [{ "text": "わかりかけてる" }],
+      "translation": "Aku mulai memahaminya"
+    },
+    {
+      "segments": [
+        { "text": "未", "ruby": "み" },
+        { "text": "来", "ruby": "らい" },
+        { "text": "を" },
+        { "text": "探", "ruby": "さぐ" },
+        { "text": "る" },
+        { "text": "覚", "ruby": "かく" },
+        { "text": "悟", "ruby": "ご" },
+        { "text": "決", "ruby": "き" },
+        { "text": "めたとたん" }
+      ],
+      "translation": "Begitu aku menyiapkan diri untuk mencari tahu tentang masa depan"
+    },
+    {
+      "segments": [
+        { "text": "もっと" },
+        { "text": "変", "ruby": "か" },
+        { "text": "わる" }
+      ],
+      "translation": "Semuanya akan semakin berubah"
+    },
+    {
+      "segments": [
+        { "text": "永", "ruby": "えい" },
+        { "text": "遠", "ruby": "えん" },
+        { "text": "など" },
+        { "text": "知", "ruby": "し" },
+        { "text": "らないけれど" }
+      ],
+      "translation": "Meskipun aku tidak tahu-menahu tentang hal seperti keabadian"
+    }
+  ]
 }
