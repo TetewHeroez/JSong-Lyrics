@@ -1,0 +1,466 @@
+{
+    "title": "Sakuranbo",
+    "artist": "Ai Otsuka",
+    "lines": [
+        {
+            "segments": [
+                { "text": "愛", "ruby": "あい" },
+                { "text": "し", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "う", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": " ", "ruby": "" },
+                { "text": "幸", "ruby": "しあわ" },
+                { "text": "せの", "ruby": "" },
+                { "text": "空", "ruby": "そら" }
+            ],
+            "translation": "Dua orang yang saling mencintai, di langit kebahagiaan"
+        },
+        {
+            "segments": [
+                { "text": "隣", "ruby": "となり" },
+                { "text": "どおし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたとあたし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さくらんぼ", "ruby": "" }
+            ],
+            "translation": "Bersebelahan, kau dan aku, ceri (sakuranbo)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "手帳", "ruby": "てちょう" },
+                { "text": "開", "ruby": "ひら" },
+                { "text": "くと", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "もう", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "年", "ruby": "ねん" },
+                { "text": "たつなぁって", "ruby": "" }
+            ],
+            "translation": "Saat kubuka buku harian, sudah dua tahun berlalu ya"
+        },
+        {
+            "segments": [
+                { "text": "やっぱ", "ruby": "" },
+                { "text": "実感", "ruby": "じっかん" },
+                { "text": "するね", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "なんだか", "ruby": "" },
+                { "text": "照", "ruby": "て" },
+                { "text": "れたりするね", "ruby": "" }
+            ],
+            "translation": "Memang terasa nyata ya, rasanya agak malu-malu"
+        },
+        {
+            "segments": [
+                { "text": "そういや", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "ヒドイ コトもされたし", "ruby": "" }
+            ],
+            "translation": "Oh iya, aku juga pernah diperlakukan jahat sih"
+        },
+        {
+            "segments": [
+                { "text": "ヒドイ コトも", "ruby": "" },
+                { "text": "言", "ruby": "い" },
+                { "text": "ったし", "ruby": "" }
+            ],
+            "translation": "Dan aku juga pernah bilang hal-hal jahat"
+        },
+        {
+            "segments": [
+                { "text": "中実", "ruby": "ちゅうじつ" },
+                { "text": "がいっぱいつまった", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "甘", "ruby": "あま" },
+                { "text": "い", "ruby": "" },
+                { "text": "甘", "ruby": "あま" },
+                { "text": "いものです", "ruby": "" }
+            ],
+            "translation": "Penuh dengan isi yang bermakna, sesuatu yang sangat manis"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "泣", "ruby": "な" },
+                { "text": "き", "ruby": "" },
+                { "text": "泣", "ruby": "な" },
+                { "text": "きの", "ruby": "" },
+                { "text": "1", "ruby": "" },
+                { "text": "日", "ruby": "にち" },
+                { "text": "や", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "自転車", "ruby": "じてんしゃ" },
+                { "text": "の", "ruby": "" },
+                { "text": "旅", "ruby": "たび" },
+                { "text": "や", "ruby": "" }
+            ],
+            "translation": "Hari-hari menangis, perjalanan naik sepeda, dan lainnya"
+        },
+        {
+            "segments": [
+                { "text": "書", "ruby": "か" },
+                { "text": "きあらわせれない", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "だって", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "多", "ruby": "おお" },
+                { "text": "いんだもん！！", "ruby": "" }
+            ],
+            "translation": "Tak bisa ditulis semua, soalnya terlalu banyak!!"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "笑顔", "ruby": "えがお" },
+                { "text": "咲", "ruby": "さ" },
+                { "text": "ク", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "とつながってたい", "ruby": "" }
+            ],
+            "translation": "Senyum yang merekah, ingin selalu terhubung denganmu"
+        },
+        {
+            "segments": [
+                { "text": "もしあの", "ruby": "" },
+                { "text": "向", "ruby": "む" },
+                { "text": "こうにッ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "見", "ruby": "み" },
+                { "text": "えるものがあるなら", "ruby": "" }
+            ],
+            "translation": "Jika ada sesuatu yang terlihat di seberang sana"
+        },
+        {
+            "segments": [
+                { "text": "愛", "ruby": "あい" },
+                { "text": "し", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "う", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": " ", "ruby": "" },
+                { "text": "幸", "ruby": "しあわ" },
+                { "text": "せの", "ruby": "" },
+                { "text": "空", "ruby": "そら" }
+            ],
+            "translation": "Dua orang yang saling mencintai, di langit kebahagiaan"
+        },
+        {
+            "segments": [
+                { "text": "隣", "ruby": "となり" },
+                { "text": "どおし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたとあたし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さくらんぼ", "ruby": "" }
+            ],
+            "translation": "Bersebelahan, kau dan aku, ceri (sakuranbo)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "もらったものは", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "そう", "ruby": "" },
+                { "text": "愛", "ruby": "あい" },
+                { "text": "を", "ruby": "" },
+                { "text": "感", "ruby": "かん" },
+                { "text": "じ", "ruby": "" }
+            ],
+            "translation": "Yang aku terima, ya, adalah perasaan cinta"
+        },
+        {
+            "segments": [
+                { "text": "あげたものは", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "もちろん", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "全力", "ruby": "ぜんりょく" },
+                { "text": "の", "ruby": "" },
+                { "text": "愛", "ruby": "あい" },
+                { "text": "です", "ruby": "" }
+            ],
+            "translation": "Yang kuberikan, tentu saja, cinta sepenuh hati"
+        },
+        {
+            "segments": [
+                { "text": "やっぱいいもんだよね", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "共同", "ruby": "きょうどう" },
+                { "text": "作業", "ruby": "さぎょう" },
+                { "text": " ", "ruby": "" },
+                { "text": "罰", "ruby": "ばつ" },
+                { "text": "ゲーム", "ruby": "" }
+            ],
+            "translation": "Memang menyenangkan ya, kerja sama, hukuman permainan"
+        },
+        {
+            "segments": [
+                { "text": "思", "ruby": "おも" },
+                { "text": "いがけなく", "ruby": "" },
+                { "text": "歴史", "ruby": "れきし" },
+                { "text": "は", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さらに", "ruby": "" },
+                { "text": "深", "ruby": "ふか" },
+                { "text": "いけれど", "ruby": "" }
+            ],
+            "translation": "Tanpa diduga, sejarah kita semakin dalam"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "1つでも", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "欠", "ruby": "か" },
+                { "text": "けてたら", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "とんでもなく", "ruby": "" }
+            ],
+            "translation": "Satu saja kalau kurang, sangatlah"
+        },
+        {
+            "segments": [
+                { "text": "足", "ruby": "た" },
+                { "text": "りない", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "足", "ruby": "た" },
+                { "text": "りない！", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "足", "ruby": "た" },
+                { "text": "りない！！", "ruby": "" }
+            ],
+            "translation": "Tidak cukup, tidak cukup! Tidak cukup!!"
+        },
+        {
+            "segments": [
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": "の", "ruby": "" },
+                { "text": "絆", "ruby": "きずな" }
+            ],
+            "translation": "Ikatan kita berdua"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "笑顔", "ruby": "えがお" },
+                { "text": "咲", "ruby": "さ" },
+                { "text": "ク", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "抱", "ruby": "だ" },
+                { "text": "き", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "ってたい", "ruby": "" }
+            ],
+            "translation": "Senyum yang merekah, ingin berpelukan denganmu"
+        },
+        {
+            "segments": [
+                { "text": "もし", "ruby": "" },
+                { "text": "遠", "ruby": "とお" },
+                { "text": "い", "ruby": "" },
+                { "text": "未来", "ruby": "みらい" },
+                { "text": "を", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "予想", "ruby": "よそう" },
+                { "text": "するのなら", "ruby": "" }
+            ],
+            "translation": "Jika membayangkan masa depan yang jauh"
+        },
+        {
+            "segments": [
+                { "text": "愛", "ruby": "あい" },
+                { "text": "し", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "う", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": " ", "ruby": "" },
+                { "text": "いつの", "ruby": "" },
+                { "text": "時", "ruby": "とき" },
+                { "text": "も", "ruby": "" }
+            ],
+            "translation": "Dua orang yang saling mencintai, kapan pun juga"
+        },
+        {
+            "segments": [
+                { "text": "隣", "ruby": "となり" },
+                { "text": "どおし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたと", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あたし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さくらんぼ", "ruby": "" }
+            ],
+            "translation": "Bersebelahan, kau dan aku, ceri (sakuranbo)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "笑顔", "ruby": "えがお" },
+                { "text": "咲", "ruby": "さ" },
+                { "text": "ク", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "とつながってたい", "ruby": "" }
+            ],
+            "translation": "Senyum yang merekah, ingin selalu terhubung denganmu"
+        },
+        {
+            "segments": [
+                { "text": "もしあの", "ruby": "" },
+                { "text": "向", "ruby": "む" },
+                { "text": "こうにッ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "見", "ruby": "み" },
+                { "text": "えるものがあるなら", "ruby": "" }
+            ],
+            "translation": "Jika ada sesuatu yang terlihat di seberang sana"
+        },
+        {
+            "segments": [
+                { "text": "愛", "ruby": "あい" },
+                { "text": "し", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "う", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": " ", "ruby": "" },
+                { "text": "幸", "ruby": "しあわ" },
+                { "text": "せの", "ruby": "" },
+                { "text": "空", "ruby": "そら" }
+            ],
+            "translation": "Dua orang yang saling mencintai, di langit kebahagiaan"
+        },
+        {
+            "segments": [
+                { "text": "隣", "ruby": "となり" },
+                { "text": "どおし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたとあたし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さくらんぼ", "ruby": "" }
+            ],
+            "translation": "Bersebelahan, kau dan aku, ceri (sakuranbo)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "（もういっかい！！）", "ruby": "" }
+            ],
+            "translation": "(Sekali lagi!!)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "笑顔", "ruby": "えがお" },
+                { "text": "咲", "ruby": "さ" },
+                { "text": "ク", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "君", "ruby": "きみ" },
+                { "text": "と", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "抱", "ruby": "だ" },
+                { "text": "き", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "ってたい", "ruby": "" }
+            ],
+            "translation": "Senyum yang merekah, ingin berpelukan denganmu"
+        },
+        {
+            "segments": [
+                { "text": "もし", "ruby": "" },
+                { "text": "遠", "ruby": "とお" },
+                { "text": "い", "ruby": "" },
+                { "text": "未来", "ruby": "みらい" },
+                { "text": "を", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "予想", "ruby": "よそう" },
+                { "text": "するのなら", "ruby": "" }
+            ],
+            "translation": "Jika membayangkan masa depan yang jauh"
+        },
+        {
+            "segments": [
+                { "text": "愛", "ruby": "あい" },
+                { "text": "し", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "う", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": " ", "ruby": "" },
+                { "text": "いつの", "ruby": "" },
+                { "text": "時", "ruby": "とき" },
+                { "text": "も", "ruby": "" }
+            ],
+            "translation": "Dua orang yang saling mencintai, kapan pun juga"
+        },
+        {
+            "segments": [
+                { "text": "隣", "ruby": "となり" },
+                { "text": "どおし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたと", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あたし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さくらんぼ", "ruby": "" }
+            ],
+            "translation": "Bersebelahan, kau dan aku, ceri (sakuranbo)"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "愛", "ruby": "あい" },
+                { "text": "し", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "う", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": " ", "ruby": "" },
+                { "text": "いつの", "ruby": "" },
+                { "text": "時", "ruby": "とき" },
+                { "text": "も", "ruby": "" }
+            ],
+            "translation": "Dua orang yang saling mencintai, kapan pun juga"
+        },
+        {
+            "segments": [
+                { "text": "愛", "ruby": "あい" },
+                { "text": "し", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "う", "ruby": "" },
+                { "text": "2", "ruby": "" },
+                { "text": "人", "ruby": "り" },
+                { "text": " ", "ruby": "" },
+                { "text": "いつの", "ruby": "" },
+                { "text": "時", "ruby": "とき" },
+                { "text": "も", "ruby": "" }
+            ],
+            "translation": "Dua orang yang saling mencintai, kapan pun juga"
+        },
+        {
+            "segments": [
+                { "text": "隣", "ruby": "となり" },
+                { "text": "どおし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたと", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あたし", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "さくらんぼ", "ruby": "" }
+            ],
+            "translation": "Bersebelahan, kau dan aku, ceri (sakuranbo)"
+        }
+    ]
+}

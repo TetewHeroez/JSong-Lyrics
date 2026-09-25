@@ -190,5 +190,17 @@
             "releaseDate": "2018-05-09",
             "durationMs": 198000
         }
+    },
+    {
+        "id": "aiotsuka-sakuranbo",
+        "title": "Sakuranbo",
+        "artist": "Ai Otsuka",
+        "file": "songs/aiotsuka-sakuranbo.json",
+        "spotifyId": "2FcoVcNEWvxTwvhJVaMEFn",
+        "stats": {
+            "album": "LOVE PUNCH",
+            "releaseDate": "2004-03-03",
+            "durationMs": 269000
+        }
     }
 ]
