@@ -1,0 +1,412 @@
+{
+    "title": "Namae wo Yobu yo",
+    "artist": "Luck Life",
+    "lines": [
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "が", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "でいられる", "ruby": "" },
+                { "text": "理由", "ruby": "りゆう" },
+                { "text": "を", "ruby": "" },
+                { "text": "探", "ruby": "さが" },
+                { "text": "していた", "ruby": "" }
+            ],
+            "translation": "Aku mencari alasan agar aku bisa tetap menjadi diriku"
+        },
+        {
+            "segments": [
+                { "text": "あなたの", "ruby": "" },
+                { "text": "胸", "ruby": "むね" },
+                { "text": "の", "ruby": "" },
+                { "text": "中", "ruby": "なか" },
+                { "text": "で", "ruby": "" },
+                { "text": "生", "ruby": "い" },
+                { "text": "きている", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "がいるのならば", "ruby": "" }
+            ],
+            "translation": "Jika ada diriku yang hidup di dalam hatimu"
+        },
+        {
+            "segments": [
+                { "text": "暗闇", "ruby": "くらやみ" },
+                { "text": "も", "ruby": "" },
+                { "text": "長", "ruby": "なが" },
+                { "text": "い", "ruby": "" },
+                { "text": "坂道", "ruby": "さかみち" },
+                { "text": "も", "ruby": "" },
+                { "text": "越", "ruby": "こ" },
+                { "text": "えて", "ruby": "" },
+                { "text": "行", "ruby": "い" },
+                { "text": "けるような", "ruby": "" }
+            ],
+            "translation": "Melewati kegelapan dan jalan menanjak yang panjang"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "になれるはず", "ruby": "" }
+            ],
+            "translation": "Seharusnya aku bisa menjadi seperti itu"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "それぞれに", "ruby": "" },
+                { "text": "今", "ruby": "いま" },
+                { "text": "を", "ruby": "" },
+                { "text": "歩", "ruby": "ある" },
+                { "text": "いてる", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らが", "ruby": "" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "えるように", "ruby": "" }
+            ],
+            "translation": "Agar kita yang masing-masing menjalani hari ini bisa tersenyum"
+        },
+        {
+            "segments": [
+                { "text": "生", "ruby": "い" },
+                { "text": "きている", "ruby": "" },
+                { "text": "意味", "ruby": "いみ" },
+                { "text": "を", "ruby": "" },
+                { "text": "確", "ruby": "たし" },
+                { "text": "かめ", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "いながら", "ruby": "" },
+                { "text": "進", "ruby": "すす" },
+                { "text": "めるように", "ruby": "" }
+            ],
+            "translation": "Agar kita bisa melangkah sambil saling memastikan makna hidup"
+        },
+        {
+            "segments": [
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "ぶよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたの", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" }
+            ],
+            "translation": "Aku akan memanggil namamu, namamu"
+        },
+        {
+            "segments": [
+                { "text": "あなたがあなたでいれるように", "ruby": "" }
+            ],
+            "translation": "Agar kau bisa tetap menjadi dirimu"
+        },
+        {
+            "segments": [
+                { "text": "悲", "ruby": "かな" },
+                { "text": "しみに", "ruby": "" },
+                { "text": "暮", "ruby": "く" },
+                { "text": "れてあなたの", "ruby": "" },
+                { "text": "涙", "ruby": "なみだ" },
+                { "text": "がこぼれる", "ruby": "" },
+                { "text": "時", "ruby": "とき" }
+            ],
+            "translation": "Saat kau tenggelam dalam kesedihan dan air matamu menetes"
+        },
+        {
+            "segments": [
+                { "text": "寂", "ruby": "さび" },
+                { "text": "しさに", "ruby": "" },
+                { "text": "溢", "ruby": "あふ" },
+                { "text": "れて", "ruby": "" },
+                { "text": "心", "ruby": "こころ" },
+                { "text": "がしぼんでく", "ruby": "" },
+                { "text": "時", "ruby": "とき" }
+            ],
+            "translation": "Saat rasa sepi meluap dan hatimu menyusut"
+        },
+        {
+            "segments": [
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "ぶよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたの", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" }
+            ],
+            "translation": "Aku akan memanggil namamu, namamu"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "の", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "んでくれたみたいに", "ruby": "" }
+            ],
+            "translation": "Seperti saat kau memanggil namaku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "深", "ruby": "ふか" },
+                { "text": "く", "ruby": "" },
+                { "text": "息", "ruby": "いき" },
+                { "text": "を", "ruby": "" },
+                { "text": "吸", "ruby": "す" },
+                { "text": "い", "ruby": "" },
+                { "text": "込", "ruby": "こ" },
+                { "text": "む", "ruby": "" }
+            ],
+            "translation": "Menarik napas dalam-dalam"
+        },
+        {
+            "segments": [
+                { "text": "飲", "ruby": "の" },
+                { "text": "み", "ruby": "" },
+                { "text": "込", "ruby": "こ" },
+                { "text": "んで", "ruby": "" },
+                { "text": "空", "ruby": "そら" },
+                { "text": "に", "ruby": "" },
+                { "text": "放", "ruby": "はな" },
+                { "text": "つ", "ruby": "" }
+            ],
+            "translation": "Menelannya lalu melepaskannya ke langit"
+        },
+        {
+            "segments": [
+                { "text": "誰", "ruby": "だれ" },
+                { "text": "もが", "ruby": "" },
+                { "text": "幸", "ruby": "しあわ" },
+                { "text": "せになれる", "ruby": "" }
+            ],
+            "translation": "Semua orang bisa menjadi bahagia"
+        },
+        {
+            "segments": [
+                { "text": "信", "ruby": "しん" },
+                { "text": "じてもいいかな", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "にだって", "ruby": "" }
+            ],
+            "translation": "Bolehkah aku percaya, bahwa aku pun juga"
+        },
+        {
+            "segments": [
+                { "text": "眩", "ruby": "まぶ" },
+                { "text": "しいくらいの", "ruby": "" },
+                { "text": "未来", "ruby": "みらい" },
+                { "text": "がこの", "ruby": "" },
+                { "text": "先", "ruby": "さき" },
+                { "text": "に", "ruby": "" },
+                { "text": "待", "ruby": "ま" },
+                { "text": "っていても", "ruby": "" }
+            ],
+            "translation": "Meskipun masa depan yang menyilaukan menunggu di depan sana"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "一人", "ruby": "ひとり" },
+                { "text": "きりで", "ruby": "" },
+                { "text": "迎", "ruby": "むか" },
+                { "text": "えてもなんの", "ruby": "" },
+                { "text": "意味", "ruby": "いみ" },
+                { "text": "もないの", "ruby": "" }
+            ],
+            "translation": "Tidak ada artinya jika aku menyambutnya sendirian"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "叫", "ruby": "さけ" },
+                { "text": "ぶよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "の", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" }
+            ],
+            "translation": "Aku meneriakkan namaku, namaku"
+        },
+        {
+            "segments": [
+                { "text": "今", "ruby": "いま" },
+                { "text": "でもここにいるよ", "ruby": "" },
+                { "text": "聞", "ruby": "き" },
+                { "text": "こえてるかな", "ruby": "" }
+            ],
+            "translation": "Aku masih di sini, apa kau bisa mendengarnya?"
+        },
+        {
+            "segments": [
+                { "text": "『いなくてもいいか』", "ruby": "" }
+            ],
+            "translation": "'Tak apa-apa meski aku tak ada'"
+        },
+        {
+            "segments": [
+                { "text": "一人", "ruby": "ひとり" },
+                { "text": "呟", "ruby": "つぶや" },
+                { "text": "いて", "ruby": "" },
+                { "text": "空", "ruby": "そら" },
+                { "text": "を", "ruby": "" },
+                { "text": "見上", "ruby": "みあ" },
+                { "text": "げてた", "ruby": "" }
+            ],
+            "translation": "Sendirian bergumam sambil memandangi langit"
+        },
+        {
+            "segments": [
+                { "text": "風", "ruby": "かぜ" },
+                { "text": "に", "ruby": "" },
+                { "text": "紛", "ruby": "まぎ" },
+                { "text": "れて", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "どこからか", "ruby": "" },
+                { "text": "聞", "ruby": "き" },
+                { "text": "こえた", "ruby": "" }
+            ],
+            "translation": "Terdengar dari suatu tempat, berbaur bersama angin"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "の", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" }
+            ],
+            "translation": "Namaku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "が", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "でいれるように", "ruby": "" },
+                { "text": "貰", "ruby": "もら" },
+                { "text": "ったモノ", "ruby": "" }
+            ],
+            "translation": "Hal yang kuterima agar aku bisa menjadi diriku"
+        },
+        {
+            "segments": [
+                { "text": "それぞれに", "ruby": "" },
+                { "text": "今", "ruby": "いま" },
+                { "text": "を", "ruby": "" },
+                { "text": "歩", "ruby": "ある" },
+                { "text": "いてる", "ruby": "" },
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "らが", "ruby": "" },
+                { "text": "笑", "ruby": "わら" },
+                { "text": "えるように", "ruby": "" }
+            ],
+            "translation": "Agar kita yang masing-masing menjalani hari ini bisa tersenyum"
+        },
+        {
+            "segments": [
+                { "text": "生", "ruby": "い" },
+                { "text": "きている", "ruby": "" },
+                { "text": "意味", "ruby": "いみ" },
+                { "text": "を", "ruby": "" },
+                { "text": "確", "ruby": "たし" },
+                { "text": "かめ", "ruby": "" },
+                { "text": "合", "ruby": "あ" },
+                { "text": "いながら", "ruby": "" },
+                { "text": "進", "ruby": "すす" },
+                { "text": "めるように", "ruby": "" }
+            ],
+            "translation": "Agar kita bisa melangkah sambil saling memastikan makna hidup"
+        },
+        {
+            "segments": [
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "ぶよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたの", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" }
+            ],
+            "translation": "Aku akan memanggil namamu, namamu"
+        },
+        {
+            "segments": [
+                { "text": "あなたがあなたでいれるように", "ruby": "" }
+            ],
+            "translation": "Agar kau bisa tetap menjadi dirimu"
+        },
+        {
+            "segments": [
+                { "text": "悲", "ruby": "かな" },
+                { "text": "しみに", "ruby": "" },
+                { "text": "暮", "ruby": "く" },
+                { "text": "れてあなたの", "ruby": "" },
+                { "text": "涙", "ruby": "なみだ" },
+                { "text": "がこぼれる", "ruby": "" },
+                { "text": "時", "ruby": "とき" }
+            ],
+            "translation": "Saat kau tenggelam dalam kesedihan dan air matamu menetes"
+        },
+        {
+            "segments": [
+                { "text": "寂", "ruby": "さび" },
+                { "text": "しさに", "ruby": "" },
+                { "text": "溢", "ruby": "あふ" },
+                { "text": "れて", "ruby": "" },
+                { "text": "心", "ruby": "こころ" },
+                { "text": "がしぼんでく", "ruby": "" },
+                { "text": "時", "ruby": "とき" }
+            ],
+            "translation": "Saat rasa sepi meluap dan hatimu menyusut"
+        },
+        {
+            "segments": [
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "ぶよ", "ruby": "" },
+                { "text": " ", "ruby": "" },
+                { "text": "あなたの", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" }
+            ],
+            "translation": "Aku akan memanggil namamu, namamu"
+        },
+        {
+            "segments": [
+                { "text": "僕", "ruby": "ぼく" },
+                { "text": "の", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "んでくれたみたいに", "ruby": "" }
+            ],
+            "translation": "Seperti saat kau memanggil namaku"
+        },
+        { "empty": true },
+        {
+            "segments": [
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" },
+                { "text": "呼", "ruby": "よ" },
+                { "text": "ぶよ", "ruby": "" }
+            ],
+            "translation": "Aku akan memanggil namamu"
+        },
+        {
+            "segments": [
+                { "text": "あなたの", "ruby": "" },
+                { "text": "名前", "ruby": "なまえ" },
+                { "text": "を", "ruby": "" }
+            ],
+            "translation": "Namamu"
+        }
+    ]
+}
